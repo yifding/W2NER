@@ -1,5 +1,8 @@
+import os
 import argparse
 
+
+from tqdm import tqdm
 import numpy as np
 import prettytable as pt
 import torch
@@ -46,7 +49,7 @@ class Trainer(object):
         pred_result = []
         label_result = []
 
-        for i, data_batch in enumerate(data_loader):
+        for i, data_batch in enumerate(tqdm(data_loader)):
             data_batch = [data.cuda() for data in data_batch[:-1]]
 
             bert_inputs, grid_labels, grid_mask2d, pieces2word, dist_inputs, sent_length = data_batch
@@ -179,7 +182,12 @@ if __name__ == '__main__':
 
     parser.add_argument('--seed', type=int)
 
+    # **YD** add model_dir and dataset_dir to store/load model and load dataset
+    parser.add_argument('--model_dir', type=str, required=True)
+    parser.add_argument('--dataset_dir', type=str, required=True)
+
     args = parser.parse_args()
+    os.makedirs(args.model_dir, exist_ok=True)
 
     config = config.Config(args)
 
@@ -198,7 +206,7 @@ if __name__ == '__main__':
     # torch.backends.cudnn.deterministic = True
 
     logger.info("Loading Data")
-    datasets = data_loader.load_data_bert(config)
+    datasets = data_loader.load_data_bert(args.dataset_dir, config)
 
     train_loader, dev_loader, test_loader = (
         DataLoader(dataset=dataset,
@@ -219,18 +227,19 @@ if __name__ == '__main__':
 
     trainer = Trainer(model)
 
-    best_f1 = 0
-    best_test_f1 = 0
+    best_f1 = -1
+    best_test_f1 = -1
     for i in range(config.epochs):
         logger.info("Epoch: {}".format(i))
         trainer.train(i, train_loader)
         f1 = trainer.eval(i, dev_loader)
         test_f1 = trainer.eval(i, test_loader, is_test=True)
+        trainer.save(os.path.join(args.model_dir, f"epoch-{i}.pt"))
         if f1 > best_f1:
             best_f1 = f1
             best_test_f1 = test_f1
-            trainer.save("model.pt")
+            trainer.save(os.path.join(args.model_dir,"model.pt"))
     logger.info("Best DEV F1: {:3.4f}".format(best_f1))
     logger.info("Best TEST F1: {:3.4f}".format(best_test_f1))
-    trainer.load("model.pt")
+    trainer.load(os.path.join(args.model_dir,"model.pt"))
     trainer.eval("Final", test_loader, True)

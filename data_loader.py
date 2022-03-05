@@ -1,7 +1,9 @@
 import json
+import jsonlines
 import torch
 from torch.utils.data import Dataset
 from torch.nn.utils.rnn import pad_sequence
+from tqdm import tqdm
 import numpy as np
 import prettytable as pt
 from gensim.models import KeyedVectors
@@ -105,7 +107,7 @@ def process_bert(data, tokenizer, vocab):
     entity_text = []
     pieces2word = []
     sent_length = []
-    for index, instance in enumerate(data):
+    for index, instance in enumerate(tqdm(data)):
         if len(instance['sentence']) == 0:
             continue
 
@@ -172,13 +174,13 @@ def fill_vocab(vocab, dataset):
     return entity_num
 
 
-def load_data_bert(config):
-    with open('./data/{}/train.json'.format(config.dataset), 'r', encoding='utf-8') as f:
-        train_data = json.load(f)
-    with open('./data/{}/dev.json'.format(config.dataset), 'r', encoding='utf-8') as f:
-        dev_data = json.load(f)
-    with open('./data/{}/test.json'.format(config.dataset), 'r', encoding='utf-8') as f:
-        test_data = json.load(f)
+def load_data_bert(dataset_dir, config):
+    with jsonlines.open(f'{dataset_dir}/train.json', 'r') as f:
+        train_data = [line for line in f]
+    with jsonlines.open(f'{dataset_dir}/dev.json', 'r') as f:
+        dev_data = [line for line in f]
+    with jsonlines.open(f'{dataset_dir}/test.json', 'r') as f:
+        test_data = [line for line in f]
 
     tokenizer = AutoTokenizer.from_pretrained(config.bert_name, cache_dir="./cache/")
 
