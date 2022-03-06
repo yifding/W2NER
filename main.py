@@ -56,37 +56,38 @@ class Trainer(object):
 
             outputs = model(bert_inputs, grid_mask2d, dist_inputs, pieces2word, sent_length)
 
-            grid_mask2d = grid_mask2d.clone()
             loss = self.criterion(outputs[grid_mask2d], grid_labels[grid_mask2d])
+            # grid_mask2d = grid_mask2d.clone()
 
             loss.backward()
             torch.nn.utils.clip_grad_norm_(self.model.parameters(), config.clip_grad_norm)
             self.optimizer.step()
             self.optimizer.zero_grad()
 
-            loss_list.append(loss.cpu().item())
-
-            outputs = torch.argmax(outputs, -1)
-            grid_labels = grid_labels[grid_mask2d].contiguous().view(-1)
-            outputs = outputs[grid_mask2d].contiguous().view(-1)
-
-            label_result.append(grid_labels)
-            pred_result.append(outputs)
+            # loss_list.append(loss.cpu().item())
+            #
+            # outputs = torch.argmax(outputs, -1)
+            # grid_labels = grid_labels[grid_mask2d].contiguous().view(-1).cpu()
+            # outputs = outputs[grid_mask2d].contiguous().view(-1).cpu()
+            #
+            # label_result.append(grid_labels)
+            # pred_result.append(outputs)
 
             self.scheduler.step()
 
-        label_result = torch.cat(label_result)
-        pred_result = torch.cat(pred_result)
-
-        p, r, f1, _ = precision_recall_fscore_support(label_result.cpu().numpy(),
-                                                      pred_result.cpu().numpy(),
-                                                      average="macro")
-
-        table = pt.PrettyTable(["Train {}".format(epoch), "Loss", "F1", "Precision", "Recall"])
-        table.add_row(["Label", "{:.4f}".format(np.mean(loss_list))] +
-                      ["{:3.4f}".format(x) for x in [f1, p, r]])
-        logger.info("\n{}".format(table))
-        return f1
+        # label_result = torch.cat(label_result)
+        # pred_result = torch.cat(pred_result)
+        #
+        # p, r, f1, _ = precision_recall_fscore_support(label_result.cpu().numpy(),
+        #                                               pred_result.cpu().numpy(),
+        #                                               average="macro")
+        #
+        # table = pt.PrettyTable(["Train {}".format(epoch), "Loss", "F1", "Precision", "Recall"])
+        # table.add_row(["Label", "{:.4f}".format(np.mean(loss_list))] +
+        #               ["{:3.4f}".format(x) for x in [f1, p, r]])
+        # logger.info("\n{}".format(table))
+        # return f1
+        return 0
 
     def eval(self, epoch, data_loader, is_test=False):
         self.model.eval()
@@ -106,7 +107,7 @@ class Trainer(object):
                 outputs = model(bert_inputs, grid_mask2d, dist_inputs, pieces2word, sent_length)
                 length = sent_length
 
-                grid_mask2d = grid_mask2d.clone()
+                grid_mask2d = grid_mask2d.clone().cpu()
 
                 outputs = torch.argmax(outputs, -1)
                 ent_c, ent_p, ent_r = utils.decode(outputs.cpu().numpy(), entity_text, length.cpu().numpy())
@@ -115,8 +116,8 @@ class Trainer(object):
                 total_ent_p += ent_p
                 total_ent_c += ent_c
 
-                grid_labels = grid_labels[grid_mask2d].contiguous().view(-1)
-                outputs = outputs[grid_mask2d].contiguous().view(-1)
+                grid_labels = grid_labels[grid_mask2d].contiguous().view(-1).cpu()
+                outputs = outputs[grid_mask2d].contiguous().view(-1).cpu()
 
                 label_result.append(grid_labels)
                 pred_result.append(outputs)
@@ -232,14 +233,14 @@ if __name__ == '__main__':
     for i in range(config.epochs):
         logger.info("Epoch: {}".format(i))
         trainer.train(i, train_loader)
-        f1 = trainer.eval(i, dev_loader)
-        test_f1 = trainer.eval(i, test_loader, is_test=True)
+        # f1 = trainer.eval(i, dev_loader)
+        # test_f1 = trainer.eval(i, test_loader, is_test=True)
         trainer.save(os.path.join(args.model_dir, f"epoch-{i}.pt"))
-        if f1 > best_f1:
-            best_f1 = f1
-            best_test_f1 = test_f1
-            trainer.save(os.path.join(args.model_dir,"model.pt"))
-    logger.info("Best DEV F1: {:3.4f}".format(best_f1))
-    logger.info("Best TEST F1: {:3.4f}".format(best_test_f1))
-    trainer.load(os.path.join(args.model_dir,"model.pt"))
-    trainer.eval("Final", test_loader, True)
+        # if f1 > best_f1:
+        #     best_f1 = f1
+        #     best_test_f1 = test_f1
+        #     trainer.save(os.path.join(args.model_dir,"model.pt"))
+    # logger.info("Best DEV F1: {:3.4f}".format(best_f1))
+    # logger.info("Best TEST F1: {:3.4f}".format(best_test_f1))
+    # trainer.load(os.path.join(args.model_dir,"model.pt"))
+    # trainer.eval("Final", test_loader, True)

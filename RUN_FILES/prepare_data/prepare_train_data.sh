@@ -11,11 +11,11 @@ export LD_LIBRARY_PATH=/nfs/yding4/conda_envs/W2NER/lib:$LD_LIBRARY_PATH
 
 CODE=/nfs/yding4/AVE_project/W2NER/RUN_FILES/prepare_data/prepare_train_data.py
 
-INPUT_INSTANCE_FILE=/nfs/yding4/AVE_project/consumable/title_bullet/33att/sample_data_1/pos_sample.train
+INPUT_INSTANCE_FILE=/nfs/yding4/AVE_project/consumable/title_bullet/33att/sample_data_1/pos_sample.train.test
 OUTPUT_DIR=/nfs/yding4/AVE_project/W2NER/RUN_FILES/prepare_data/33att
-OUTPUT_FILE=train.json
+OUTPUT_FILE=true-train.json
 MAX_SPAN_LENGTH=5
-MAX_SEQ_LENGTH=200
+MAX_SEQ_LENGTH=100
 ATT_LIST="['ActiveIngredients','AgeRangeDescription','BatteryCellComposition','Brand','CaffeineContent','CapacityUnit','CoffeeRoastType','Color','DietType','DosageForm','EnergyUnit','FinishType','Flavor','FormulationType','HairType','Ingredients','ItemForm','ItemShape','LiquidContentsDescription','Material','MaterialFeature','MaterialTypeFree','PackageSizeName','Pattern','PatternType','ProductBenefit','Scent','SkinTone','SkinType','SpecialIngredients','TargetGender','TeaVariety','Variety']"
 
 /nfs/yding4/conda_envs/W2NER/bin/python ${CODE}   \
