@@ -31,6 +31,7 @@ def process_instance(instance, att_list, max_span_length=5, max_seq_length=300):
                 }
                 gt_spans.append(gt_span)
 
+    gt_spans = sorted(gt_spans, key=lambda x: (x["index"][0], len(x["index"])))
     re_instance = {
         "asin": asin,
         "product_type": product_type,
