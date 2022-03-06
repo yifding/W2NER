@@ -1,0 +1,374 @@
+{"asin": "B00CE4CRG0", "attribute": "Variety", "product_type": "drink_flavored", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B08JRY97MN", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": [""]}
+{"asin": "B07BY9BH5V", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["energy bar"], "pred_result": [""]}
+{"asin": "B07Y7H3FHB", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": [""]}
+{"asin": "B07GCH9WJV", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": ["", "", ""]}
+{"asin": "B00EJA4RM4", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": [""]}
+{"asin": "B089ZQXRK3", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": [""]}
+{"asin": "B01D157TPY", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": ["", ""]}
+{"asin": "B073SW265Q", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["snack bar"], "pred_result": ["", "", ""]}
+{"asin": "B01N4KW25F", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": []}
+{"asin": "B01MCRFRG3", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0050MM18M", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["energy bar"], "pred_result": ["", "", ""]}
+{"asin": "B07KBCPX97", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": ["", "", ""]}
+{"asin": "B07G3D6D22", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B073VMPDWH", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["fig bars"], "pred_result": ["", ""]}
+{"asin": "B07BKBNC56", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["granola bars"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B083F56KLS", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["breakfast bar"], "pred_result": ["", "", ""]}
+{"asin": "B071RF91QK", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": [""]}
+{"asin": "B007I6RVHY", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["meal bar"], "pred_result": [""]}
+{"asin": "B082YHD6YY", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["keto bar", "breakfast bar"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B084LNFTXY", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": [""]}
+{"asin": "B084R2JF45", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["energy bar"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B0883DBKG9", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["keto bar"], "pred_result": []}
+{"asin": "B07RRYDH52", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["crunch bars"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00EJA58RW", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": ["", "", ""]}
+{"asin": "B06XJTCM38", "attribute": "Variety", "product_type": "snack_food_bar", "gt_result": ["protein bar"], "pred_result": ["", ""]}
+{"asin": "B00H8RGGN8", "attribute": "Variety", "product_type": "snack_mix", "gt_result": ["peanuts", "dried cherries", "almonds", "cashews"], "pred_result": []}
+{"asin": "B00TL4MTBO", "attribute": "Variety", "product_type": "sugar", "gt_result": ["maple sugar"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B083JFF8GN", "attribute": "Variety", "product_type": "sugar", "gt_result": [], "pred_result": [""]}
+{"asin": "B07K61FLF3", "attribute": "Variety", "product_type": "sugar", "gt_result": ["cane sugar", "turbinado sugar"], "pred_result": ["", "", ""]}
+{"asin": "B07GLVBS1P", "attribute": "Variety", "product_type": "sugar", "gt_result": ["sanding sugar"], "pred_result": [""]}
+{"asin": "B07D23G7TP", "attribute": "Variety", "product_type": "sugar", "gt_result": ["coconut sugar"], "pred_result": [""]}
+{"asin": "B07H3RSTQM", "attribute": "Variety", "product_type": "sugar", "gt_result": [], "pred_result": ["", "", "", ""]}
+{"asin": "B07TSFVSFL", "attribute": "Variety", "product_type": "sugar", "gt_result": [], "pred_result": [""]}
+{"asin": "B07BHZDSBN", "attribute": "Variety", "product_type": "sugar", "gt_result": ["cane sugar"], "pred_result": []}
+{"asin": "B0852WHDJB", "attribute": "Variety", "product_type": "sugar", "gt_result": ["unicorn sugar"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B089WGWG2X", "attribute": "Variety", "product_type": "sugar", "gt_result": ["demerara sugar"], "pred_result": []}
+{"asin": "B083JHDRHB", "attribute": "Variety", "product_type": "sugar", "gt_result": [], "pred_result": [""]}
+{"asin": "B089PV14KC", "attribute": "Variety", "product_type": "sugar", "gt_result": ["dark brown sugar"], "pred_result": [""]}
+{"asin": "B079CPN1L7", "attribute": "Variety", "product_type": "sugar", "gt_result": ["turbinado sugar"], "pred_result": [""]}
+{"asin": "B076FZ6DPH", "attribute": "Variety", "product_type": "sugar", "gt_result": ["coconut sugar"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07YYHKRRL", "attribute": "Variety", "product_type": "sugar", "gt_result": ["coconut sugar"], "pred_result": [""]}
+{"asin": "B07FY15WZX", "attribute": "Variety", "product_type": "sugar", "gt_result": ["gourmet sugar"], "pred_result": []}
+{"asin": "B01D0HH8Q8", "attribute": "Variety", "product_type": "sugar", "gt_result": ["white sugar"], "pred_result": ["", ""]}
+{"asin": "B000EA2D9W", "attribute": "Variety", "product_type": "sugar", "gt_result": ["muscovado sugar"], "pred_result": ["", "", "", ""]}
+{"asin": "B08J4J3W8Y", "attribute": "Variety", "product_type": "sugar", "gt_result": ["vanilla sugar"], "pred_result": [""]}
+{"asin": "B00ILUB5UA", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01LVTKFQZ", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", ""]}
+{"asin": "B07QKD7WBK", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["corn starch"], "pred_result": ["", "", "", ""]}
+{"asin": "B0843MMQC3", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["corn starch"], "pred_result": ["", "", ""]}
+{"asin": "B07RHWRMPQ", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["arrowroot"], "pred_result": [""]}
+{"asin": "B085LQ69C1", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["corn starch"], "pred_result": ["", ""]}
+{"asin": "B07L3TWR73", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", ""]}
+{"asin": "B004H1DYJC", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["kappa carrageenan"], "pred_result": ["", "", "", ""]}
+{"asin": "B00U9W325E", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", ""]}
+{"asin": "B00CGNGQXE", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B075CS9WPT", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["custard"], "pred_result": [""]}
+{"asin": "B08BZVHC4Y", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["tapioca flour starch"], "pred_result": ["", "", ""]}
+{"asin": "B004YKZRP0", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": []}
+{"asin": "B00MFC5P4M", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["corn starch"], "pred_result": ["", "", ""]}
+{"asin": "B00EJLJZNY", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B07QKDTCPT", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": [""]}
+{"asin": "B07J2QHJRX", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["sagu"], "pred_result": [""]}
+{"asin": "B00NGTRNHU", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": [""]}
+{"asin": "B07X5MJG7N", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["sodium citrate"], "pred_result": ["", ""]}
+{"asin": "B01GN1XZQK", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["pectin"], "pred_result": ["", ""]}
+{"asin": "B00BCMU7T4", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B07SBWXLYW", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["corn starch"], "pred_result": [""]}
+{"asin": "B079CQ77TY", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["baking powder"], "pred_result": [""]}
+{"asin": "B07YN5CTGL", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B01FSOBTYI", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", ""]}
+{"asin": "B001UOW7D8", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", ""]}
+{"asin": "B077BR2JF7", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["tapioca starch"], "pred_result": [""]}
+{"asin": "B0045DMLXM", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["corn starch"], "pred_result": [""]}
+{"asin": "B07L149KDQ", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["xanthan gum"], "pred_result": ["", ""]}
+{"asin": "B000E1FYL0", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", "", ""]}
+{"asin": "B07H7S4K5G", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["tapioca starch"], "pred_result": ["", "", ""]}
+{"asin": "B06Y3R92Z9", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", ""]}
+{"asin": "B08D63YFZ3", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["pectin"], "pred_result": [""]}
+{"asin": "B00G4U6MHK", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", ""]}
+{"asin": "B0000KC2DS", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["corn starch"], "pred_result": [""]}
+{"asin": "B08HDPK5MZ", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", ""]}
+{"asin": "B00HZ2WVVW", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["pectin"], "pred_result": []}
+{"asin": "B0000D94XX", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": [""]}
+{"asin": "B004B9MUT0", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B015NIHS12", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["xanthan gum"], "pred_result": ["", ""]}
+{"asin": "B078T41NN7", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["xanthan gum"], "pred_result": ["", "", ""]}
+{"asin": "B01INL66VY", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": [""]}
+{"asin": "B08DMZ3HR9", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["sour starch"], "pred_result": [""]}
+{"asin": "B084ZCRJM5", "attribute": "Variety", "product_type": "thickening_agent", "gt_result": ["gelatin"], "pred_result": [""]}
+{"asin": "B07JK7L6V3", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B079VP1X1D", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B07NVZ3847", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", ""]}
+{"asin": "B00CXB8D8K", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00SAX0NZ6", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "mineral"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B001HTJ0IQ", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": []}
+{"asin": "B0814BBV3W", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", "", ""]}
+{"asin": "B07PB5K2S8", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", ""]}
+{"asin": "B00851GRW6", "attribute": "Variety", "product_type": "water", "gt_result": ["vitamin enhanced", "purified", "sparkling"], "pred_result": ["", ""]}
+{"asin": "B078NDPNX5", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B071KTZJ3N", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B0013T5YO4", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", "", ""]}
+{"asin": "B078NFL21H", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B07BJ1WLRG", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B084SBT425", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B07M84H391", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B006ONMJJW", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": []}
+{"asin": "B00AYH59G4", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", "", ""]}
+{"asin": "B07QSWNBSW", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", ""]}
+{"asin": "B07DD4DFS8", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": ["", ""]}
+{"asin": "B0781B9YVJ", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B00KPVJYME", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", ""]}
+{"asin": "B01MYGL4D9", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", ""]}
+{"asin": "B07NBVP96N", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": []}
+{"asin": "B0792J88LR", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B07KGSLNTW", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B0787FVBBP", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B01KCNJFE6", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B06ZYQLQ8T", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B015SAUDK8", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", ""]}
+{"asin": "B007CJZOR6", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": [""]}
+{"asin": "B0713M4KMR", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", ""]}
+{"asin": "B000WGBH36", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", "", ""]}
+{"asin": "B078ZVL3V9", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B00061CAPG", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", "", ""]}
+{"asin": "B07YNVP1KD", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": ["", ""]}
+{"asin": "B004748F2A", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian", "alkaline"], "pred_result": []}
+{"asin": "B0078DR136", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B000WG9JAE", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07J1SYGTL", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": [""]}
+{"asin": "B07PCF1MYQ", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced", "antioxidant"], "pred_result": ["", "", ""]}
+{"asin": "B078ZW6RXK", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B078ZVMMF9", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B077W8NB3V", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B07P97J141", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": ["", ""]}
+{"asin": "B084SC4DHH", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B075SM1XDS", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": [""]}
+{"asin": "B001RA0NV8", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01N4G7R37", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": ["", ""]}
+{"asin": "B01LWSTOGR", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": [""]}
+{"asin": "B074XZQWH6", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B07NRVZ7NN", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B084NSSM6B", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B000R6QREU", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", ""]}
+{"asin": "B00MIK1UFO", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B00EQD5W1E", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B0786W6T9M", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "sparkling"], "pred_result": ["", ""]}
+{"asin": "B00I7HZMJW", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B07V43XKBD", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": [""]}
+{"asin": "B07C1YFV6X", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", "", ""]}
+{"asin": "B0735VHDCV", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B009ZCR994", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07B6J9378", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B086GL56F8", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B00F1HUUAM", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", "", ""]}
+{"asin": "B002YZXRT0", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": [""]}
+{"asin": "B003G89ZJ0", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": []}
+{"asin": "B004CQRG0A", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", ""]}
+{"asin": "B0731NXY8Z", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": [""]}
+{"asin": "B00F3D0S7Y", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": [""]}
+{"asin": "B083CHH3Q9", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B0136MFJF4", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B077VZ7F67", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B000R6QRF4", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", ""]}
+{"asin": "B00GM0XTEQ", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", ""]}
+{"asin": "B000R6QAF6", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B07YBQXXPB", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07MC5R98W", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07JHB6TTQ", "attribute": "Variety", "product_type": "water", "gt_result": ["tonic"], "pred_result": ["", ""]}
+{"asin": "B014C7BC9E", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", "", ""]}
+{"asin": "B07KGQPM17", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B07P97JG6V", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": [""]}
+{"asin": "B00PUY2K40", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": [""]}
+{"asin": "B07WVNCCFM", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B07NC9GHM7", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B0043E6P58", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B003G89Z9U", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": ["", ""]}
+{"asin": "B078HN77N2", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B076DMKGNX", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", ""]}
+{"asin": "B07TDZHM6R", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B085MP97FP", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B01LYTQTOD", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B00ENXM5DU", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B003Q4TS78", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", ""]}
+{"asin": "B078HSY2K4", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07NR85MR5", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B078HRD4VB", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07CYYFKZH", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B07Y5TYNF2", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": [""]}
+{"asin": "B00T4G1WLC", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B07PBCTF7J", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": ["", ""]}
+{"asin": "B078HQFFHV", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B01M30LPUD", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": []}
+{"asin": "B011XLVPUI", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B078ZVMH5L", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B00XUYBGC4", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", "", "", ""]}
+{"asin": "B07W4M9MPL", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": [""]}
+{"asin": "B08FW6G7KX", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B078NBYXCX", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00267A3AC", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B004748SUY", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": []}
+{"asin": "B07PM1YFY7", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": ["", "", ""]}
+{"asin": "B0875FPYH9", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B0793FCH3Y", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B078HR8BTY", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B071DH857G", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", ""]}
+{"asin": "B078NDPNX4", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07KGS8RCM", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B01KCNJHYO", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", "", ""]}
+{"asin": "B01GXPS2HI", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B01NBTQD6H", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", ""]}
+{"asin": "B002N3NRBQ", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B06ZYPX1Y4", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": [""]}
+{"asin": "B07ZK5JSDZ", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B074H4SHWN", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", "", ""]}
+{"asin": "B003Q4V6U0", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B01BHJVTJS", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01K866HFC", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B00MWXJPA4", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0711T2FKF", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": [""]}
+{"asin": "B00KIG3WPQ", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", "", ""]}
+{"asin": "B0786N7K48", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B00451XVMY", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": []}
+{"asin": "B07L4LVT68", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B005HG9ET0", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": []}
+{"asin": "B08FVZ7XRZ", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07114D4S8", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": []}
+{"asin": "B078NCKG46", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B074H77X5T", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B076MPPMV7", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": []}
+{"asin": "B07L4VMQXF", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B000WHO12E", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", ""]}
+{"asin": "B07PK6BF4B", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", ""]}
+{"asin": "B078HRLNL6", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B07DBXLBCF", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", ""]}
+{"asin": "B008PLISXM", "attribute": "Variety", "product_type": "water", "gt_result": ["vitamin enhanced", "purified", "sparkling"], "pred_result": ["", ""]}
+{"asin": "B07Y955879", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B07VD4KN28", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled", "purified"], "pred_result": ["", ""]}
+{"asin": "B018APNBCK", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": [""]}
+{"asin": "B075LTHTVN", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B001XUIGG6", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B01N3LXFNR", "attribute": "Variety", "product_type": "water", "gt_result": ["vitamin enhanced"], "pred_result": []}
+{"asin": "B00BYM7WV8", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B078954JK3", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B076KL46LK", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "mineral"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0786KRWRN", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B01EMAAO68", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", "", ""]}
+{"asin": "B07FCQKZ4F", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B072N5G7Y8", "attribute": "Variety", "product_type": "water", "gt_result": ["tonic"], "pred_result": [""]}
+{"asin": "B07P9NV7NB", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B08H3YBM7N", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", "", ""]}
+{"asin": "B07D18N1DS", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B06X9GCHWY", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": [""]}
+{"asin": "B07V8LP11V", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": ["", ""]}
+{"asin": "B018EY0M1U", "attribute": "Variety", "product_type": "water", "gt_result": ["infused", "antioxidant"], "pred_result": ["", "", "", ""]}
+{"asin": "B078K8VSCC", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B07DXB53ZY", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B01I41DF6C", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", "", "", ""]}
+{"asin": "B07P5TWBSJ", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", ""]}
+{"asin": "B0793FC165", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B00O79SKV6", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B07DL9F23V", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07Y94HYH2", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B0067DVZEE", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B01BHJVZMO", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", ""]}
+{"asin": "B01MR8EFRY", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": ["", ""]}
+{"asin": "B078Z6451Q", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": [""]}
+{"asin": "B074H6ZXSQ", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": [""]}
+{"asin": "B01M1BQWNK", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B07NFBVH51", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": [""]}
+{"asin": "B000P9BA50", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", "", "", ""]}
+{"asin": "B07MVR9LFN", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B00RWDTPMM", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B08FWFRD21", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07PVT55K1", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B084SBX8BS", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B005HG9ERW", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", ""]}
+{"asin": "B082X6KXLP", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B00473XCSI", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": [""]}
+{"asin": "B004NPZYJA", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": []}
+{"asin": "B07812QWNH", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B005HG9ESG", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", "", ""]}
+{"asin": "B01M304DFP", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B07ND7DV1P", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07H9QH4YZ", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled", "alkaline"], "pred_result": [""]}
+{"asin": "B01MT83YXK", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", "", ""]}
+{"asin": "B07SQ4S5JV", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", "", ""]}
+{"asin": "B00DD6FKBW", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", ""]}
+{"asin": "B01B3A0S9S", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", "", "", ""]}
+{"asin": "B078HRNNHY", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B07X8Y8M79", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B00393F8SE", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": [""]}
+{"asin": "B07G7FQRCR", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": [""]}
+{"asin": "B079YF177C", "attribute": "Variety", "product_type": "water", "gt_result": ["infused", "spring", "alkaline"], "pred_result": ["", "", ""]}
+{"asin": "B000R2Z682", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": [""]}
+{"asin": "B001SB3XXG", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B000WGBH1S", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", "", ""]}
+{"asin": "B004CQWWKY", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", "", ""]}
+{"asin": "B074J6X7G6", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": [""]}
+{"asin": "B002EM2JCY", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", ""]}
+{"asin": "B001SB1II8", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", ""]}
+{"asin": "B00L5K420S", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": ["", ""]}
+{"asin": "B003QQ4BP0", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": [""]}
+{"asin": "B074H6PJX9", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B07Y94JJK4", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian", "sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B07R5PCLVQ", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", ""]}
+{"asin": "B076MFN2YX", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": [""]}
+{"asin": "B00507A02Q", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": ["", ""]}
+{"asin": "B07PCCCPQ9", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": ["", "", ""]}
+{"asin": "B000PYG8CK", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", ""]}
+{"asin": "B084SC5XD7", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B01N9OJ2AP", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": ["", ""]}
+{"asin": "B0781BB7X6", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", ""]}
+{"asin": "B074H6M4LD", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B001XUO8AY", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": [""]}
+{"asin": "B01F1NWEGI", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B07CYYFQ2W", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00GB39HA4", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07Z8LZT3X", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", ""]}
+{"asin": "B00F9VCQ2A", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B01MA6QHGP", "attribute": "Variety", "product_type": "water", "gt_result": ["infused", "purified"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B002TACI6I", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "mineral"], "pred_result": ["", "", "", ""]}
+{"asin": "B002EM2JWE", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian"], "pred_result": ["", "", ""]}
+{"asin": "B007VIEFJQ", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B078SDLD2X", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": []}
+{"asin": "B074H7VQX6", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B077BHYQ8W", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B000ZZYBVY", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B00524VVKC", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "sparkling"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B005SLSVNE", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": [""]}
+{"asin": "B07MWWK4NF", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": [""]}
+{"asin": "B07DXBM4NF", "attribute": "Variety", "product_type": "water", "gt_result": ["artesian", "sparkling"], "pred_result": ["", ""]}
+{"asin": "B074H77YBF", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B07FNTBJG8", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": []}
+{"asin": "B00CY0RR8M", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B074Y2PYG1", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B083T5Y4YJ", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", ""]}
+{"asin": "B010RTKODQ", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced", "alkaline"], "pred_result": []}
+{"asin": "B01F1NVH9S", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B078NC2YDP", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B00822ZUOE", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": []}
+{"asin": "B01BHJVZO2", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B00D08WD5Y", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": []}
+{"asin": "B01BHJVTTI", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B075LRR7YG", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B078ZVWSD8", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B00T4G1WPI", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00MJ18514", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", ""]}
+{"asin": "B087H65VZT", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", ""]}
+{"asin": "B084SBL2VL", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B01GQ5H8XY", "attribute": "Variety", "product_type": "water", "gt_result": ["alkaline"], "pred_result": []}
+{"asin": "B002SAS8SG", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", ""]}
+{"asin": "B07GLZHSQZ", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": [""]}
+{"asin": "B07KGTPFG2", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B00394XQ28", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", ""]}
+{"asin": "B00CMQCM9C", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "alkaline"], "pred_result": []}
+{"asin": "B07Q2FV3W9", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B00WDWP8BE", "attribute": "Variety", "product_type": "water", "gt_result": ["spring"], "pred_result": ["", ""]}
+{"asin": "B01MZC70DV", "attribute": "Variety", "product_type": "water", "gt_result": ["purified"], "pred_result": ["", ""]}
+{"asin": "B00ENXM5BW", "attribute": "Variety", "product_type": "water", "gt_result": ["spring", "alkaline"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B084SC4DHC", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B078ZV5JM1", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B074J5L82H", "attribute": "Variety", "product_type": "water", "gt_result": ["distilled"], "pred_result": ["", ""]}
+{"asin": "B07CK58Y41", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": [""]}
+{"asin": "B00RQPUV0Q", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral", "purified"], "pred_result": ["", ""]}
+{"asin": "B07RC9426C", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B082YRWWX8", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B078GZR23B", "attribute": "Variety", "product_type": "water", "gt_result": ["mineral"], "pred_result": ["", "", ""]}
+{"asin": "B07BFQC72V", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B078HQCZ7Y", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B078HQ7VPC", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B07TFB59LR", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", ""]}
+{"asin": "B078HP4ZP2", "attribute": "Variety", "product_type": "water", "gt_result": ["sparkling"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B003G89Z18", "attribute": "Variety", "product_type": "water", "gt_result": ["electrolyte enhanced"], "pred_result": [""]}

@@ -1,0 +1,405 @@
+{"asin": "B006OVQV1G", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["white"], "pred_result": [""]}
+{"asin": "B00K602HAU", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["red"], "pred_result": ["red"]}
+{"asin": "B00A9T30I6", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["blue"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B000VDX26K", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["orange"], "pred_result": ["", ""]}
+{"asin": "B07PLV28CN", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["lavender"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07ZS2LPJC", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["white"], "pred_result": []}
+{"asin": "B06XCQ7YF8", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["copper"], "pred_result": ["", "", "", ""]}
+{"asin": "B07PZY1PHX", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["pink"], "pred_result": ["pink"]}
+{"asin": "B08B2J8N51", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["lavender"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B073BKYMCK", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B00FFDP0F2", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["red"], "pred_result": [""]}
+{"asin": "B086DHZ44P", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["orange"], "pred_result": ["", ""]}
+{"asin": "B00NIYV78O", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["lime", "green"], "pred_result": ["", "", "", ""]}
+{"asin": "B08KHQ8B79", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["green"], "pred_result": ["", ""]}
+{"asin": "B07KYFXPZM", "attribute": "Color", "product_type": "cleaning_agent", "gt_result": ["lime"], "pred_result": ["", "", ""]}
+{"asin": "B079BB9235", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["black"], "pred_result": ["black"]}
+{"asin": "B08DXZP4N6", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["gold", "champagne"], "pred_result": [""]}
+{"asin": "B08B673KXK", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["pink"], "pred_result": []}
+{"asin": "B08PFPZSHR", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["silver"], "pred_result": [""]}
+{"asin": "B01C948XCQ", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["gold", "purple"], "pred_result": ["gold", "purple", "", ""]}
+{"asin": "B08CBQJ2K9", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["rose gold"], "pred_result": []}
+{"asin": "B07BR4ZVVN", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["rose gold"], "pred_result": ["rose gold"]}
+{"asin": "B01N59LJOP", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["cream"], "pred_result": ["", "", ""]}
+{"asin": "B088STY4XN", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["pink"], "pred_result": ["pink"]}
+{"asin": "B07YSG2NPW", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["black", "rose gold"], "pred_result": ["black", "rose gold"]}
+{"asin": "B088H1VKYN", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["silver", "champagne"], "pred_result": []}
+{"asin": "B08QZFW389", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["rose"], "pred_result": ["", "", ""]}
+{"asin": "B074YP2XCZ", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["pink"], "pred_result": [""]}
+{"asin": "B08R2HQFHY", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["black"], "pred_result": ["black - 3"]}
+{"asin": "B08M5JPHVC", "attribute": "Color", "product_type": "cosmetic_brush", "gt_result": ["green"], "pred_result": []}
+{"asin": "B07WTJKKG8", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["ivory"], "pred_result": ["fair ivory"]}
+{"asin": "B088P51BZT", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["porcelain"], "pred_result": ["", "", "", "porcelain"]}
+{"asin": "B009SDEI9O", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["buff"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B000JYNJBY", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["beige"], "pred_result": ["", ""]}
+{"asin": "B077Q8R2GD", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["coffee", "black"], "pred_result": ["", ""]}
+{"asin": "B004AK6XDE", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["bronze"], "pred_result": ["", ""]}
+{"asin": "B000ALBLX4", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["buff"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B01LMNNDJS", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["hazelnut"], "pred_result": ["", ""]}
+{"asin": "B07KWMF6XW", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["cream", "peach"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00354QIW2", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["silk"], "pred_result": ["", "", "", ""]}
+{"asin": "B001KYTTGQ", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["beige"], "pred_result": [""]}
+{"asin": "B08X7KDJ8Q", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["natural"], "pred_result": ["", "", ""]}
+{"asin": "B08GR69YJX", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["pearl"], "pred_result": ["", "", "", "pearl"]}
+{"asin": "B08PC4GFRV", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["white"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B001KYQ2WA", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["tan"], "pred_result": ["", "", "classic tan", "", ""]}
+{"asin": "B001MS7DP4", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["natural"], "pred_result": ["", "", "", ""]}
+{"asin": "B002LDXZ7O", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["rose gold"], "pred_result": ["", "", ""]}
+{"asin": "B07XBY5WZ5", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["peach"], "pred_result": ["", "", ""]}
+{"asin": "B06XDXBH5X", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["light medium"], "pred_result": [""]}
+{"asin": "B07WRDQ4GS", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["porcelain"], "pred_result": ["light porcelain"]}
+{"asin": "B004KM1J5E", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["tan"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B0000531II", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["light"], "pred_result": ["", ""]}
+{"asin": "B06XZ5L4MQ", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["tan"], "pred_result": ["tan", ""]}
+{"asin": "B000NQ0F3S", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["natural"], "pred_result": ["", ""]}
+{"asin": "B08CVP4FZD", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["beige"], "pred_result": [""]}
+{"asin": "B07J2T9H76", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["tan", "natural"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07WTJKHWC", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["beige"], "pred_result": ["beige"]}
+{"asin": "B06ZYG1ZDB", "attribute": "Color", "product_type": "cosmetic_powder", "gt_result": ["fair"], "pred_result": ["", "fair", ""]}
+{"asin": "B0756FHP52", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["black"], "pred_result": ["1 # black", "1 # black"]}
+{"asin": "B08TRPW1ZJ", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["dark brown"], "pred_result": ["dark brown", "dark brown", "brown", "dark brown", "", "", "", "", "", "brown", "", "", "dark brown"]}
+{"asin": "B07H8QWYFJ", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["dark brown"], "pred_result": [""]}
+{"asin": "B07H2X2X87", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["light brown"], "pred_result": ["light brown"]}
+{"asin": "B00C662V7Q", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["taupe"], "pred_result": [""]}
+{"asin": "B07Y1W7XZ1", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["espresso"], "pred_result": ["", "espresso", "", "", ""]}
+{"asin": "B08NWCJBF8", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["coffee"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01HBV2FY4", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["blonde"], "pred_result": ["beautiful blonde", "", "", "beautiful blonde", ""]}
+{"asin": "B0859S7Q55", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["dark brown"], "pred_result": ["dark brown"]}
+{"asin": "B08H7ZWC6B", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["coffee"], "pred_result": ["", ""]}
+{"asin": "B083RMTW63", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["gray"], "pred_result": ["", "gray"]}
+{"asin": "B01HBV2HIS", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["taupe"], "pred_result": ["", "", ""]}
+{"asin": "B077QR7RHX", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["black"], "pred_result": ["slate", "black"]}
+{"asin": "B07SFFL55X", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["blonde", "medium brown", "dark brown", "light brown"], "pred_result": ["", "light brown", "blonde"]}
+{"asin": "B07H449D1V", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["light brown"], "pred_result": ["light brown", "", ""]}
+{"asin": "B0818TNMT3", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B08FY5713N", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["brown"], "pred_result": [""]}
+{"asin": "B0859T2FBH", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["brown"], "pred_result": []}
+{"asin": "B073VNNDLY", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["dark brown"], "pred_result": ["dark brown", ""]}
+{"asin": "B072Q5CHVV", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["dark brown"], "pred_result": ["dark brown"]}
+{"asin": "B013FAD57G", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["auburn"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B08T647JK8", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["brown", "black", "dark brown", "gray"], "pred_result": ["natural brown", "dark brown"]}
+{"asin": "B08CRM7WYK", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["black", "dark brown", "gray"], "pred_result": ["gray", "black", "dark brown"]}
+{"asin": "B07D8FJ9HS", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["dark brown"], "pred_result": ["", "", "dark brown"]}
+{"asin": "B001KYU4Y2", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["medium brown"], "pred_result": ["", ""]}
+{"asin": "B071LLS844", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["espresso"], "pred_result": ["espresso", "", "", "", "", "", ""]}
+{"asin": "B00SX2O4VI", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["dark brown"], "pred_result": ["", "", "dark brown", "", "", "", ""]}
+{"asin": "B07XJYYM41", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["black", "light brown", "dark brown", "brown"], "pred_result": ["light brown", "black", "grey", "brown", "black", "dark brown"]}
+{"asin": "B08FYHHP24", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["dark gray"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07SGY6WSB", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["medium brown"], "pred_result": ["", "medium brown"]}
+{"asin": "B08SK4WTR6", "attribute": "Color", "product_type": "eyebrow_color", "gt_result": ["brown", "black"], "pred_result": ["brown", "black", "black"]}
+{"asin": "B081JGMGTC", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["metallic"], "pred_result": [""]}
+{"asin": "B085C8FQJG", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["black", "blackest black"], "pred_result": [""]}
+{"asin": "B08LPWGCGS", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["la5001 golden beach"], "pred_result": ["", "", ""]}
+{"asin": "B08429LMS4", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["chocolate brown"], "pred_result": [""]}
+{"asin": "B00NLDWWYK", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["lavender"], "pred_result": ["", "", "", ""]}
+{"asin": "B077ND9RBK", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["shimmery"], "pred_result": ["", ""]}
+{"asin": "B000AMC6QO", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["canvas light"], "pred_result": [""]}
+{"asin": "B00OWAFQFS", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["matte coal"], "pred_result": ["", "", ""]}
+{"asin": "B07Y1W5XYD", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["black"], "pred_result": ["", ""]}
+{"asin": "B0721CH9YZ", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["stella"], "pred_result": [""]}
+{"asin": "B00GW6SDW8", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["i have a headache", "nude"], "pred_result": ["", "", "", ""]}
+{"asin": "B07NYR337P", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["eyes to mesmerize", "rose gold"], "pred_result": [""]}
+{"asin": "B08CBRZ84X", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["red brown", "plum"], "pred_result": [""]}
+{"asin": "B00LBEFPNG", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["silver", "gun metal"], "pred_result": [""]}
+{"asin": "B00XQ3F2MO", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["navy"], "pred_result": ["", ""]}
+{"asin": "B07599CB1W", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["mermaid blue"], "pred_result": ["", ""]}
+{"asin": "B06WWF3T4Y", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["fireball", "peach", "pink"], "pred_result": ["", ""]}
+{"asin": "B0824L1F2X", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["875 sapphire"], "pred_result": ["", "", ""]}
+{"asin": "B01IU8N1IQ", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["ever starstruck", "champagne"], "pred_result": ["", "", "", ""]}
+{"asin": "B08N5L2K2D", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["olive green", "the mandalorian"], "pred_result": ["", ""]}
+{"asin": "B015FG6TC6", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["brown", "sr03 royal brown"], "pred_result": [""]}
+{"asin": "B0041YSU76", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["envy"], "pred_result": ["", "", "envy"]}
+{"asin": "B00HMXIQ04", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["gilded envy"], "pred_result": ["", ""]}
+{"asin": "B00XPLM8ZQ", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["insolent ivory"], "pred_result": [""]}
+{"asin": "B07ZFF24R6", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["bronze"], "pred_result": ["", "c01", "", ""]}
+{"asin": "B088GFY72H", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["turquoise", "purple"], "pred_result": ["", "", ""]}
+{"asin": "B007SZ2J5Y", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["brown", "tease"], "pred_result": ["", "", ""]}
+{"asin": "B01LW19NI2", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["stone"], "pred_result": ["stone", "stone", "", "", "", "", ""]}
+{"asin": "B07JMZ4ZC4", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["black", "ink black"], "pred_result": [""]}
+{"asin": "B08P8MF93T", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["bronze", "nude"], "pred_result": ["", ""]}
+{"asin": "B08LDWKM88", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["black"], "pred_result": ["black", "black"]}
+{"asin": "B0190V1ACG", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["emerald"], "pred_result": [""]}
+{"asin": "B00C4VK6TI", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["prunella"], "pred_result": ["", ""]}
+{"asin": "B0068ZWMBG", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["nude", "sparkle nude", "light gold"], "pred_result": [""]}
+{"asin": "B00E6EX31O", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["15 intense aubergine"], "pred_result": [""]}
+{"asin": "B072YXGF7Z", "attribute": "Color", "product_type": "eyelid_color", "gt_result": ["black"], "pred_result": ["", ""]}
+{"asin": "B07NVSN4GL", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["sun tan"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07QWMCHCK", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["sunrise light"], "pred_result": [""]}
+{"asin": "B00DTALFD4", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["romantic rose", "pink"], "pred_result": ["", "", ""]}
+{"asin": "B00LTYNDR8", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["coral cove"], "pred_result": ["", "", ""]}
+{"asin": "B00YYIJRVC", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["cabernet"], "pred_result": [""]}
+{"asin": "B0006LNMB2", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["coppertone"], "pred_result": ["", "", "coppertone"]}
+{"asin": "B010TFAIYS", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["coral hibiscus"], "pred_result": []}
+{"asin": "B071VLXCS7", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["steel blue"], "pred_result": ["", ""]}
+{"asin": "B07BZSN8D3", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["dusty rose"], "pred_result": [""]}
+{"asin": "B06X3XKXD3", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["hot sand"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01MS4UVLG", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["warm berry"], "pred_result": [""]}
+{"asin": "B00UUQC926", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["berry amore"], "pred_result": ["", "", ""]}
+{"asin": "B00GTAYIOE", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["hot tamale"], "pred_result": []}
+{"asin": "B01MS0ABTX", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["sun light"], "pred_result": ["", ""]}
+{"asin": "B01MT5H6M2", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["hotel heiress", "bronze"], "pred_result": ["", "", ""]}
+{"asin": "B00U2VQWDG", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["20 vibrant"], "pred_result": ["", "", "", ""]}
+{"asin": "B01KMWLV8A", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["warm bronze", "bronze"], "pred_result": ["", "", ""]}
+{"asin": "B00O14G0Y6", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["fiji"], "pred_result": ["fiji", "", ""]}
+{"asin": "B08FS6QM7W", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["light brown"], "pred_result": ["", ""]}
+{"asin": "B07BM7C4X1", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["chocolate geode"], "pred_result": [""]}
+{"asin": "B01F3TOTCC", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["gold", "wisp"], "pred_result": ["", ""]}
+{"asin": "B01N5OU8LH", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["peach pb06"], "pred_result": ["", ""]}
+{"asin": "B07KZ45XZS", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["bronze flame"], "pred_result": [""]}
+{"asin": "B01JLZ8OE8", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["chic"], "pred_result": ["", ""]}
+{"asin": "B07SDCF8VX", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["day dream"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B06Y47C8MD", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["magnolia"], "pred_result": ["", "", "magnolia", "", ""]}
+{"asin": "B00KMJTBI6", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["cream soda"], "pred_result": ["cream soda", "", ""]}
+{"asin": "B08R7W492G", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["rose quartz"], "pred_result": ["", ""]}
+{"asin": "B003FENQ8G", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["shy blush"], "pred_result": ["", ""]}
+{"asin": "B085F29C5D", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["my little blossom"], "pred_result": ["", "", "", ""]}
+{"asin": "B075GG367S", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["rose gold"], "pred_result": ["rose gold", ""]}
+{"asin": "B01B4X34E0", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["blushing plum", "plum", "plumped up peony"], "pred_result": ["", ""]}
+{"asin": "B0793JTL8X", "attribute": "Color", "product_type": "face_shaping_makeup", "gt_result": ["shy pink"], "pred_result": ["shy pink", "", "", "shy pink"]}
+{"asin": "B0817W17WV", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["gold", "clear"], "pred_result": []}
+{"asin": "B07V9GCN83", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["gray"], "pred_result": ["gray", ""]}
+{"asin": "B08CDVYFYS", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["black"], "pred_result": ["brown"]}
+{"asin": "B07SPX31FR", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["metallic"], "pred_result": [""]}
+{"asin": "B00DRZTK8I", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["black", "beige", "navy", "silver", "gold", "brown"], "pred_result": ["", "", ""]}
+{"asin": "B08SDYQSHT", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["hematite gray", "gray"], "pred_result": ["", ""]}
+{"asin": "B00YOPRPQO", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["black"], "pred_result": ["", ""]}
+{"asin": "B07K8MTDVN", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["silver"], "pred_result": [""]}
+{"asin": "B08BC7K55D", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["beige"], "pred_result": ["beige", ""]}
+{"asin": "B071YS4KX1", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["white"], "pred_result": ["", "white"]}
+{"asin": "B086STS14T", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["gold", "black", "silver"], "pred_result": ["gold"]}
+{"asin": "B07PN9NSFQ", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["black"], "pred_result": ["", "black"]}
+{"asin": "B07DDDBHTM", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B08TVDWVW5", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["gold", "silver"], "pred_result": [""]}
+{"asin": "B08CBYJL7C", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["purple", "white"], "pred_result": ["purple", "white"]}
+{"asin": "B08BXLF1YX", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["brown", "black"], "pred_result": []}
+{"asin": "B07SKHNPYY", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["gold"], "pred_result": []}
+{"asin": "B07CZ99TM3", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["brown", "black"], "pred_result": [""]}
+{"asin": "B00DJ2YKE8", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["brown", "black"], "pred_result": ["", ""]}
+{"asin": "B08NT221YH", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["black", "olive green", "blue", "pink"], "pred_result": []}
+{"asin": "B08928Q181", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["silver"], "pred_result": ["dragon", "dragon"]}
+{"asin": "B07YDCL4FH", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["silver"], "pred_result": ["", "", ""]}
+{"asin": "B083GTKRJK", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["black", "dark blue", "pink", "yellow", "red", "dark green", "champagne"], "pred_result": []}
+{"asin": "B08HKZ6ZGB", "attribute": "Color", "product_type": "hair_clip", "gt_result": ["gold"], "pred_result": []}
+{"asin": "B08FBJKM3J", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["lilac"], "pred_result": ["", "", ""]}
+{"asin": "B00JPXECIE", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["black"], "pred_result": ["", ""]}
+{"asin": "B00180BOBA", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["gray"], "pred_result": [""]}
+{"asin": "B077D2YFD4", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["dark brown"], "pred_result": ["dark brown", ""]}
+{"asin": "B07KRTFSD2", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["light golden brown"], "pred_result": []}
+{"asin": "B083TCG753", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["wine red", "deep rose"], "pred_result": ["", ""]}
+{"asin": "B07G4HPX4N", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["vivid violet"], "pred_result": [""]}
+{"asin": "B003AXAMFM", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["lightest blonde"], "pred_result": ["", ""]}
+{"asin": "B075GQLN9D", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["dark chocolate"], "pred_result": ["", ""]}
+{"asin": "B07B9TCB3V", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["dark brown"], "pred_result": ["", ""]}
+{"asin": "B07JFKRG18", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["dark brown"], "pred_result": ["", "", ""]}
+{"asin": "B000KOQBZ4", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["natural blonde"], "pred_result": [""]}
+{"asin": "B00BV9CAEI", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["medium auburn"], "pred_result": ["", ""]}
+{"asin": "B01IRY1VM6", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["lizard green"], "pred_result": ["", ""]}
+{"asin": "B0856TD2Z2", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["soft black"], "pred_result": ["", ""]}
+{"asin": "B07B6DGKN3", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["green"], "pred_result": ["green"]}
+{"asin": "B071W7XJZK", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["silver"], "pred_result": ["", ""]}
+{"asin": "B07BZ3LJR7", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["plum black"], "pred_result": []}
+{"asin": "B07H9L94QJ", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["amber"], "pred_result": ["amber", ""]}
+{"asin": "B000QWLOT8", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["ash blonde"], "pred_result": []}
+{"asin": "B00E4MLTEQ", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["crystal brown"], "pred_result": [""]}
+{"asin": "B01MSR0S59", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["vivid burgundy"], "pred_result": ["", ""]}
+{"asin": "B0787M5B54", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["copper"], "pred_result": []}
+{"asin": "B084QDXGBQ", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["deep bodeaux rose"], "pred_result": [""]}
+{"asin": "B07H9TZL3Q", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["black"], "pred_result": []}
+{"asin": "B077J6JDQ5", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["titanium"], "pred_result": [""]}
+{"asin": "B084WG1YYP", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["neon orange"], "pred_result": ["", "neon orange"]}
+{"asin": "B002LBPYMU", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["deep burgundy"], "pred_result": ["", "deep burgundy", ""]}
+{"asin": "B079QL6GH8", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["blue black"], "pred_result": ["blue black", "blue black", "black"]}
+{"asin": "B085W7DV99", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["deep violet", "purple"], "pred_result": [""]}
+{"asin": "B004AGF9NS", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["medium ash blonde"], "pred_result": ["medium ash blonde", ""]}
+{"asin": "B07KFQVYBQ", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["coral red"], "pred_result": ["coral red"]}
+{"asin": "B07CF3CV2Q", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["dark cool blonde"], "pred_result": [""]}
+{"asin": "B004M5XA5Q", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["crimson"], "pred_result": [""]}
+{"asin": "B01MXDQRYK", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["dark brown"], "pred_result": [""]}
+{"asin": "B07N6JTZK5", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["mocha"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B00BCEGR28", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["espresso"], "pred_result": ["", ""]}
+{"asin": "B07BYJ9X7F", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["green"], "pred_result": [""]}
+{"asin": "B07T4GMJ2D", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["light brown"], "pred_result": ["", "light brown"]}
+{"asin": "B000AS45KS", "attribute": "Color", "product_type": "hair_coloring_agent", "gt_result": ["natural black"], "pred_result": ["", "natural black", ""]}
+{"asin": "B086FS37P5", "attribute": "Color", "product_type": "hair_removal_agent", "gt_result": ["blue"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07C7P7D8R", "attribute": "Color", "product_type": "hair_removal_agent", "gt_result": ["charcoal"], "pred_result": ["", ""]}
+{"asin": "B08PF2T69N", "attribute": "Color", "product_type": "hair_removal_agent", "gt_result": ["black"], "pred_result": ["black"]}
+{"asin": "B08T62R1FP", "attribute": "Color", "product_type": "hair_removal_agent", "gt_result": ["pink"], "pred_result": []}
+{"asin": "B076ZB9CGC", "attribute": "Color", "product_type": "hair_removal_agent", "gt_result": ["white"], "pred_result": ["white", "white"]}
+{"asin": "B088GZW85W", "attribute": "Color", "product_type": "hair_removal_agent", "gt_result": ["lavender"], "pred_result": [""]}
+{"asin": "B08NL9XT59", "attribute": "Color", "product_type": "hair_removal_agent", "gt_result": ["black"], "pred_result": []}
+{"asin": "B07QPZM479", "attribute": "Color", "product_type": "hair_removal_agent", "gt_result": ["white"], "pred_result": ["", "white"]}
+{"asin": "B08NSWL2KD", "attribute": "Color", "product_type": "hair_removal_agent", "gt_result": ["gold"], "pred_result": ["", ""]}
+{"asin": "B07QX2Q3ZV", "attribute": "Color", "product_type": "hair_styling_agent", "gt_result": ["black"], "pred_result": ["", ""]}
+{"asin": "B0065JCV84", "attribute": "Color", "product_type": "hair_styling_agent", "gt_result": ["brown"], "pred_result": ["", "", ""]}
+{"asin": "B0855G3R2F", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["black"], "pred_result": ["black", "black", "", ""]}
+{"asin": "B07YP5SYP4", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["green"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0791BYJWG", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["black"], "pred_result": ["black", "black"]}
+{"asin": "B07S96JBJY", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["gold"], "pred_result": []}
+{"asin": "B002BUHLRW", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["black", "caramel", "pink"], "pred_result": ["black", "pink", "", "", "", "", "caramel", ""]}
+{"asin": "B08839DW8D", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["brown"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B088MMMRY1", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["navy", "dark taupe", "plum"], "pred_result": ["", "", "", "", "navy", "", "", "", "", "plum", "navy"]}
+{"asin": "B00DFSHD5O", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["black"], "pred_result": ["", "", "", ""]}
+{"asin": "B0829DST4X", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["khaki", "black", "pink"], "pred_result": ["pink", "pink", "khaki", "black"]}
+{"asin": "B07YXZZWLJ", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B07TJ1ZXBM", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["brown", "black", "clear"], "pred_result": []}
+{"asin": "B08RJRQBJ3", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["coffee"], "pred_result": ["coffee"]}
+{"asin": "B08KFWPYJ5", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["red"], "pred_result": []}
+{"asin": "B082DNVNG3", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["pink"], "pred_result": ["", "", ""]}
+{"asin": "B07C39R717", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["brown", "black", "beige"], "pred_result": [""]}
+{"asin": "B083GSC42T", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["light gray"], "pred_result": ["light gray", ""]}
+{"asin": "B08F283S59", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["white"], "pred_result": [""]}
+{"asin": "B01M6CCT1E", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["brown"], "pred_result": ["brown"]}
+{"asin": "B07RJZ8DYL", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B00O5EK24Q", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["brown", "black"], "pred_result": [""]}
+{"asin": "B07X7DH16F", "attribute": "Color", "product_type": "hair_tie", "gt_result": ["white", "pink", "sky blue", "purple", "light gray", "mint"], "pred_result": []}
+{"asin": "B08146L6NJ", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["red"], "pred_result": [""]}
+{"asin": "B07MFRCW6M", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["double date"], "pred_result": ["", ""]}
+{"asin": "B07WPX18MY", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["red"], "pred_result": []}
+{"asin": "B07FFLJW48", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["clear"], "pred_result": ["", ""]}
+{"asin": "B07NTS4RDR", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["dragon fruit"], "pred_result": [""]}
+{"asin": "B07WTXPXB4", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["clear"], "pred_result": []}
+{"asin": "B01JVA7PNY", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["peach pink", "pink"], "pred_result": ["", "", ""]}
+{"asin": "B08DLJ6RF1", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["tropiglama"], "pred_result": [""]}
+{"asin": "B00X41E2PG", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["pink"], "pred_result": ["", "", ""]}
+{"asin": "B07CXG7RVL", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["crimson"], "pred_result": []}
+{"asin": "B01KI40DIQ", "attribute": "Color", "product_type": "lip_balm", "gt_result": ["berry"], "pred_result": ["", ""]}
+{"asin": "B07NX61Y15", "attribute": "Color", "product_type": "lip_color", "gt_result": ["enchantment"], "pred_result": [""]}
+{"asin": "B01DX05Q8O", "attribute": "Color", "product_type": "lip_color", "gt_result": ["trustworthy"], "pred_result": ["", "", "", ""]}
+{"asin": "B06WLPJQR7", "attribute": "Color", "product_type": "lip_color", "gt_result": ["downtown beauty"], "pred_result": ["", ""]}
+{"asin": "B07D97RW26", "attribute": "Color", "product_type": "lip_color", "gt_result": ["pink"], "pred_result": ["", "", "sour cherry", "", "hot pink", "hot pink", ""]}
+{"asin": "B01GC69VKK", "attribute": "Color", "product_type": "lip_color", "gt_result": ["purple"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B077SS9C1V", "attribute": "Color", "product_type": "lip_color", "gt_result": ["astor place tulip"], "pred_result": [""]}
+{"asin": "B06XDZJ5YL", "attribute": "Color", "product_type": "lip_color", "gt_result": ["copper"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00PFCT5NG", "attribute": "Color", "product_type": "lip_color", "gt_result": ["captivated by cerise"], "pred_result": []}
+{"asin": "B002SV6V7K", "attribute": "Color", "product_type": "lip_color", "gt_result": ["mauve", "mauve it over"], "pred_result": ["", "", "", ""]}
+{"asin": "B00J2APD4W", "attribute": "Color", "product_type": "lip_color", "gt_result": ["dusty rose"], "pred_result": ["", ""]}
+{"asin": "B077KDRYSV", "attribute": "Color", "product_type": "lip_color", "gt_result": ["silver"], "pred_result": ["silver"]}
+{"asin": "B086LJSBRP", "attribute": "Color", "product_type": "lip_color", "gt_result": ["wife goals", "red"], "pred_result": ["", "", "", ""]}
+{"asin": "B07T422PR5", "attribute": "Color", "product_type": "lip_color", "gt_result": ["cotton candy"], "pred_result": []}
+{"asin": "B08RRTLMRJ", "attribute": "Color", "product_type": "lip_color", "gt_result": ["brown", "fluffernutter"], "pred_result": ["", "marshmallow", "", ""]}
+{"asin": "B0156CGXRK", "attribute": "Color", "product_type": "lip_color", "gt_result": ["peach"], "pred_result": ["", ""]}
+{"asin": "B00K4ENYMI", "attribute": "Color", "product_type": "lip_color", "gt_result": ["lavender"], "pred_result": ["", "lavender", "", "lavender"]}
+{"asin": "B07WHJRZHW", "attribute": "Color", "product_type": "lip_color", "gt_result": ["beige"], "pred_result": ["soft beige", ""]}
+{"asin": "B0779RZQ3J", "attribute": "Color", "product_type": "lip_color", "gt_result": ["ballerina"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B08RWRVNYD", "attribute": "Color", "product_type": "lip_color", "gt_result": ["purple"], "pred_result": [""]}
+{"asin": "B07MZ9T5ZD", "attribute": "Color", "product_type": "lip_color", "gt_result": ["colorless"], "pred_result": ["white", ""]}
+{"asin": "B08J1J141D", "attribute": "Color", "product_type": "lip_color", "gt_result": ["pink"], "pred_result": []}
+{"asin": "B07D51GVF2", "attribute": "Color", "product_type": "lip_color", "gt_result": ["bronze"], "pred_result": ["", ""]}
+{"asin": "B08GLCXNGV", "attribute": "Color", "product_type": "lip_color", "gt_result": ["mannequin"], "pred_result": ["", "", ""]}
+{"asin": "B07QX4KK2K", "attribute": "Color", "product_type": "lip_color", "gt_result": ["metallic"], "pred_result": ["", "", ""]}
+{"asin": "B07WSG5NLL", "attribute": "Color", "product_type": "lip_color", "gt_result": ["pink"], "pred_result": ["", "", ""]}
+{"asin": "B06XF16MWM", "attribute": "Color", "product_type": "lip_color", "gt_result": ["lover"], "pred_result": ["", "lover", "", "", "", "", "", "", ""]}
+{"asin": "B0058K1ZOM", "attribute": "Color", "product_type": "lip_color", "gt_result": ["cabernet"], "pred_result": [""]}
+{"asin": "B00N6YEI6O", "attribute": "Color", "product_type": "lip_color", "gt_result": ["plum"], "pred_result": ["", "", "", ""]}
+{"asin": "B085S94V2K", "attribute": "Color", "product_type": "lip_color", "gt_result": ["moon"], "pred_result": ["", "", "moon"]}
+{"asin": "B0811YNC53", "attribute": "Color", "product_type": "lip_color", "gt_result": ["red"], "pred_result": [""]}
+{"asin": "B00M2SRNIK", "attribute": "Color", "product_type": "lip_color", "gt_result": ["ruby slippers"], "pred_result": [""]}
+{"asin": "B07KBD8D9M", "attribute": "Color", "product_type": "lip_color", "gt_result": ["red", "boys tears"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B076JLTV2W", "attribute": "Color", "product_type": "lip_color", "gt_result": ["control freak"], "pred_result": [""]}
+{"asin": "B074JGZPRV", "attribute": "Color", "product_type": "lip_color", "gt_result": ["brown", "latte"], "pred_result": ["", "", "", ""]}
+{"asin": "B00J2APF86", "attribute": "Color", "product_type": "lip_color", "gt_result": ["ultra violet", "violet"], "pred_result": [""]}
+{"asin": "B07NZ7WWW9", "attribute": "Color", "product_type": "lip_color", "gt_result": ["i savor"], "pred_result": ["", "", "", ""]}
+{"asin": "B08TRVWBZN", "attribute": "Color", "product_type": "lip_color", "gt_result": ["bronze"], "pred_result": ["", ""]}
+{"asin": "B01NCRR4BP", "attribute": "Color", "product_type": "lip_color", "gt_result": ["beige"], "pred_result": ["", "", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B006DWE2LM", "attribute": "Color", "product_type": "lip_color", "gt_result": ["plum"], "pred_result": [""]}
+{"asin": "B00021VPTC", "attribute": "Color", "product_type": "lip_color", "gt_result": ["lipblush"], "pred_result": [""]}
+{"asin": "B015D942VK", "attribute": "Color", "product_type": "lip_color", "gt_result": ["nude"], "pred_result": ["", "nude", "", "", "", "", ""]}
+{"asin": "B00Z2X2UJE", "attribute": "Color", "product_type": "lip_color", "gt_result": [], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B005CN4C4U", "attribute": "Color", "product_type": "lip_color", "gt_result": ["pink", "silver rose"], "pred_result": []}
+{"asin": "B00A9ZF506", "attribute": "Color", "product_type": "lip_color", "gt_result": ["burgundy", "deep burgundy"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B007GOQYR6", "attribute": "Color", "product_type": "lip_color", "gt_result": ["powder pink"], "pred_result": ["", ""]}
+{"asin": "B07ZRYHH7T", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["black"], "pred_result": ["black"]}
+{"asin": "B088CRLZSV", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["rose gold"], "pred_result": ["rose gold"]}
+{"asin": "B074FR7DYY", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["chrome"], "pred_result": []}
+{"asin": "B07WRK8QT7", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["bamboo"], "pred_result": []}
+{"asin": "B001DHT3G6", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["black"], "pred_result": ["black"]}
+{"asin": "B07SR5VLG2", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["black"], "pred_result": []}
+{"asin": "B07ST1MTBC", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["black", "red"], "pred_result": ["red", "red", "red"]}
+{"asin": "B07QSSWX98", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["black"], "pred_result": []}
+{"asin": "B008Y2ZBTG", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["chrome"], "pred_result": []}
+{"asin": "B07MWHPCQJ", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["petrol blue"], "pred_result": []}
+{"asin": "B087JSC52T", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["red"], "pred_result": ["red"]}
+{"asin": "B08NDCWBN1", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["charcoal grey"], "pred_result": ["charcoal grey"]}
+{"asin": "B07ZWB5H1R", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["black"], "pred_result": []}
+{"asin": "B077YM8HRR", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["blue"], "pred_result": ["blue", "blue"]}
+{"asin": "B07XC3LVPJ", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["black", "white"], "pred_result": ["black"]}
+{"asin": "B07JW8WS6T", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["black", "pink"], "pred_result": ["black"]}
+{"asin": "B01M19NYOQ", "attribute": "Color", "product_type": "manual_shaving_razor", "gt_result": ["rose gold"], "pred_result": ["", "", ""]}
+{"asin": "B0894YHCD5", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": []}
+{"asin": "B00EMAM9BC", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "very black"], "pred_result": ["", "very black", "", ""]}
+{"asin": "B01LYR7DDY", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "extreme black"], "pred_result": [""]}
+{"asin": "B07KMZC95D", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": []}
+{"asin": "B001KYRNAK", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "very black"], "pred_result": ["", ""]}
+{"asin": "B07NNB34F7", "attribute": "Color", "product_type": "mascara", "gt_result": ["brown", "blackened brown"], "pred_result": [""]}
+{"asin": "B01DKIQPU2", "attribute": "Color", "product_type": "mascara", "gt_result": ["yellow"], "pred_result": [""]}
+{"asin": "B07SFHYN3Q", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "blackest black"], "pred_result": ["blackest black"]}
+{"asin": "B08C7RSS9B", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": []}
+{"asin": "B07DMR2QJY", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": ["black"]}
+{"asin": "B08FFLCXNR", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B07W3PVLW4", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "blackest black"], "pred_result": [""]}
+{"asin": "B001M7QLSA", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "blackest black"], "pred_result": [""]}
+{"asin": "B000SP75FK", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "noir"], "pred_result": ["", ""]}
+{"asin": "B08FCTRZGD", "attribute": "Color", "product_type": "mascara", "gt_result": ["intensely black", "black"], "pred_result": ["", "", ""]}
+{"asin": "B08DFHGHLZ", "attribute": "Color", "product_type": "mascara", "gt_result": ["blue purple"], "pred_result": ["", ""]}
+{"asin": "B086C5XZYC", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B07SC9NW1P", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": ["", ""]}
+{"asin": "B00CFQFIG8", "attribute": "Color", "product_type": "mascara", "gt_result": ["jet"], "pred_result": ["", "jet", "", "", "", "", ""]}
+{"asin": "B08M96YZN1", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "very black"], "pred_result": ["very black", "", ""]}
+{"asin": "B00IKLGNOS", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": ["", ""]}
+{"asin": "B01N7C4R8F", "attribute": "Color", "product_type": "mascara", "gt_result": ["blue"], "pred_result": ["blue", "blue", ""]}
+{"asin": "B00MFL6C7W", "attribute": "Color", "product_type": "mascara", "gt_result": ["orange"], "pred_result": ["orange"]}
+{"asin": "B01M9G7WW4", "attribute": "Color", "product_type": "mascara", "gt_result": ["cobalt blue", "blue"], "pred_result": ["cobalt blue", ""]}
+{"asin": "B005IW7E1I", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": ["", ""]}
+{"asin": "B08JMD2HD8", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": []}
+{"asin": "B07DGJQT39", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B07J643HBD", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": []}
+{"asin": "B07LGQ6ZBZ", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": ["black", "", ""]}
+{"asin": "B000W9WZ34", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "very black"], "pred_result": ["", "", "", ""]}
+{"asin": "B07N6892R3", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B00BM03DR4", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "excessive black"], "pred_result": [""]}
+{"asin": "B019HXEA4W", "attribute": "Color", "product_type": "mascara", "gt_result": ["black"], "pred_result": ["", "", "black", "black", ""]}
+{"asin": "B00FAR3LP4", "attribute": "Color", "product_type": "mascara", "gt_result": ["black", "pure black"], "pred_result": ["pure black"]}
+{"asin": "B07HD8SFNT", "attribute": "Color", "product_type": "medication", "gt_result": ["pink"], "pred_result": ["", "", "", ""]}
+{"asin": "B00TT5G952", "attribute": "Color", "product_type": "medication", "gt_result": ["purple"], "pred_result": ["purple"]}
+{"asin": "B00V3N42H0", "attribute": "Color", "product_type": "medication", "gt_result": ["orange"], "pred_result": ["", "", ""]}
+{"asin": "B07TN3KT2V", "attribute": "Color", "product_type": "medication", "gt_result": ["cinnamon"], "pred_result": ["", ""]}
+{"asin": "B00KTXHNMQ", "attribute": "Color", "product_type": "medication", "gt_result": ["orange"], "pred_result": ["", "", ""]}
+{"asin": "B01LYBWJBC", "attribute": "Color", "product_type": "medication", "gt_result": ["blue"], "pred_result": [""]}
+{"asin": "B08C9L539C", "attribute": "Color", "product_type": "medication", "gt_result": ["cream"], "pred_result": ["", "", ""]}
+{"asin": "B00QPPP5XG", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["cornsilk"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07V6B4TZM", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["silver", "gold", "green", "red", "dark green"], "pred_result": [""]}
+{"asin": "B081SLQ4HX", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["green"], "pred_result": [""]}
+{"asin": "B088ZXDNYC", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["black", "pink", "green", "red", "brown", "white"], "pred_result": [""]}
+{"asin": "B08L7TN3B4", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["clear", "black", "silver", "pink", "gold", "white"], "pred_result": ["", "", "", ""]}
+{"asin": "B00ZOTMGHC", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["blue", "peach", "white"], "pred_result": [""]}
+{"asin": "B07XGMG5RL", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["plum"], "pred_result": ["", "", "", ""]}
+{"asin": "B0166R22CO", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["black", "white"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B08287H6DL", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["white", "blue", "pink", "red"], "pred_result": [""]}
+{"asin": "B08NSVJL1C", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["black", "blue", "gold"], "pred_result": [""]}
+{"asin": "B004KS0MYM", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["slick slate"], "pred_result": [""]}
+{"asin": "B08CFLCYWQ", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["dark blue", "pink", "green", "yellow", "sky blue", "purple"], "pred_result": []}
+{"asin": "B07Y8YBJ6M", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["peach"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B0793Q7DH5", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["white", "black", "red"], "pred_result": [""]}
+{"asin": "B014JMCHCS", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["yellow"], "pred_result": ["", ""]}
+{"asin": "B07H9WKVSZ", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["light yellow"], "pred_result": [""]}
+{"asin": "B08K8P7LN6", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["orange", "blue", "pink", "green", "yellow", "red"], "pred_result": ["", "", ""]}
+{"asin": "B01IY3ZJHS", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["white"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B07JPBDQ6V", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["pink"], "pred_result": ["", ""]}
+{"asin": "B07MHK5HQ7", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["white", "pink", "lavender"], "pred_result": []}
+{"asin": "B08B73DL6F", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["cream", "red"], "pred_result": ["", "", ""]}
+{"asin": "B07ZXRHDSX", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["clear"], "pred_result": [""]}
+{"asin": "B07YZ7JG6Z", "attribute": "Color", "product_type": "nail_polish", "gt_result": ["black"], "pred_result": [""]}
+{"asin": "B08F7RCZMQ", "attribute": "Color", "product_type": "shampoo", "gt_result": ["brown"], "pred_result": []}
+{"asin": "B08QXM8SXQ", "attribute": "Color", "product_type": "shampoo", "gt_result": ["gold"], "pred_result": ["", "", ""]}
+{"asin": "B075PLPVWF", "attribute": "Color", "product_type": "shampoo", "gt_result": ["copper"], "pred_result": [""]}
+{"asin": "B08GH6NSJS", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["orange", "lime", "raspberry"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B08XLR4B8P", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["orange"], "pred_result": [""]}
+{"asin": "B07NSQMNFW", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["red"], "pred_result": [""]}
+{"asin": "B089MBXQZ2", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["red"], "pred_result": ["", ""]}
+{"asin": "B089Y1YS4Z", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["orange"], "pred_result": ["", "", ""]}
+{"asin": "B07WSRML16", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["peach"], "pred_result": [""]}
+{"asin": "B00TR21WN6", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["peach"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07CZ7X5BX", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["blue"], "pred_result": []}
+{"asin": "B005IW3U7U", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["raspberry"], "pred_result": [""]}
+{"asin": "B08CMRT76B", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["white"], "pred_result": ["", "", ""]}
+{"asin": "B005IW3U98", "attribute": "Color", "product_type": "thickening_agent", "gt_result": ["peach"], "pred_result": ["", ""]}

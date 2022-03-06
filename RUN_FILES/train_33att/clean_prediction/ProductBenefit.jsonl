@@ -1,0 +1,389 @@
+{"asin": "B07FK3MT6L", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["helps soothe"], "pred_result": ["", ""]}
+{"asin": "B0001EKYG0", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["moisture"], "pred_result": [""]}
+{"asin": "B01ATYTS18", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["hydrating", "hydrates"], "pred_result": ["", ""]}
+{"asin": "B0012S7TH6", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["moisture"], "pred_result": [""]}
+{"asin": "B001E76B0G", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["hypoallergenic", "soothes"], "pred_result": ["", ""]}
+{"asin": "B01N1K3XOB", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["hydrating", "hydrates"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07488FQVW", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["exfoliate", "smooth skin", "exfoliating", "exfoliation", "hydrating"], "pred_result": ["", "", ""]}
+{"asin": "B07W7JNLVB", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["plumping"], "pred_result": ["", "", "", ""]}
+{"asin": "B087MW23C3", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["exfoliation", "soothing", "hydrating"], "pred_result": [""]}
+{"asin": "B07NCWL1Q6", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["refreshed"], "pred_result": [""]}
+{"asin": "B06XKLGY3K", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["deep hydration"], "pred_result": ["", ""]}
+{"asin": "B00JKOOPSK", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["soothing", "soothes"], "pred_result": ["", "", ""]}
+{"asin": "B07VF8ZZCT", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["hydrate", "hydration", "hydrating"], "pred_result": []}
+{"asin": "B07KY2BQCJ", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["moisturizes"], "pred_result": [""]}
+{"asin": "B002LM9QKA", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["soothing"], "pred_result": []}
+{"asin": "B07XSLJH7V", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["cleansing", "soothing", "soothes", "hydrates"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B07G8B775F", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["smooth", "soothes"], "pred_result": ["", ""]}
+{"asin": "B07VG36GQN", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["moisturizing", "moisture"], "pred_result": [""]}
+{"asin": "B08QMJY66H", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["soothing", "moisturizing"], "pred_result": [""]}
+{"asin": "B000GCL43O", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["hypoallergenic", "feeling soft"], "pred_result": [""]}
+{"asin": "B08KL7LL1F", "attribute": "ProductBenefit", "product_type": "astringent_substance", "gt_result": ["hydration", "moisturizing", "hydrating"], "pred_result": [""]}
+{"asin": "B003FBKBKU", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["shine control", "smooth"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00343XYIA", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["shine control", "smooth"], "pred_result": ["", "", ""]}
+{"asin": "B001AC1YT8", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["soft"], "pred_result": ["", "", ""]}
+{"asin": "B0002RI2PG", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["shine control"], "pred_result": ["", ""]}
+{"asin": "B009SDEI9O", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["flawless"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00694W7BG", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["flawless", "hypoallergenic", "soft", "softens"], "pred_result": ["", "", ""]}
+{"asin": "B0862FSFNF", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["smoothing", "soothing", "nourishing", "sun protection"], "pred_result": ["", "", ""]}
+{"asin": "B00E9K4UO4", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B002LDPOGO", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["smooth", "soothing"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B001ADUC1I", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["flawless", "smooth"], "pred_result": ["", ""]}
+{"asin": "B07JP4BZJQ", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["soft"], "pred_result": ["", "", ""]}
+{"asin": "B003F8UT5A", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["flawless"], "pred_result": ["", "", ""]}
+{"asin": "B0874NSNG4", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["flawless skin", "nourishing"], "pred_result": ["", ""]}
+{"asin": "B002VECKHY", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["oil control"], "pred_result": ["", "", ""]}
+{"asin": "B01LYFFF3O", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["flawless"], "pred_result": ["", "", "", ""]}
+{"asin": "B00CJTX7E6", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["flawless", "softer"], "pred_result": [""]}
+{"asin": "B07X37X4HC", "attribute": "ProductBenefit", "product_type": "cosmetic_powder", "gt_result": ["brightens", "flawless"], "pred_result": ["", "", ""]}
+{"asin": "B07DCF19W6", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["hydrate", "hydration"], "pred_result": ["", "", "", ""]}
+{"asin": "B00GMPBVF0", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturizes"], "pred_result": ["", ""]}
+{"asin": "B084GBFJTR", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["nourishing", "moisture", "hydrating"], "pred_result": ["", ""]}
+{"asin": "B00I3INX00", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisture"], "pred_result": [""]}
+{"asin": "B00M9GLESK", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturize", "moisture"], "pred_result": [""]}
+{"asin": "B00620Q8VC", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturizer"], "pred_result": ["", ""]}
+{"asin": "B00L2BQRJ4", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothes", "soothing", "moisturizing"], "pred_result": [""]}
+{"asin": "B01JVA7PNY", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothe"], "pred_result": ["", "", ""]}
+{"asin": "B089DMBR3R", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothes", "soothing"], "pred_result": ["", ""]}
+{"asin": "B07FRKTTCW", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothing"], "pred_result": ["", ""]}
+{"asin": "B01L29W5F0", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["hydration", "nourish"], "pred_result": ["", ""]}
+{"asin": "B00QEL3WCM", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["sun protection"], "pred_result": []}
+{"asin": "B086SM83VG", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturizer"], "pred_result": []}
+{"asin": "B008MOX8UU", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisture"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07JHFHNHX", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothing", "moist"], "pred_result": [""]}
+{"asin": "B078JD3TFP", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturizes", "moisture"], "pred_result": []}
+{"asin": "B072QCD15Q", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturize", "moisturizes", "moisturizing"], "pred_result": ["", "", "", ""]}
+{"asin": "B001664B16", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["hydrate"], "pred_result": [""]}
+{"asin": "B082MP7BDP", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothe", "soothing", "repairing"], "pred_result": ["", "", "", ""]}
+{"asin": "B087RNKQ7J", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothe", "soothing", "repairing"], "pred_result": ["", ""]}
+{"asin": "B0829FGV77", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["hydrating"], "pred_result": []}
+{"asin": "B082GNBN56", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["nourishes", "soothes", "hydrates"], "pred_result": [""]}
+{"asin": "B082MPB3SZ", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothe", "soothing", "repairing"], "pred_result": ["", "", ""]}
+{"asin": "B0891N79SN", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothing", "moisturizing"], "pred_result": [""]}
+{"asin": "B07W7W9MJG", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturizing"], "pred_result": []}
+{"asin": "B01M0D5HMQ", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["hydrate", "hydration"], "pred_result": ["", ""]}
+{"asin": "B075RGG88Y", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["hydrating", "soothes"], "pred_result": []}
+{"asin": "B07RQ2KQ3Y", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["smooth"], "pred_result": [""]}
+{"asin": "B01F38WKRE", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soft"], "pred_result": [""]}
+{"asin": "B07SRRLVQ1", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["soothe", "repair", "soothes"], "pred_result": ["", "", ""]}
+{"asin": "B014V82EF0", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisture"], "pred_result": ["", "", ""]}
+{"asin": "B087VVDF1G", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturize", "moisturizer"], "pred_result": ["", ""]}
+{"asin": "B07P1H815G", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturizing", "moisture"], "pred_result": [""]}
+{"asin": "B084Q5NBVT", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturize", "hydrating"], "pred_result": ["", "", "", ""]}
+{"asin": "B0851NSHWV", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["moisturizing lip balm", "moisturizing"], "pred_result": ["", ""]}
+{"asin": "B007MVD9GW", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["smooth", "softens"], "pred_result": ["", ""]}
+{"asin": "B01MT3WYQ5", "attribute": "ProductBenefit", "product_type": "lip_balm", "gt_result": ["nourishing"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00M0N18YM", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["pain relief"], "pred_result": ["", ""]}
+{"asin": "B000Q48DCW", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["detoxification"], "pred_result": ["", ""]}
+{"asin": "B084W9Y7HN", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["soothing"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B0882Z5189", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["moisture", "moisturizing"], "pred_result": ["", ""]}
+{"asin": "B017C00RQC", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["congestion relief", "soothes"], "pred_result": [""]}
+{"asin": "B0128EKO2O", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["soothing"], "pred_result": [""]}
+{"asin": "B06XVYNZ5M", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["cough relief"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01DL3VR6I", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["moisturize", "moisturizer"], "pred_result": ["", ""]}
+{"asin": "B01AIYXXQA", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["pain relief", "back pain relief"], "pred_result": [""]}
+{"asin": "B081H8VRDW", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["moisturising"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B0001VKXM8", "attribute": "ProductBenefit", "product_type": "medication", "gt_result": ["pain relief"], "pred_result": [""]}
+{"asin": "B07G79T79C", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["hydration"], "pred_result": ["", ""]}
+{"asin": "B0747VB21B", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["stress relief"], "pred_result": []}
+{"asin": "B07MC17XJP", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["sexual health"], "pred_result": []}
+{"asin": "B07VKHMPNQ", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["rejuvenate"], "pred_result": []}
+{"asin": "B005ZZ6V0I", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["digestive health"], "pred_result": ["", ""]}
+{"asin": "B07WC3ZVF7", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["immune support", "digestive health"], "pred_result": []}
+{"asin": "B085GT28B6", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["cellular energy production", "heart health"], "pred_result": ["", "", "", ""]}
+{"asin": "B000GWLGGE", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["joint health"], "pred_result": [""]}
+{"asin": "B07GFVGKFP", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["pain relief"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07T5WY5V4", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["hydration"], "pred_result": [""]}
+{"asin": "B088RHYN5S", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["brain health"], "pred_result": ["", "", ""]}
+{"asin": "B00LV3LE3C", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["appetite control", "weight loss"], "pred_result": []}
+{"asin": "B07QLWVWQD", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["digestive health"], "pred_result": ["", ""]}
+{"asin": "B00H4HBHYA", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["immune support"], "pred_result": [""]}
+{"asin": "B06XXN9CTG", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["digestive health"], "pred_result": ["", "", ""]}
+{"asin": "B016SSGO9I", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["weight loss"], "pred_result": []}
+{"asin": "B000Z93LKW", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["bone support", "bone", "bone health"], "pred_result": ["", ""]}
+{"asin": "B07B6B14NS", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["hydration"], "pred_result": ["", "", "", ""]}
+{"asin": "B08HCQY3FH", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["weight loss", "detox", "immune support"], "pred_result": ["", "", "", ""]}
+{"asin": "B002CQU51O", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["eye moisture", "brain health", "eye health"], "pred_result": ["", ""]}
+{"asin": "B01IKXSYMY", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["immune support"], "pred_result": ["", ""]}
+{"asin": "B085FQLBGP", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["detox", "weight loss"], "pred_result": []}
+{"asin": "B001FFCG38", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["skin hydration", "hydrates", "radiant skin", "hydration", "hydrated"], "pred_result": [""]}
+{"asin": "B08RXHS2F8", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["hydration"], "pred_result": ["", "", "", ""]}
+{"asin": "B01E4Z0NIK", "attribute": "ProductBenefit", "product_type": "nutritional_supplement", "gt_result": ["hydration"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B06Y3GKHVC", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["hydrates", "hydrating"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B01JLVSTEW", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["hydrates"], "pred_result": [""]}
+{"asin": "B00KVHQKQU", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["moisturizing"], "pred_result": ["", ""]}
+{"asin": "B07VN2414S", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["hydrating"], "pred_result": [""]}
+{"asin": "B083J5X4SF", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["moisturizing"], "pred_result": [""]}
+{"asin": "B071Z1KZ3K", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["hydrating"], "pred_result": []}
+{"asin": "B08LMF8CCG", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["moisturize", "moisturizer"], "pred_result": []}
+{"asin": "B07VWMKNBD", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["moisturizer"], "pred_result": [""]}
+{"asin": "B00487LBD6", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["replenish lost moisture", "moisture", "hydrating"], "pred_result": [""]}
+{"asin": "B00P89GTF8", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["moisturizing"], "pred_result": ["", ""]}
+{"asin": "B08Q16Q8MV", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["moisturizing"], "pred_result": [""]}
+{"asin": "B019CMTZYS", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["softness"], "pred_result": []}
+{"asin": "B00CSM4O00", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["hydrates"], "pred_result": []}
+{"asin": "B085WCCB69", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["hydrate skin"], "pred_result": []}
+{"asin": "B081KHWCNK", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["hydration"], "pred_result": ["", ""]}
+{"asin": "B0778RZ9KL", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["moisture"], "pred_result": []}
+{"asin": "B00147FGJ8", "attribute": "ProductBenefit", "product_type": "self_tanner", "gt_result": ["smooth", "soft"], "pred_result": []}
+{"asin": "B01IAEYH0G", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "cleansing"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B088X2K791", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser"], "pred_result": ["", "", ""]}
+{"asin": "B0713WYY64", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "hypoallergenic", "brightening"], "pred_result": ["", "", "", ""]}
+{"asin": "B06Y1RJSL4", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["exfoliate", "exfoliating"], "pred_result": [""]}
+{"asin": "B085S7Z6R2", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["feeling soft"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B08K2QH3XL", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["moisturizing", "hydrating", "soothes"], "pred_result": [""]}
+{"asin": "B0064FTVZ0", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["feeling soft", "hydrating"], "pred_result": [""]}
+{"asin": "B07SW1HT2S", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "radiant"], "pred_result": ["", ""]}
+{"asin": "B003U05566", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["replenishing", "exfoliating", "cleansing", "detoxifying", "hydrates"], "pred_result": ["", ""]}
+{"asin": "B07NF9XFJM", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["hypoallergenic"], "pred_result": ["", "", "", ""]}
+{"asin": "B00NNM05HA", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "moisturizer"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07KMHDDT5", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["soothing", "skin soothing"], "pred_result": ["", ""]}
+{"asin": "B001FB5TLI", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["hydrating"], "pred_result": []}
+{"asin": "B002WJHL54", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "hydrating", "hydrates"], "pred_result": ["", "", ""]}
+{"asin": "B06X3X82FC", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["hypoallergenic", "nourishing", "moisture"], "pred_result": [""]}
+{"asin": "B001ET76EY", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["hypoallergenic", "hydrating"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07YLJPMC3", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B004TPNJLO", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["moisturize"], "pred_result": ["", "", "", ""]}
+{"asin": "B005EY2VQS", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["nourishes"], "pred_result": ["", "", "", ""]}
+{"asin": "B082QC2MCX", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "nourishing", "nourished"], "pred_result": ["", "", ""]}
+{"asin": "B001ECQ41M", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "cleanser"], "pred_result": []}
+{"asin": "B084GH4CV6", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["moisturize"], "pred_result": [""]}
+{"asin": "B088HFBTFX", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "cleanser"], "pred_result": ["", "", ""]}
+{"asin": "B00FJ2LU2Q", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "cleanser", "detoxifying", "moisturizing", "brightening"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B001E6Q9IG", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["exfoliator"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01KLK3DQQ", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing"], "pred_result": ["", ""]}
+{"asin": "B01MYHEBKY", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["exfoliating", "cleansing", "cleanser", "hydrating"], "pred_result": [""]}
+{"asin": "B00G3QARY4", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser"], "pred_result": [""]}
+{"asin": "B07PW1FCDK", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "radiant"], "pred_result": ["", "", ""]}
+{"asin": "B000RUNRXK", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "moisturizer", "moisturizes", "moisture", "radiant"], "pred_result": ["", "", "", ""]}
+{"asin": "B07BQKGKXH", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["moisturizing", "feeling soft"], "pred_result": ["", "", ""]}
+{"asin": "B00SXUG8GE", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["exfoliating", "cleansing", "cleanser"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07RRT2FZ5", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "soothing", "moisturizing"], "pred_result": [""]}
+{"asin": "B07NF3MDG3", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "cleanser", "moisturizing"], "pred_result": [""]}
+{"asin": "B084DZNK49", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "cleanser", "moisturizing", "brightening"], "pred_result": ["", "", "", ""]}
+{"asin": "B07KGHRN82", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "cleanser", "soothing", "radiant"], "pred_result": []}
+{"asin": "B0865K9VSC", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing"], "pred_result": []}
+{"asin": "B07TB2MKJJ", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "hydrated", "hydrating", "hydrates"], "pred_result": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B07L3RFLF1", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["hydrate skin"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07VF75YND", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["moisturize", "softens"], "pred_result": ["", "", ""]}
+{"asin": "B00JF2LFSA", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["deep clean"], "pred_result": ["", ""]}
+{"asin": "B00004TMOK", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["rejuvenating", "moisturizing"], "pred_result": ["", "", "", ""]}
+{"asin": "B00IE5JRPW", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["soften", "radiant", "brightening"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00112DRHY", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["soothing", "nourishing", "moisturizing", "feeling soft"], "pred_result": ["", ""]}
+{"asin": "B00JHG4XNS", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["exfoliates"], "pred_result": [""]}
+{"asin": "B078SJY4QY", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "hydrating", "cleansing"], "pred_result": [""]}
+{"asin": "B01E2H32FG", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "hypoallergenic", "hydrating"], "pred_result": [""]}
+{"asin": "B08T4WZ6YD", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "nourishing", "soothing"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B004C112DW", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleanser", "cleans skin"], "pred_result": ["", ""]}
+{"asin": "B07WKDR1BL", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["exfoliating", "soothing", "exfoliation"], "pred_result": ["", "", "", ""]}
+{"asin": "B000IQXON6", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["moisturize"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B082WM6X9R", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["soothing"], "pred_result": ["", "", ""]}
+{"asin": "B07J4YLLDT", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["hypoallergenic"], "pred_result": []}
+{"asin": "B003YMJJSK", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "cleanser"], "pred_result": ["", ""]}
+{"asin": "B00CGCFX3E", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["soft"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B08L6ZKNBX", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "soothing", "nourishing", "moisturizing", "hydrating"], "pred_result": [""]}
+{"asin": "B01IMEJV5U", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["moisturizing", "moisture", "hydrating"], "pred_result": ["", ""]}
+{"asin": "B07G5KJG7N", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["nourished"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07FK8YR27", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["soothing", "moisturizing"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B01KM88XOY", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["moisture"], "pred_result": []}
+{"asin": "B01DA6WMSI", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["smooth", "soft"], "pred_result": ["", ""]}
+{"asin": "B07WCQWCRP", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["moisturizing", "helps soothe"], "pred_result": ["", "", ""]}
+{"asin": "B01NAH0EDX", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["cleansing", "cleanser", "soothing"], "pred_result": ["", ""]}
+{"asin": "B0716CKB4Y", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["feeling soft"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0073T0XNA", "attribute": "ProductBenefit", "product_type": "skin_cleaning_agent", "gt_result": ["soothe", "soothing"], "pred_result": ["", "", ""]}
+{"asin": "B08DQR9S84", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["moisturize", "exfoliating", "moisturizing", "hydrating"], "pred_result": []}
+{"asin": "B084KVKC33", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["replenishes"], "pred_result": ["", "", "", ""]}
+{"asin": "B076L13QP3", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["softening"], "pred_result": []}
+{"asin": "B07YLPT5H7", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliation", "radiant skin", "moisturizing"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B08FX8CCHY", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["firming", "energizing", "hydration", "moisturizing", "hydrating", "brightening"], "pred_result": [""]}
+{"asin": "B01EXDOPTQ", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating", "moisturizer", "nourishing", "hydrating"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01HTJTS0W", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliates", "exfoliating", "exfoliation"], "pred_result": ["", "", ""]}
+{"asin": "B07VSP8PM5", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["hydrating", "exfoliator"], "pred_result": ["", "", "", ""]}
+{"asin": "B078YDWD2V", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["softening"], "pred_result": ["", ""]}
+{"asin": "B07T3HFLM9", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating", "energizing", "exfoliator"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B08HQGWQPQ", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["moisturize", "moisturizer", "soothing", "nourishing", "moisturizing", "hydrating"], "pred_result": ["", ""]}
+{"asin": "B084H65JPW", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliates", "exfoliating", "exfoliation", "hydrating"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07JH39JQB", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliate", "exfoliating", "softening"], "pred_result": ["", ""]}
+{"asin": "B07HGG6VX4", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliate", "exfoliating", "cleansing", "hydrating", "hydrates"], "pred_result": ["", "", ""]}
+{"asin": "B07JR5HPJ6", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating", "soothing", "nourishing"], "pred_result": [""]}
+{"asin": "B007004PZO", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliates", "exfoliating", "exfoliation"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B08KC73VNG", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["nourishing", "soothes"], "pred_result": [""]}
+{"asin": "B004NLU638", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliate", "exfoliating", "exfoliation", "hydrating"], "pred_result": ["", ""]}
+{"asin": "B000R92VAQ", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["hydrates", "exfoliating"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07T2FSQX1", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating", "exfoliator"], "pred_result": []}
+{"asin": "B07BYMGDT3", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating", "soothing", "moisturizing"], "pred_result": [""]}
+{"asin": "B01LTI0948", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["cleanser"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0763DGRPZ", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating", "cleansing", "exfoliation"], "pred_result": [""]}
+{"asin": "B07BDR94YM", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating", "moisturizing"], "pred_result": [""]}
+{"asin": "B01BF1739S", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["hydration"], "pred_result": [""]}
+{"asin": "B00YNR4MOQ", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating", "soothing"], "pred_result": [""]}
+{"asin": "B000I5HTVU", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["cleanser"], "pred_result": ["", ""]}
+{"asin": "B08LVZ16SY", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["skin lightening", "lightening"], "pred_result": []}
+{"asin": "B086CF8RMG", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["cleanser", "moisturizing"], "pred_result": [""]}
+{"asin": "B07XKBVRXW", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["moisturizing", "hydrating", "hydrated"], "pred_result": ["", "", ""]}
+{"asin": "B07FH758LZ", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliates", "smoother", "radiant skin"], "pred_result": []}
+{"asin": "B07PHQ9KS2", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating", "soothing", "nourishing", "hydrating"], "pred_result": ["", ""]}
+{"asin": "B08FXKKM26", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliates", "exfoliating", "revitalizing"], "pred_result": ["", "", ""]}
+{"asin": "B079LZVR8D", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["brightening"], "pred_result": []}
+{"asin": "B073QN78W6", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["moisturizing", "feeling soft"], "pred_result": []}
+{"asin": "B000GDFYDE", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["soothing", "hydrating", "softens"], "pred_result": ["", ""]}
+{"asin": "B075JLNV6R", "attribute": "ProductBenefit", "product_type": "skin_exfoliant", "gt_result": ["exfoliating"], "pred_result": []}
+{"asin": "B07YW8K5HD", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "oil control", "soothing", "moisturizing", "hydrating"], "pred_result": ["", "", ""]}
+{"asin": "B08FX3Q52C", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smooth"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07HM858LM", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B0768SYYJW", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", ""]}
+{"asin": "B071P6CX9C", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", ""]}
+{"asin": "B07B4HNXJ8", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["hydration"], "pred_result": ["", "", "", ""]}
+{"asin": "B01N1UUETU", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["soothing"], "pred_result": [""]}
+{"asin": "B01ACPZ4R6", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["hydrating"], "pred_result": ["", "", "", ""]}
+{"asin": "B0749DF7HC", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "flawless skin"], "pred_result": ["", ""]}
+{"asin": "B0039UTUYA", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07PGQD3XM", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": [""]}
+{"asin": "B01D1DQO34", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["radiant finish", "hydrating"], "pred_result": ["", ""]}
+{"asin": "B07GF95ZNF", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["moisturizing skin", "moisturizing", "moisturizer"], "pred_result": ["", ""]}
+{"asin": "B086LJVH4N", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["soothing", "smooth"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01MY7M3R8", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", "", ""]}
+{"asin": "B07N6Z8TQH", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["soft"], "pred_result": ["", "", "", ""]}
+{"asin": "B079MHWWLP", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "color correction", "nourishing"], "pred_result": ["", ""]}
+{"asin": "B00VNBUV36", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["luminous finish"], "pred_result": ["", ""]}
+{"asin": "B0169YYGPU", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07SC5DCPW", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smooth"], "pred_result": ["", "", "", ""]}
+{"asin": "B07982BWYL", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smoother", "flawless", "smooth"], "pred_result": []}
+{"asin": "B086LK1987", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "soothing", "smoothing"], "pred_result": ["", "", "", ""]}
+{"asin": "B0094G3M6A", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smooth"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00KWKBMVO", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["nourishing", "hydrating", "nourished"], "pred_result": ["", "", "", ""]}
+{"asin": "B07VHCY5T7", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["color correction", "hydrating"], "pred_result": [""]}
+{"asin": "B002C5IUWQ", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["brightens skin", "brightening"], "pred_result": ["", ""]}
+{"asin": "B0176TV5CE", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["moisturizes", "moisturizing"], "pred_result": [""]}
+{"asin": "B074WD5RKB", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smoothing"], "pred_result": [""]}
+{"asin": "B0094G3MRY", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smooth"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07YYCMXNW", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "hydration"], "pred_result": ["", "", "", ""]}
+{"asin": "B079MFP54C", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "color correction", "nourishing"], "pred_result": ["", ""]}
+{"asin": "B071D7MG6Q", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B07Z9WGWS6", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smoothing", "flawless", "hydrated", "hydrating", "hydrates"], "pred_result": ["", ""]}
+{"asin": "B07R4LG218", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["moisturize", "flawless", "nourishing", "hydrating"], "pred_result": [""]}
+{"asin": "B085JC7H7G", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smooth"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B00D2NUTIA", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["hydrating"], "pred_result": ["", ""]}
+{"asin": "B07SXD3C8J", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["nourishing", "moisturizing"], "pred_result": ["", ""]}
+{"asin": "B07H14D6CR", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", "", "", ""]}
+{"asin": "B08FX2B8ZF", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smooth"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B0058IQ0JE", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "hypoallergenic"], "pred_result": ["", ""]}
+{"asin": "B0188UIWD0", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", "", ""]}
+{"asin": "B07YSNJQPF", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "moisturizing"], "pred_result": ["", "", ""]}
+{"asin": "B00JIESMR2", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["hypoallergenic"], "pred_result": [""]}
+{"asin": "B00PFCTLA8", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smooth"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0842CC3PY", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["nourishing", "skin nourishing"], "pred_result": ["", "", "", ""]}
+{"asin": "B07S8YTCJT", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smooth"], "pred_result": ["", "", "", ""]}
+{"asin": "B07MR2QJV5", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["radiant finish", "smooth", "moisturizing", "hydrating", "hydrated"], "pred_result": ["", ""]}
+{"asin": "B08L57RFF3", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smoothing", "flawless", "oil control", "moisturizing"], "pred_result": ["", "", "", ""]}
+{"asin": "B08H596HDW", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "hydrating"], "pred_result": [""]}
+{"asin": "B01643ICBK", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["luminous", "luminous finish"], "pred_result": [""]}
+{"asin": "B07B4F46M4", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["hydration"], "pred_result": ["", ""]}
+{"asin": "B085JCLCD9", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["smooth"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07GDS8XQ9", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["moisturizing skin", "moisturizing", "moisturizer"], "pred_result": ["", "", ""]}
+{"asin": "B07PVMVCBP", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["moisturizes", "moisture"], "pred_result": ["", ""]}
+{"asin": "B00SAZHY2E", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless", "hypoallergenic", "soothing"], "pred_result": [""]}
+{"asin": "B082DLND5K", "attribute": "ProductBenefit", "product_type": "skin_foundation_concealer", "gt_result": ["flawless"], "pred_result": ["", "", ""]}
+{"asin": "B00G6H88FK", "attribute": "ProductBenefit", "product_type": "skin_moisturizer", "gt_result": ["hydration", "hydrates"], "pred_result": ["", ""]}
+{"asin": "B01IA9E5ZS", "attribute": "ProductBenefit", "product_type": "skin_moisturizer", "gt_result": ["moisturizer"], "pred_result": ["", ""]}
+{"asin": "B007H33YEM", "attribute": "ProductBenefit", "product_type": "skin_moisturizer", "gt_result": ["brightening"], "pred_result": ["", "", "", ""]}
+{"asin": "B008DG4MK2", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["hydrating"], "pred_result": ["", ""]}
+{"asin": "B06XJ3MTKW", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["moisturize", "cleansing"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00GB1E940", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["moisturizing"], "pred_result": [""]}
+{"asin": "B078Q5D7TS", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["weight loss"], "pred_result": []}
+{"asin": "B07MRMZ5Q6", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["hydrate", "hydration", "hydrating"], "pred_result": ["", ""]}
+{"asin": "B08BF8PLSL", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["hydrate", "soothing", "moisturizing"], "pred_result": ["", ""]}
+{"asin": "B08F22B9LW", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["pain relief"], "pred_result": [""]}
+{"asin": "B07QG9Y5B3", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["soothing"], "pred_result": [""]}
+{"asin": "B07QNXBW1H", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["pain relief", "soothing"], "pred_result": []}
+{"asin": "B00SZMYGDM", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["softer", "smoother"], "pred_result": [""]}
+{"asin": "B07CJ5Q48T", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["anti aging"], "pred_result": []}
+{"asin": "B07XLP6FMP", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["detox"], "pred_result": []}
+{"asin": "B08MCLHV5L", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["cleanser", "moisturizing"], "pred_result": [""]}
+{"asin": "B08RYBWBL7", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["cleansing", "oil control", "moisturizes", "moisture"], "pred_result": [""]}
+{"asin": "B08MQ1XDPQ", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["anti aging", "firming"], "pred_result": [""]}
+{"asin": "B08R8QCBHX", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["soothing", "moisturizes", "moisturizing", "moisture", "hydrating", "softening", "anti aging"], "pred_result": ["", "", "", ""]}
+{"asin": "B07S56HMQ1", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["firming", "soothing", "moisture", "hydrating"], "pred_result": [""]}
+{"asin": "B07HJH8GY1", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["firming", "rejuvenate", "soothe", "soothing", "hydrating", "nourish"], "pred_result": [""]}
+{"asin": "B08PXXRN6N", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["tighten"], "pred_result": [""]}
+{"asin": "B01MZBEWOL", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["moisturizing"], "pred_result": ["", "", ""]}
+{"asin": "B07KWK2VJJ", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["cleansing", "smooth", "conditioning"], "pred_result": [""]}
+{"asin": "B0899YGQP9", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["smooth", "soft"], "pred_result": [""]}
+{"asin": "B07DN7V5GK", "attribute": "ProductBenefit", "product_type": "skin_treatment_mask", "gt_result": ["exfoliates"], "pred_result": [""]}
+{"asin": "B08LNQYYRB", "attribute": "ProductBenefit", "product_type": "sugar_substitute", "gt_result": ["weight management"], "pred_result": [""]}
+{"asin": "B086S2KG7V", "attribute": "ProductBenefit", "product_type": "sugar_substitute", "gt_result": ["weight management"], "pred_result": [""]}
+{"asin": "B086J3Y6J9", "attribute": "ProductBenefit", "product_type": "sugar_substitute", "gt_result": ["weight management"], "pred_result": [""]}
+{"asin": "B082P3F99K", "attribute": "ProductBenefit", "product_type": "sugar_substitute", "gt_result": ["weight management"], "pred_result": []}
+{"asin": "B082RSH378", "attribute": "ProductBenefit", "product_type": "sugar_substitute", "gt_result": ["weight management"], "pred_result": []}
+{"asin": "B07Q9S2ZDM", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": ["", "", "", ""]}
+{"asin": "B00FLFIR04", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["cavity protection"], "pred_result": ["", "", "", ""]}
+{"asin": "B000142JF4", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening", "cavity protection"], "pred_result": [""]}
+{"asin": "B07JW8WKH7", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B000NSQK3U", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B008D5I4XY", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": ["", ""]}
+{"asin": "B01GKA1MZA", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B0852PDN2Z", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": ["", ""]}
+{"asin": "B07PB1111J", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["remineralization", "whitening", "cavity protection"], "pred_result": ["", ""]}
+{"asin": "B08L44XSMC", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whiten teeth"], "pred_result": [""]}
+{"asin": "B07NXJXLQ2", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07Y2BWRT2", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": ["", "", ""]}
+{"asin": "B07Q12KPZ1", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening", "whitens teeth"], "pred_result": ["", "", ""]}
+{"asin": "B01FHWEZP6", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["soothing"], "pred_result": [""]}
+{"asin": "B087T1Z7V5", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["deep clean"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00JUJ1EBQ", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening", "whitens teeth"], "pred_result": ["", ""]}
+{"asin": "B000E3DX52", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["remineralization", "whitening"], "pred_result": ["", ""]}
+{"asin": "B0842V2TJH", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B07961C65H", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": ["", ""]}
+{"asin": "B078GH7RTQ", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B00CVE9PC2", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["soothing"], "pred_result": ["", "", ""]}
+{"asin": "B01CWYEUWK", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["whitening", "soothing"], "pred_result": ["", "", ""]}
+{"asin": "B07WR6FCLR", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["stain removal"], "pred_result": ["", ""]}
+{"asin": "B013OSRW14", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["soothing"], "pred_result": ["", "", "", ""]}
+{"asin": "B07HJRCN8W", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["anticavity"], "pred_result": ["", "", ""]}
+{"asin": "B07K4W5HWN", "attribute": "ProductBenefit", "product_type": "tooth_cleaning_agent", "gt_result": ["cavity protection", "anticavity"], "pred_result": [""]}
+{"asin": "B08NC6RRBN", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B08JPQ5K1V", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B08FYMQKYK", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", ""]}
+{"asin": "B08PP3Q5CQ", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B08QDRFJWQ", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening", "remineralization"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B012F2WCOC", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", ""]}
+{"asin": "B08PK1HR2R", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", ""]}
+{"asin": "B08DD4G366", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B08V3ZLBWT", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", "", ""]}
+{"asin": "B08FJCH5TH", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B00E7KQK9Y", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", "", ""]}
+{"asin": "B08LQQ64M3", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B082T5F3HR", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["brightening", "whitening"], "pred_result": [""]}
+{"asin": "B08QJ5GJXB", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B08QDRF3VN", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening", "remineralization"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B085QWHCRP", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", "", ""]}
+{"asin": "B08HC6MP63", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", ""]}
+{"asin": "B08QZZCV1N", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B08R6JKWKY", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening", "remineralization"], "pred_result": ["", "", "", ""]}
+{"asin": "B08GC672XJ", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", "", ""]}
+{"asin": "B08P2JD8TF", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B08K2K6FQY", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", ""]}
+{"asin": "B07HMM8BQ3", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", ""]}
+{"asin": "B07SJYKQH9", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", ""]}
+{"asin": "B08V4VKBFK", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B08KDMTRXK", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B08QJNNJRP", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B0891XSD8M", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B08S6VQNGM", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B08B69Y1X5", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B08TBLCBMS", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B08FBG88QJ", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B08QZVMX81", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B08R6VXPTL", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B0061OQSY6", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", ""]}
+{"asin": "B00VLNI58O", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B01C9O8IGM", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B08QDQ81PM", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening", "remineralization"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B074C4F5KW", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B08VBK2FLK", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["remineralization", "whitening"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00CXXKR28", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": ["", ""]}
+{"asin": "B087V8WWCX", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B08QYTL31G", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}
+{"asin": "B08SJR59TD", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": []}
+{"asin": "B000C4TBYK", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["remineralization", "whitening"], "pred_result": ["", ""]}
+{"asin": "B08CZTSSGH", "attribute": "ProductBenefit", "product_type": "tooth_whitener", "gt_result": ["whitening"], "pred_result": [""]}

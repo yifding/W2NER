@@ -1,0 +1,89 @@
+{"asin": "B085H6X9YT", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B0054Y1NU8", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B085XHT6NV", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B085TNJJCZ", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B001A7M7TY", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", "", ""]}
+{"asin": "B001W9SIKC", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07YTY2Z5N", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00J8EJ0S2", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", "", ""]}
+{"asin": "B081NHSVK6", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B005Q7EKOY", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B08681C5Z5", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B07MY1JDX8", "attribute": "TargetGender", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
+{"asin": "B07YCJXTC4", "attribute": "TargetGender", "product_type": "hair_clip", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07WZNVQTG", "attribute": "TargetGender", "product_type": "hair_clip", "gt_result": ["female"], "pred_result": ["", "", ""]}
+{"asin": "B07RXKB581", "attribute": "TargetGender", "product_type": "hair_clip", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07SHSNQDS", "attribute": "TargetGender", "product_type": "hair_clip", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07YG7CXNR", "attribute": "TargetGender", "product_type": "hair_clip", "gt_result": ["female"], "pred_result": ["", ""]}
+{"asin": "B07S2461LH", "attribute": "TargetGender", "product_type": "hair_clip", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07P64K6M3", "attribute": "TargetGender", "product_type": "hair_clip", "gt_result": ["female"], "pred_result": []}
+{"asin": "B07SVX6PF6", "attribute": "TargetGender", "product_type": "hair_clip", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07RQ68521", "attribute": "TargetGender", "product_type": "hair_clip", "gt_result": ["female"], "pred_result": ["", ""]}
+{"asin": "B082HNM9W6", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["female"], "pred_result": ["", ""]}
+{"asin": "B082L17F8G", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B07WJK58BR", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B081DKQ8RT", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B0819KYYSC", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B086JWCWFB", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["unisex"], "pred_result": [""]}
+{"asin": "B07VC8D1KL", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B082F9GJDV", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["female"], "pred_result": []}
+{"asin": "B07V9MW17R", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07X357Y96", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["female"], "pred_result": ["", ""]}
+{"asin": "B081DVHXS3", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07WXK79J5", "attribute": "TargetGender", "product_type": "hair_tie", "gt_result": ["female"], "pred_result": ["", "", "", ""]}
+{"asin": "B07TC1LZGJ", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07VYNKBMF", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": ["", "", "", ""]}
+{"asin": "B07TC2GWY5", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TF72C5S", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B0776GQ31C", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B07TBZZV5P", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": ["", "", ""]}
+{"asin": "B081NGL8S1", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": ["", "", ""]}
+{"asin": "B07S9VQKQ7", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TF7VTCN", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07SQFV5VY", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TC1FS4Y", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B00KA8Z6WO", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B01NAHBP9Y", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": [""]}
+{"asin": "B07PZSQPQT", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["male"], "pred_result": [""]}
+{"asin": "B07TBZG5NY", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TD21716", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B00PZ2LTJE", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B07TF7M42Q", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B00ZQDN51C", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": [""]}
+{"asin": "B00W2A7CMU", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": [""]}
+{"asin": "B07TF76XY9", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TD1KSJF", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B081DS6JW2", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TD1Y5JV", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": []}
+{"asin": "B07TD4BTSB", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": []}
+{"asin": "B01MU3AYD5", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": [""]}
+{"asin": "B07VFJYS57", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TD46VHZ", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B081DS7FDZ", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["male"], "pred_result": [""]}
+{"asin": "B01M0UV1QC", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": ["", "", "", ""]}
+{"asin": "B082VMGVTH", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["male"], "pred_result": [""]}
+{"asin": "B07TGB3Y4W", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": ["", ""]}
+{"asin": "B07TBZJ3PG", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07W8B2H65", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["male"], "pred_result": [""]}
+{"asin": "B07SKSYN1D", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TD23DTN", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": []}
+{"asin": "B07TD45R6J", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TD4253S", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B07TBZX2WB", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": []}
+{"asin": "B005OS6WBE", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["unisex"], "pred_result": [""]}
+{"asin": "B07TBZLV7L", "attribute": "TargetGender", "product_type": "incontinence_protector", "gt_result": ["female"], "pred_result": [""]}
+{"asin": "B01N6EKG8Z", "attribute": "TargetGender", "product_type": "nutritional_supplement", "gt_result": ["male"], "pred_result": []}
+{"asin": "B01CQ4HAUU", "attribute": "TargetGender", "product_type": "nutritional_supplement", "gt_result": ["male"], "pred_result": [""]}
+{"asin": "B00PKK5LMW", "attribute": "TargetGender", "product_type": "nutritional_supplement", "gt_result": ["male"], "pred_result": [""]}
+{"asin": "B01LY2L2BW", "attribute": "TargetGender", "product_type": "shampoo", "gt_result": ["male"], "pred_result": [""]}
+{"asin": "B004JCKT4M", "attribute": "TargetGender", "product_type": "shampoo", "gt_result": ["female"], "pred_result": ["", ""]}
+{"asin": "B081X2QQ77", "attribute": "TargetGender", "product_type": "shampoo", "gt_result": ["female"], "pred_result": ["", ""]}
+{"asin": "B00DTC294Q", "attribute": "TargetGender", "product_type": "shampoo", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B003JVTQ7K", "attribute": "TargetGender", "product_type": "skin_cleaning_agent", "gt_result": ["female"], "pred_result": ["", "", ""]}
+{"asin": "B06W2FX1NK", "attribute": "TargetGender", "product_type": "skin_cleaning_agent", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B010QZERFW", "attribute": "TargetGender", "product_type": "skin_cleaning_agent", "gt_result": ["male"], "pred_result": ["", ""]}
+{"asin": "B008CZBZQI", "attribute": "TargetGender", "product_type": "skin_cleaning_agent", "gt_result": ["male"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B072C7X3L6", "attribute": "TargetGender", "product_type": "skin_cleaning_agent", "gt_result": ["female"], "pred_result": ["", "", "", ""]}
+{"asin": "B071K9D26B", "attribute": "TargetGender", "product_type": "skin_cleaning_agent", "gt_result": ["unisex"], "pred_result": ["", ""]}
+{"asin": "B07JVFLVMV", "attribute": "TargetGender", "product_type": "vitamin", "gt_result": ["female"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B012GZUVVO", "attribute": "TargetGender", "product_type": "vitamin", "gt_result": ["male"], "pred_result": ["", ""]}

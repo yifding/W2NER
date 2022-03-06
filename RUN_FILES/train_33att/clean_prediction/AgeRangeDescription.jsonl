@@ -1,0 +1,696 @@
+{"asin": "B00757ADZ8", "attribute": "AgeRangeDescription", "product_type": "cleaning_agent", "gt_result": [], "pred_result": ["", "", "", ""]}
+{"asin": "B085Q6GQTW", "attribute": "AgeRangeDescription", "product_type": "cleaning_agent", "gt_result": [], "pred_result": [""]}
+{"asin": "B083SLV5KD", "attribute": "AgeRangeDescription", "product_type": "cleaning_agent", "gt_result": [], "pred_result": [""]}
+{"asin": "B0893BTPJN", "attribute": "AgeRangeDescription", "product_type": "cleaning_agent", "gt_result": [], "pred_result": [""]}
+{"asin": "B087LRNLYZ", "attribute": "AgeRangeDescription", "product_type": "cleaning_agent", "gt_result": [], "pred_result": [""]}
+{"asin": "B085RF4PDX", "attribute": "AgeRangeDescription", "product_type": "cleaning_agent", "gt_result": [], "pred_result": ["", "", "", ""]}
+{"asin": "B087Q3F76H", "attribute": "AgeRangeDescription", "product_type": "cleaning_agent", "gt_result": [], "pred_result": [""]}
+{"asin": "B08BY9JZ1H", "attribute": "AgeRangeDescription", "product_type": "cleaning_agent", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B0813B28XN", "attribute": "AgeRangeDescription", "product_type": "cleaning_agent", "gt_result": [], "pred_result": [""]}
+{"asin": "B07KBB7YHW", "attribute": "AgeRangeDescription", "product_type": "conditioner", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B07MLJRJ9V", "attribute": "AgeRangeDescription", "product_type": "conditioner", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B00CQ7SXM2", "attribute": "AgeRangeDescription", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
+{"asin": "B07TSHK6L2", "attribute": "AgeRangeDescription", "product_type": "conditioner", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B07ZXZ58PV", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B088JX619T", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B088LYRZBD", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": []}
+{"asin": "B088WFFL42", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B08B5QGT75", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": [""]}
+{"asin": "B07FW49HV4", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": [""]}
+{"asin": "B00A2C6DRA", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": [""]}
+{"asin": "B089KQP6TN", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": [""]}
+{"asin": "B088NPSJX2", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B088LL616M", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B088WG4QFH", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B088LVB4TZ", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": []}
+{"asin": "B0895PS9Q8", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": [""]}
+{"asin": "B0885XZNKL", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": [""]}
+{"asin": "B088WC1P7D", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B088M8TFHR", "attribute": "AgeRangeDescription", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": []}
+{"asin": "B00YWI60R8", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["adult"], "pred_result": ["", "", "", ""]}
+{"asin": "B00PKHJG3A", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": []}
+{"asin": "B0769FKK7N", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B07JHLLZ3W", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07VWWLQL6", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": [""]}
+{"asin": "B088Z6T68C", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", "", "", ""]}
+{"asin": "B07XSLGM99", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["kid"], "pred_result": []}
+{"asin": "B078GC2GBF", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B07L38HD1D", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": []}
+{"asin": "B00Q8SAD32", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B0832S5KST", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B0832HPKK8", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B0852CL2D4", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["kid"], "pred_result": []}
+{"asin": "B00GNLG0RW", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B00VQTRQ56", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": []}
+{"asin": "B07W21LJWV", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": [""]}
+{"asin": "B005IHMXEQ", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["adult"], "pred_result": ["", "", "", ""]}
+{"asin": "B088NZCFHP", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B01BMT8Y9G", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B004YTW3EY", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": []}
+{"asin": "B07HMBYWF5", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07GJQS4Q2", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B07B44HHHX", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": []}
+{"asin": "B07FSXS6S1", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B000LC22R6", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": []}
+{"asin": "B07TS2D12S", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": [""]}
+{"asin": "B0832P6QLZ", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B001204XXW", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B08B65Y2WC", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": []}
+{"asin": "B07W1ZGBFW", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": []}
+{"asin": "B0832829T8", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B00D01982W", "attribute": "AgeRangeDescription", "product_type": "dental_floss", "gt_result": [], "pred_result": [""]}
+{"asin": "B01N9H1QWK", "attribute": "AgeRangeDescription", "product_type": "eyelid_color", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07KQ5T6WL", "attribute": "AgeRangeDescription", "product_type": "eyelid_color", "gt_result": [], "pred_result": [""]}
+{"asin": "B07YDCL4FH", "attribute": "AgeRangeDescription", "product_type": "hair_clip", "gt_result": ["kid"], "pred_result": ["", "", ""]}
+{"asin": "B078V9516R", "attribute": "AgeRangeDescription", "product_type": "hair_clip", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B071JX7FY4", "attribute": "AgeRangeDescription", "product_type": "hair_clip", "gt_result": ["infant", "toddler", "baby"], "pred_result": []}
+{"asin": "B07Q6YNNRS", "attribute": "AgeRangeDescription", "product_type": "hair_clip", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B083LXGM9T", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07XHK3SBX", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["toddler"], "pred_result": []}
+{"asin": "B01LXC2QYT", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": ["", "", ""]}
+{"asin": "B085HP3DGN", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07ZJSCVK3", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": ["", "", "", ""]}
+{"asin": "B07QLTNDLR", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": [""]}
+{"asin": "B07XHJL76Y", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["toddler"], "pred_result": []}
+{"asin": "B082D7PTRV", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": [""]}
+{"asin": "B084Y9B4VC", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": []}
+{"asin": "B07V4BG3BY", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B07V79ZJHD", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B084RKRJMZ", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": []}
+{"asin": "B085RJLF7Z", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B086JLT4LR", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B0871SN3QY", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B01N3BFFLH", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["infant", "baby", "kid"], "pred_result": ["", ""]}
+{"asin": "B07G435NWT", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07Q8VBM19", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["toddler"], "pred_result": []}
+{"asin": "B07WYY8S52", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["toddler", "baby"], "pred_result": [""]}
+{"asin": "B07GRBSZMN", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B07MCSWLQD", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B0861JVCD9", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": ["", ""]}
+{"asin": "B07QFBZHNS", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07V4BW53P", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07MDS91JC", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B083K1NZXG", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": ["", ""]}
+{"asin": "B073PSYSB6", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07QQ1ZN6H", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": [], "pred_result": [""]}
+{"asin": "B07D7PRMR1", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby", "teen"], "pred_result": []}
+{"asin": "B083QJ1D4Q", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": [""]}
+{"asin": "B072LQBPHP", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": [""]}
+{"asin": "B01EWCV5J6", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07DG7ZMQM", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B00HZ653YA", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": [""]}
+{"asin": "B01N7XIHIO", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B0818XM6D9", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07Y2SKLPP", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["baby", "kid"], "pred_result": [""]}
+{"asin": "B07W67RMBH", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": [""]}
+{"asin": "B083LLSL5V", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B08475G7G3", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["toddler", "baby", "kid"], "pred_result": [""]}
+{"asin": "B088P41CPS", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": ["teen"], "pred_result": ["", "", "", ""]}
+{"asin": "B087NPM5HC", "attribute": "AgeRangeDescription", "product_type": "hair_tie", "gt_result": [], "pred_result": []}
+{"asin": "B07856YZ5W", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B006HT2T52", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "baby"], "pred_result": ["", ""]}
+{"asin": "B00MJ8K092", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": [""]}
+{"asin": "B0813NK1RL", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": [], "pred_result": [""]}
+{"asin": "B07FTV44N2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07GSH46Q5", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B07SVHK13S", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B0199STVRQ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07MYVXJDD", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07CXJ7499", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B00PU0DLHO", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B07CWM3JPY", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "baby"], "pred_result": ["", "", ""]}
+{"asin": "B07G9M9DLC", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B010OVPM9S", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B01AWKK7I2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": [""]}
+{"asin": "B07DY9VX17", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B083M1RG69", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07V5RL66V", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07G4VKGV9", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B00GMTFP0S", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07QK31YMV", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B012IUH7R8", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B00JVBP8BK", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B0839982GL", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B0142US5NW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07MFKQS3Q", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07G4TLZYQ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B00KHUMBAA", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B004XZKSH8", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": [""]}
+{"asin": "B01N5LEMIW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B083M19PLL", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07N92R1J8", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07GSFH7QQ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07KM94VBC", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07MDRNDD5", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B084TLJMBN", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B01AUJ1DK6", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07GS7QB9R", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B01MU2VWGB", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B078CR8CCH", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B07QJ2JWZ2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B01N6IRNDK", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["infant", "baby"], "pred_result": ["", ""]}
+{"asin": "B07M6FL9V4", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07FDKTS52", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B0792T5H6L", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07F5FY523", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07M77WWNC", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B08399LKT3", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07M6FLDVZ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B01BGLFIRG", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B082VYB5RM", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07GS7CR84", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B078XYFG18", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "baby"], "pred_result": [""]}
+{"asin": "B07FCYV895", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B07KGQTST6", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07FTST94F", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": [""]}
+{"asin": "B07KGR8W8N", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B00U16LTMQ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07DC8BR3B", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B01HJF0DVE", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B010OVIR90", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B071FJGPZP", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00HJKP720", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B084DTQG3P", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B082Q9FQKK", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B082F24HFL", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B0792FNGZW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B082WZ4419", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B082QBFMT9", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07GS7Q6KD", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B010OVZO64", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07GBC76W5", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07KPVPXBL", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07QDP9RW1", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B084H4RGLX", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07MYVXSDH", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B004M379W8", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B07ST1YMH1", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["newborn"], "pred_result": ["", "", ""]}
+{"asin": "B00FMWX4JK", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B01GTGZTRM", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": [""]}
+{"asin": "B000NNB35A", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07JBNP98Y", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["newborn"], "pred_result": ["", ""]}
+{"asin": "B07F6G42R9", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B00NAK8VAS", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B08399ZJ9B", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07MYWMKNK", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B01B649SZ6", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", ""]}
+{"asin": "B07L8ZTCKW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B078J8VPVW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B00TFXH3IU", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07DCB7H79", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", "", ""]}
+{"asin": "B07MYD18HS", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B01BH9YR4W", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", ""]}
+{"asin": "B07VY9KHY5", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B0839B9Q27", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B084TL42PN", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07V4MZF2W", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B01HOBY9EK", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B078XY2LDR", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["infant", "baby"], "pred_result": [""]}
+{"asin": "B078SX8N7Y", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B000FBT6JU", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07CS42SNG", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B01B4PI2BS", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B07KGSN5GR", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07MYWF4CV", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B0142US226", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B082QBHW74", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00FMWX620", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B0833QYZHW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07BRFNX7Q", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07G97TP31", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B07SWMVDBD", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B077VHXG27", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B007CXIURI", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B06Y5YRRF6", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B000NNEPIM", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B012AIIOU2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", "", ""]}
+{"asin": "B071DY417R", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07GS7RD35", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07SC6NL67", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "baby"], "pred_result": ["", ""]}
+{"asin": "B07961T2MS", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07G4V1JG3", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B072LTFM5L", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B082F1V5YN", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B00B4ZA244", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": [], "pred_result": [""]}
+{"asin": "B07KS319LQ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B010OVXFCY", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B000NNB35U", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07FZN6QH8", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B082F22GVX", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", "", "", ""]}
+{"asin": "B0019I6R0E", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", ""]}
+{"asin": "B085RLX6ZH", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "baby"], "pred_result": [""]}
+{"asin": "B004OUFRXM", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B01MT804BI", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07QCQKPWQ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07GSHBT8N", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B07M6FL9V2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B00KY3YVH6", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07VCGVYCW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B07MK99ZVZ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B00CJSZ0KG", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": [""]}
+{"asin": "B07BRB15MM", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B00QL8ZPI2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07S6MZDWJ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07QZ1KKJ9", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", "", "", ""]}
+{"asin": "B0197XRSYQ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07DYLJHLB", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B01B4PHW8C", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", ""]}
+{"asin": "B07Y5CNHK1", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B076HJ1D54", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07G4F4KCZ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B001BBX7FW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B002RT8O5U", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B00MIQYJC4", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["infant", "baby"], "pred_result": [""]}
+{"asin": "B000NVO0DE", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B088CXL95W", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B07VRXP1VR", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07N93V57T", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07DY94WQ5", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07TQN25Z3", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B089TYWFDB", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07DVP7NMY", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B005TI82AI", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["newborn"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B008CO60FK", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B00KXUW72G", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B086LD1NB5", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", "", "", ""]}
+{"asin": "B07GSB884R", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B01GTGZOWC", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": [""]}
+{"asin": "B07BLXWQYY", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B07M8ZQG8R", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07MRQ9PL8", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", ""]}
+{"asin": "B082QBFMSY", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0792H2L4B", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B00DDMJ2NI", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B081QVRXZC", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B0106CQZH8", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": [""]}
+{"asin": "B07R2BT1LS", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B0721STKQ2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07KDW5QXX", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B01M35MVDE", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07KGXT6TX", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B01M8HO66M", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00EKRCJ44", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07R15693G", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B0721JR6Z5", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B01IRPY4HE", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B00JAE3NFQ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", "", ""]}
+{"asin": "B082F1TTZ9", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", ""]}
+{"asin": "B007VBYVWE", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B00DDMIZP4", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B00IOVU6HY", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B082VY6QYR", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B01MS075EA", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B082QC9FWW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00HB0WE56", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B078J2JVN2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": []}
+{"asin": "B0745S2YMP", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["newborn"], "pred_result": ["", ""]}
+{"asin": "B07RXXD2SY", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B000NNCQ38", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07MYVX56H", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B00B35M9P0", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07F6DP7X9", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B07L9FQTLR", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07XVHGK7T", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07RJXXY3Y", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B07QB6N54C", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B01IBEQH76", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B00TJ6WLV2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", ""]}
+{"asin": "B082WZLBV1", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07GS7PYRD", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", ""]}
+{"asin": "B000NNEPH8", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07QJ2K7L2", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B008RJV1NQ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B0839B4TQF", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B0792MYNY3", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B0142UQHAK", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B07MDRNHYC", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07GT3ZLMD", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B084DTYYYS", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07YTVNPM5", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", "", "", ""]}
+{"asin": "B07KGSMN7H", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07MP6VXRN", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07CW19CXW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07N94GJM8", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B0891DNMGP", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": [], "pred_result": ["", "", "", ""]}
+{"asin": "B00Q4I8T4G", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B01N6J36E6", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07T83W1RT", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07DCCP3Y1", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", "", ""]}
+{"asin": "B00R4HZ3A4", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07YYL8817", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B072KHL1ZZ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["newborn"], "pred_result": [""]}
+{"asin": "B07MHYB46P", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07R9D5FYR", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B08399136S", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07MYW25CJ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B082Q97WFS", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07SRBRJX4", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B01LVVDVR5", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B079KD74DD", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07SX3HLVT", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B0728GGZDX", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "kid"], "pred_result": ["", ""]}
+{"asin": "B07CT2FW2V", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B01BV0NGPS", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07G4QSMLS", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B003AJHDQW", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["infant", "baby"], "pred_result": ["", "", ""]}
+{"asin": "B07G4T8ZG7", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07QK3BH6W", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B00787HPJM", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07CVWL8PN", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": ["", "", ""]}
+{"asin": "B01KW1L8HK", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby", "newborn"], "pred_result": [""]}
+{"asin": "B00CA9LB7A", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B008RJV0SM", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B00ZV2DQ8K", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B00RF3IW0K", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B00FJEEC4C", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07QCQKPWV", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B07FTPCWL6", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B084DTT4RG", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07SHDZLWT", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B079P4TKWC", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07FVX4WWZ", "attribute": "AgeRangeDescription", "product_type": "incontinence_protector", "gt_result": ["toddler", "baby"], "pred_result": [""]}
+{"asin": "B07FVT99YM", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0018B15FE", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B01J8QFGBO", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby", "newborn"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B004QC9JGY", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00TB7422U", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["infant", "baby", "newborn"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B084WB8LJC", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby", "newborn"], "pred_result": [""]}
+{"asin": "B06WCZRHQR", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["newborn"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B00VND51XE", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["infant", "baby", "newborn"], "pred_result": ["", "", "", ""]}
+{"asin": "B08BJFY4K2", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B00CRATWXM", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07RXM3S5M", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07Y2KKGP5", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B00F8LE2TQ", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby", "newborn"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B005DL5970", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby", "kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B004HCUMAA", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby", "newborn"], "pred_result": ["", ""]}
+{"asin": "B01L87EB0S", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B00T2CFQUQ", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B00LO1XXQW", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": [], "pred_result": ["", "", "", ""]}
+{"asin": "B00AALMV5G", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": [], "pred_result": [""]}
+{"asin": "B005DL7LF8", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby", "kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B07P14JRLD", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B073PFLRW2", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B00UFG61T8", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B001KYVJSC", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": [], "pred_result": []}
+{"asin": "B082J33JQB", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": [], "pred_result": ["", "", "", ""]}
+{"asin": "B07RKCN519", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B06WV7KPFZ", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["newborn"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B074RLVLQ5", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": [], "pred_result": [""]}
+{"asin": "B07CKL4MXX", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B001CGOPZM", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": [], "pred_result": []}
+{"asin": "B01MRSH3HZ", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B077QHKLBX", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B00CXVM7RI", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B00T2CFQTM", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B00GHNPMJI", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00OWRAMYQ", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07QW4942T", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby", "kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B07BQNWZPQ", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby", "newborn"], "pred_result": [""]}
+{"asin": "B002HQGVT4", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B00NI088TE", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00UFG657G", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B07QQ3M74T", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby", "kid"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00OB9S2O2", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B001RZQW18", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": ["infant", "baby", "newborn"], "pred_result": ["", "", ""]}
+{"asin": "B00BFAISBW", "attribute": "AgeRangeDescription", "product_type": "laundry_detergent", "gt_result": [], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07KGH794C", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B01IN5G5P2", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B0194EGOAC", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": [], "pred_result": []}
+{"asin": "B00LO54EBQ", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07S123CK7", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07GH9K5XM", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": ["cough suppressant", "", "", "", "", "", ""]}
+{"asin": "B007D4R4ZK", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": ["", "", "", ""]}
+{"asin": "B016V0ST9G", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B07Q36LYBS", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": [], "pred_result": []}
+{"asin": "B01M2BSRC8", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B01M1JVMOQ", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["kid"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07SD7YYXH", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": [], "pred_result": []}
+{"asin": "B01AVK2A38", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07HL716R7", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07GTCS2GK", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B084W9YCYM", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["kid"], "pred_result": []}
+{"asin": "B01HI7VYNE", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B081W3F18D", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B076HFNK8D", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B000RYJ780", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["teen", "adult"], "pred_result": ["", ""]}
+{"asin": "B013IJMFVQ", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["teen", "adult"], "pred_result": [""]}
+{"asin": "B001PL7SVW", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B00T8GMF9G", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": [], "pred_result": []}
+{"asin": "B07CWFJV68", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": ["honey", "", "honey", "", "honey", "", "honey", "honey"]}
+{"asin": "B013BWTBSK", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B01HI7VXA8", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B07QWWRCTT", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": [], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B084W9Y7HN", "attribute": "AgeRangeDescription", "product_type": "medication", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B07S6859V4", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": ["teen"], "pred_result": []}
+{"asin": "B017QRYYY2", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B07BB2Z1B3", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": [], "pred_result": []}
+{"asin": "B07RT62LKX", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07G84M2NR", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B0791XWCK2", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B0876MNT9H", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": [], "pred_result": []}
+{"asin": "B005NIT7A8", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": [], "pred_result": [""]}
+{"asin": "B00MP0071K", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": ["kid"], "pred_result": []}
+{"asin": "B07Z7KQZLW", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": [], "pred_result": []}
+{"asin": "B002Q8LSVO", "attribute": "AgeRangeDescription", "product_type": "nail_polish", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B008FCJ72M", "attribute": "AgeRangeDescription", "product_type": "nutritional_supplement", "gt_result": ["senior"], "pred_result": ["", "", ""]}
+{"asin": "B003G4BP9C", "attribute": "AgeRangeDescription", "product_type": "nutritional_supplement", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B07WJXVQJ5", "attribute": "AgeRangeDescription", "product_type": "nutritional_supplement", "gt_result": ["all ages"], "pred_result": ["", ""]}
+{"asin": "B0091TD8FA", "attribute": "AgeRangeDescription", "product_type": "nutritional_supplement", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B018NZJ4MI", "attribute": "AgeRangeDescription", "product_type": "nutritional_supplement", "gt_result": ["adult"], "pred_result": ["", "", "", ""]}
+{"asin": "B014R8B0QS", "attribute": "AgeRangeDescription", "product_type": "nutritional_supplement", "gt_result": [], "pred_result": [""]}
+{"asin": "B07476WL87", "attribute": "AgeRangeDescription", "product_type": "nutritional_supplement", "gt_result": ["kid"], "pred_result": ["biotin"]}
+{"asin": "B07WMRT5Z8", "attribute": "AgeRangeDescription", "product_type": "protein_supplement_powder", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B001W6RHOS", "attribute": "AgeRangeDescription", "product_type": "protein_supplement_powder", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B0862CW1CQ", "attribute": "AgeRangeDescription", "product_type": "protein_supplement_powder", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B0862DYPWW", "attribute": "AgeRangeDescription", "product_type": "protein_supplement_powder", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B078NSN89T", "attribute": "AgeRangeDescription", "product_type": "skin_cleaning_wipe", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00WEBVM5U", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", "mineral oil", "", "", "mineral oil"]}
+{"asin": "B07L45WX2Q", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby", "newborn"], "pred_result": ["", ""]}
+{"asin": "B07BTJ6S5W", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B079PCMQVC", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07YHKMS8Y", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": [], "pred_result": [""]}
+{"asin": "B009M4MDW8", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07Q45372V", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", "", "argan oil", "shea butter", "shea butter", "", "shea butter"]}
+{"asin": "B01HOHBECO", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07DQ1DYRW", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B079GCLX9K", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07V9JN7LP", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B07DQ6SN49", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B01B12KCGC", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B00U2VQW72", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B00NHQO910", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07LC2GVHH", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07X7JF3T3", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": [], "pred_result": [""]}
+{"asin": "B00E4MJEBG", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B01LM27O1W", "attribute": "AgeRangeDescription", "product_type": "skin_moisturizer", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B06XCC9L2P", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["toddler", "baby"], "pred_result": ["", ""]}
+{"asin": "B07GJV6FLF", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B07N1VVGNX", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B00514FGJU", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B017GOZOCQ", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B07L4YRGHG", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B001HTGAQQ", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["kid"], "pred_result": []}
+{"asin": "B07GJXF562", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B0012JNRKS", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B07D813S7Y", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B087XCWT3N", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B00I3CNQM6", "attribute": "AgeRangeDescription", "product_type": "snack_food_bar", "gt_result": ["kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B07GNS9ZNL", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B082XFKPG8", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B005FSR9OW", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B084ZP1H7B", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["zinc oxide", "titanium dioxide", "", "", "", ""]}
+{"asin": "B000O3UD4G", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07N8NBD4N", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B0009R34CK", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "zinc oxide", ""]}
+{"asin": "B0052ULJBM", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B074VG89G8", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B01ALY9ARS", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B007KA7V5U", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["kid"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B00ABIF4IY", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07NBYBQ3N", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B084ZHXYZB", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B084ZPG1HZ", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", "", "titanium dioxide", "zinc oxide", ""]}
+{"asin": "B00846ZBT2", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["organic chamomile", "", "organic sunflower oil", "", "organic beeswax", "", "sunflower vitamin e", "organic calendula", "", ""]}
+{"asin": "B082XDZC4M", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B001HTB6PG", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07YTD6HCH", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby", "kid"], "pred_result": ["", ""]}
+{"asin": "B00HNNQM1S", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07C1Q7T6Z", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby", "kid"], "pred_result": ["", ""]}
+{"asin": "B07MWJLWZJ", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["kid"], "pred_result": ["", "", "", ""]}
+{"asin": "B077D4PBFP", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B078JNH4XM", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B06XZNNKJX", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B082XG1BGD", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B083VQQ64W", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["zinc oxide", "titanium dioxide", "", ""]}
+{"asin": "B07PTC9ZDD", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B084R1RWM1", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B000GZNGLE", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B01N47H3EU", "attribute": "AgeRangeDescription", "product_type": "sunscreen", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B002NQWMZK", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B07SG2L425", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07PFKZJWQ", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07C8WLQ12", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B075CTRSJK", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07BQLX1MT", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["toddler"], "pred_result": []}
+{"asin": "B001FUAQ26", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": []}
+{"asin": "B017COSH4W", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00AU4LNBG", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07HMHPYZM", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B01GQWECFY", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B0823LFJY9", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult", "kid"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07JXNL2F5", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07L192XP5", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B013W6C6W8", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B06X3S3TBL", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B083CTJMP5", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B085C75T1Y", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": [""]}
+{"asin": "B07SJSXS12", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B087P93GLJ", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": [""]}
+{"asin": "B07HCY9LKF", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B079YL7916", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B01M32X057", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B07WLWHW42", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["toddler", "baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00NAN9PR8", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07KMSJ8XH", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B00JJ6MTIW", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07XMCGT4S", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": []}
+{"asin": "B00AFX32LQ", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B01LZAGSIU", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B00UBTURZS", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B083S7W8PD", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B00N3B1RHS", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B00N6NLWWS", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", "", ""]}
+{"asin": "B07G92GM59", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B07XP17LFJ", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07WDW3JM1", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07T2H1JWG", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["infant", "toddler", "baby"], "pred_result": ["", "", ""]}
+{"asin": "B07CRRQG2S", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B087B6B8TT", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": []}
+{"asin": "B06Y5H84YW", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B0861Z4VMR", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": []}
+{"asin": "B06W53DVM8", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B01MRS5S56", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["toddler"], "pred_result": ["", ""]}
+{"asin": "B07N8GCMTX", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B07P395PTY", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07RHR58M5", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": [""]}
+{"asin": "B083S7V97D", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07HMMYX89", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B07N8DQF7X", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B00H88K9EE", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B01IADV1GK", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07GGWNYPQ", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": []}
+{"asin": "B081LHC7P4", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B07TXP2CMW", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B0031POH5A", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B0862798JD", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["infant", "toddler", "baby"], "pred_result": ["", ""]}
+{"asin": "B07QM68N9N", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B073WVH55F", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B06X16SX1J", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B083NWYQB9", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": [""]}
+{"asin": "B07255VNVZ", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B084WXL622", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult", "kid"], "pred_result": ["", ""]}
+{"asin": "B07TT4PNNQ", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B013W6CC3Q", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", ""]}
+{"asin": "B00N313X7A", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B073XXCBHP", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B06XSPXXXK", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B003KJBGGU", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["toddler", "baby"], "pred_result": ["", ""]}
+{"asin": "B07TYP3V4L", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B085ZF4S8K", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["baby"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B00N6NM1IM", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": ["infant", "baby"], "pred_result": ["", "", ""]}
+{"asin": "B078RZBMB2", "attribute": "AgeRangeDescription", "product_type": "toothbrush", "gt_result": [], "pred_result": []}
+{"asin": "B019FGCLL0", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07ZK1573S", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B01N7FW4NI", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", "", ""]}
+{"asin": "B07T4JP43S", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": []}
+{"asin": "B079KV58DJ", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B013W6CBUA", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B0744MPS7P", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": [""]}
+{"asin": "B00IV2ZFDQ", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B07HCPWBX8", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07FD37P3G", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", "", ""]}
+{"asin": "B07HJVVLJ2", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": ["", "", "", ""]}
+{"asin": "B00VEZGDE2", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["infant", "baby", "kid"], "pred_result": []}
+{"asin": "B07CS335X3", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": [], "pred_result": []}
+{"asin": "B0744Q3XKP", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B07CS4MYJH", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": ["", ""]}
+{"asin": "B00BTO1LR2", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B07Z9SXDDG", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler", "kid"], "pred_result": [""]}
+{"asin": "B07S4L1FFG", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": [], "pred_result": [""]}
+{"asin": "B00BCRD9V2", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0080L9FUM", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": ["", "", ""]}
+{"asin": "B00JRYTCMW", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["baby"], "pred_result": ["xylitol"]}
+{"asin": "B01MS46M4J", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B07RF5PYR5", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["adult"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00BCQ2TOG", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": ["sea salt", "bentonite clay", "xylitol", "", ""]}
+{"asin": "B07872Z9VT", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", "", ""]}
+{"asin": "B00H7JS4MS", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": [""]}
+{"asin": "B082VKDB6D", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler", "baby"], "pred_result": ["", "", "", ""]}
+{"asin": "B00VQU0QO8", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B015XBYLIM", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["baby"], "pred_result": [""]}
+{"asin": "B07Z5Q61LW", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B003XDX68E", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B0080L9FHA", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["toddler"], "pred_result": ["", ""]}
+{"asin": "B0151TUY7I", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", "", ""]}
+{"asin": "B08349NSDG", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": [], "pred_result": []}
+{"asin": "B012T95DI8", "attribute": "AgeRangeDescription", "product_type": "tooth_cleaning_agent", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B089SSH2DK", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B08BCQSQSZ", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B08B664VB9", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B000MI6RXY", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B087WPZBVX", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B0897S8GLT", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B01BC1RBCA", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B000SWXYSK", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B089SS34MJ", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B00066L52U", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B08B65P6DW", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B07398KXPX", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B088LR1BW4", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B088Z8HFSL", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B0045VBRGG", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B07CNCZPQD", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B00E7TNVHE", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B0897RYYKG", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B000Y12JXG", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B08B6BRRJT", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B089SWS1M5", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B07X4BGF55", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B08B6729KB", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B08BXVRBBQ", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B000LDUPJM", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": []}
+{"asin": "B000SX31SC", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B07X37737R", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B011GX4AKK", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B088YSDZSG", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07TJFF5H4", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07X27JLFW", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": [""]}
+{"asin": "B0897SXFNK", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B07ZYC4HP8", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B08B1S924S", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B088YH1S1Q", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B088YTC86Q", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B08B1RK3CP", "attribute": "AgeRangeDescription", "product_type": "tooth_whitener", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B07BBP7Y8T", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["adult"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B01IAIKIZK", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["adult"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07JN74Z4Q", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B07C2948R7", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["kid"], "pred_result": [""]}
+{"asin": "B07BYBCGSW", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["senior", "adult"], "pred_result": [""]}
+{"asin": "B001G7QT92", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["kid"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07K2GYDLC", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["adult"], "pred_result": ["", "", ""]}
+{"asin": "B0771XZF8F", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["adult"], "pred_result": ["biotin", "", ""]}
+{"asin": "B01MRZNCQ7", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["adult"], "pred_result": []}
+{"asin": "B000KGAMJI", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["kid"], "pred_result": ["", ""]}
+{"asin": "B000BLL99O", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B01IAI6M6Y", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["senior"], "pred_result": ["", "", ""]}
+{"asin": "B07H9CD7YG", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["teen"], "pred_result": [""]}
+{"asin": "B07MYNTC6Y", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["adult"], "pred_result": ["", "biotin", "magnesium", "zinc", "spirulina"]}
+{"asin": "B0062YL4VC", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": [], "pred_result": [""]}
+{"asin": "B0741FTPXD", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["teen"], "pred_result": [""]}
+{"asin": "B07S47WG71", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["baby"], "pred_result": []}
+{"asin": "B0734SS7HR", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B00JWYTRMC", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": [], "pred_result": []}
+{"asin": "B00A1CEWBK", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["adult"], "pred_result": [""]}
+{"asin": "B075GV86BL", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["adult"], "pred_result": ["", ""]}
+{"asin": "B07N8DTYFB", "attribute": "AgeRangeDescription", "product_type": "vitamin", "gt_result": ["toddler"], "pred_result": [""]}
