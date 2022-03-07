@@ -1,158 +1,158 @@
-{"asin": "B082DHC253", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["oily"], "pred_result": ["", "", ""]}
+{"asin": "B082DHC253", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["oily"], "pred_result": ["dry", "", "dry"]}
 {"asin": "B0846JB3ZD", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": [""]}
 {"asin": "B07WG6G1KF", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["straight"], "pred_result": [""]}
-{"asin": "B083K185KJ", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": []}
-{"asin": "B00NIYEEF2", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": []}
-{"asin": "B0193G0OWA", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": [""]}
+{"asin": "B083K185KJ", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
+{"asin": "B00NIYEEF2", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": [""]}
+{"asin": "B0193G0OWA", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": ["color treated"]}
 {"asin": "B07XNQL3CV", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all"], "pred_result": ["", "", "", "", "", "", ""]}
-{"asin": "B01LZNOGC4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B0867Z5SHQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all"], "pred_result": ["", ""]}
-{"asin": "B0792TNV56", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["normal"], "pred_result": [""]}
+{"asin": "B01LZNOGC4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "dry", "", "", ""]}
+{"asin": "B0867Z5SHQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all"], "pred_result": ["dry", ""]}
+{"asin": "B0792TNV56", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["normal"], "pred_result": ["normal"]}
 {"asin": "B0867ZSCLP", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all"], "pred_result": [""]}
-{"asin": "B00OQKEO2U", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B00EPRNUDS", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dull"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B00CYM87Y8", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": [""]}
-{"asin": "B00JXNMBAC", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "", ""]}
-{"asin": "B07NB6W5SV", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all", "fine"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B00EWMXCMA", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": [""]}
-{"asin": "B074WCGHLW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged", "thick"], "pred_result": ["", ""]}
-{"asin": "B00IP9M6JG", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["frizzy", "damaged"], "pred_result": ["", "", "", ""]}
+{"asin": "B00OQKEO2U", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
+{"asin": "B00EPRNUDS", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dull"], "pred_result": ["", "", "", "", "dry"]}
+{"asin": "B00CYM87Y8", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["all hair types"]}
+{"asin": "B00JXNMBAC", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "dry", ""]}
+{"asin": "B07NB6W5SV", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all", "fine"], "pred_result": ["", "", "", "dry", "dry"]}
+{"asin": "B00EWMXCMA", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["damaged"]}
+{"asin": "B074WCGHLW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged", "thick"], "pred_result": ["dry", ""]}
+{"asin": "B00IP9M6JG", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["frizzy", "damaged"], "pred_result": ["", "damaged", "damaged", "frizzy"]}
 {"asin": "B07KF9FRBW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", ""]}
-{"asin": "B008F8DZCY", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all", "damaged"], "pred_result": ["", "", ""]}
+{"asin": "B008F8DZCY", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all", "damaged"], "pred_result": ["", "", "", ""]}
 {"asin": "B07NDCPD6T", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["short", "medium"], "pred_result": [""]}
 {"asin": "B07FQZQYQK", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["", ""]}
 {"asin": "B007PQF3RW", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": []}
-{"asin": "B000143JSK", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": [""]}
+{"asin": "B000143JSK", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": []}
 {"asin": "B07BKG9F13", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all", "damaged"], "pred_result": [""]}
 {"asin": "B081JK8DK9", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
 {"asin": "B01IHVAZQW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", ""]}
-{"asin": "B07N97BVB7", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": [""]}
-{"asin": "B008R3GVN2", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["frizzy"], "pred_result": [""]}
-{"asin": "B07XD3Y2TJ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", ""]}
-{"asin": "B013KVCHUQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["", ""]}
-{"asin": "B081VP9D8N", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "damaged"], "pred_result": ["", ""]}
-{"asin": "B07QHCQB6K", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["oily"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07N97BVB7", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["", "dry"]}
+{"asin": "B008R3GVN2", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["frizzy"], "pred_result": ["frizzy"]}
+{"asin": "B07XD3Y2TJ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry", "dry"]}
+{"asin": "B013KVCHUQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["dry", "dry"]}
+{"asin": "B081VP9D8N", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "damaged"], "pred_result": ["dry", "dry"]}
+{"asin": "B07QHCQB6K", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["oily"], "pred_result": ["", "oily", "", "oily", "oily"]}
 {"asin": "B071HPQ72D", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["", "", ""]}
-{"asin": "B079WWHWQJ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["fragile", "dry"], "pred_result": [""]}
-{"asin": "B012U0RK9G", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B06XJ78W9D", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dandruff", "damaged"], "pred_result": ["", "", ""]}
+{"asin": "B079WWHWQJ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["fragile", "dry"], "pred_result": ["dry"]}
+{"asin": "B012U0RK9G", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
+{"asin": "B06XJ78W9D", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dandruff", "damaged"], "pred_result": ["dry", ""]}
 {"asin": "B0798XB5NV", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dandruff"], "pred_result": []}
-{"asin": "B07YNZ8BDD", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B01EWSOI8K", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all", "damaged"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07YNZ8BDD", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
+{"asin": "B01EWSOI8K", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all", "damaged"], "pred_result": ["", "", "", "dry", "", "", ""]}
 {"asin": "B083P24DGJ", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
 {"asin": "B07B3JXQF6", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dandruff"], "pred_result": ["", "", ""]}
-{"asin": "B003HTN6P2", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all"], "pred_result": ["", "", ""]}
-{"asin": "B007USDOJO", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged", "dull"], "pred_result": [""]}
-{"asin": "B07XVP63W6", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": [""]}
-{"asin": "B073P9VN6C", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy", "damaged"], "pred_result": [""]}
-{"asin": "B01CCK1AWM", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "fine", "all", "damaged", "thin"], "pred_result": ["", ""]}
-{"asin": "B0069Z626G", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy"], "pred_result": ["", ""]}
-{"asin": "B00IFRBLT4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": [""]}
+{"asin": "B003HTN6P2", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "all"], "pred_result": ["dry", "all hair types", "dry"]}
+{"asin": "B007USDOJO", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged", "dull"], "pred_result": ["dry"]}
+{"asin": "B07XVP63W6", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["all hair types"]}
+{"asin": "B073P9VN6C", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy", "damaged"], "pred_result": ["dry"]}
+{"asin": "B01CCK1AWM", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "fine", "all", "damaged", "thin"], "pred_result": ["dry"]}
+{"asin": "B0069Z626G", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy"], "pred_result": ["dry", "dry"]}
+{"asin": "B00IFRBLT4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": ["color treated"]}
 {"asin": "B07ZG31NMJ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["fine"], "pred_result": [""]}
-{"asin": "B0794KLTNB", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B06Y6GFJJG", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["oily"], "pred_result": [""]}
-{"asin": "B075JHJJRT", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", ""]}
-{"asin": "B0044B4GLA", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": [""]}
+{"asin": "B0794KLTNB", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
+{"asin": "B06Y6GFJJG", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["oily"], "pred_result": ["oily"]}
+{"asin": "B075JHJJRT", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "damaged"]}
+{"asin": "B0044B4GLA", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "damaged", ""]}
 {"asin": "B085TN5B3R", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["fine"], "pred_result": [""]}
-{"asin": "B01N5MVF7Z", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "all", "damaged"], "pred_result": ["", ""]}
+{"asin": "B01N5MVF7Z", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "all", "damaged"], "pred_result": ["dry"]}
 {"asin": "B086GQLM7G", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
 {"asin": "B072JK8NKG", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": ["", ""]}
-{"asin": "B01N0Z5ZDZ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dandruff", "damaged"], "pred_result": ["", "", "", "", "", ""]}
-{"asin": "B00GBE95Z0", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dull", "all", "damaged"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B01N0Z5ZDZ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dandruff", "damaged"], "pred_result": ["dry", "", "", ""]}
+{"asin": "B00GBE95Z0", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dull", "all", "damaged"], "pred_result": ["", "all hair types", "all hair types", "dry", "", "", "dry"]}
 {"asin": "B0867ZPLZ4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": [""]}
 {"asin": "B082S3LNJ6", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": ["", ""]}
-{"asin": "B07NPCRBHY", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "", ""]}
-{"asin": "B002J6YCBQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": []}
-{"asin": "B00ZD7745O", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B07JPZQGDF", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B07RN8FX82", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", ""]}
-{"asin": "B0144S0JGS", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "normal", "damaged"], "pred_result": [""]}
+{"asin": "B07NPCRBHY", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry", "dry"]}
+{"asin": "B002J6YCBQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["damaged", "damaged"]}
+{"asin": "B00ZD7745O", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
+{"asin": "B07JPZQGDF", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "dry", "", "", ""]}
+{"asin": "B07RN8FX82", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry", "dry"]}
+{"asin": "B0144S0JGS", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "normal", "damaged"], "pred_result": ["dry"]}
 {"asin": "B07WPY7JK9", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
-{"asin": "B00EUMC62O", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy", "curly", "thick"], "pred_result": ["", "", "", "", "", ""]}
-{"asin": "B00CP0R44I", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", ""]}
+{"asin": "B00EUMC62O", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy", "curly", "thick"], "pred_result": ["dry", "", "", "", "dry", "", "dry"]}
+{"asin": "B00CP0R44I", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": [""]}
 {"asin": "B082HGTM9L", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "damaged", "chemically treated"], "pred_result": [""]}
-{"asin": "B084XC655Z", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "coarse", "damaged"], "pred_result": ["", "", "", ""]}
-{"asin": "B06Y3L9SQY", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": [""]}
-{"asin": "B01BKU7UMO", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["chemically treated", "all", "damaged"], "pred_result": [""]}
+{"asin": "B084XC655Z", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "coarse", "damaged"], "pred_result": ["", "", "", "", "dry"]}
+{"asin": "B06Y3L9SQY", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["damaged"]}
+{"asin": "B01BKU7UMO", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["chemically treated", "all", "damaged"], "pred_result": ["oily"]}
 {"asin": "B0834QDNWM", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
-{"asin": "B001QT5FMM", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", ""]}
-{"asin": "B083JN61TK", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "", "", "", "", "", "", ""]}
-{"asin": "B003CTVSKC", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dandruff"], "pred_result": [""]}
+{"asin": "B001QT5FMM", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry", ""]}
+{"asin": "B083JN61TK", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "", "", "", "all hair types", "", "", ""]}
+{"asin": "B003CTVSKC", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dandruff"], "pred_result": ["dry"]}
 {"asin": "B0722R5W88", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["fine"], "pred_result": ["", ""]}
-{"asin": "B07Q52CN5V", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "", ""]}
+{"asin": "B07Q52CN5V", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "dry"]}
 {"asin": "B07N4M39HS", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["curly"], "pred_result": ["", ""]}
-{"asin": "B001VYVFSK", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["normal"], "pred_result": ["", "", ""]}
+{"asin": "B001VYVFSK", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["normal"], "pred_result": ["", "normal"]}
 {"asin": "B005678OXC", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
-{"asin": "B07D5D1MHL", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry"], "pred_result": ["", "", ""]}
-{"asin": "B010E2ASGE", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["aging"], "pred_result": ["", "", ""]}
-{"asin": "B008SEYQYG", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy"], "pred_result": [""]}
+{"asin": "B07D5D1MHL", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry"], "pred_result": ["dry", "", "dry"]}
+{"asin": "B010E2ASGE", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["aging"], "pred_result": ["", "aging", "", ""]}
+{"asin": "B008SEYQYG", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy"], "pred_result": ["dry"]}
 {"asin": "B00M1FZEOO", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["fine"], "pred_result": ["", ""]}
-{"asin": "B0786WCD5R", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "", ""]}
-{"asin": "B00N2PFJJW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": [""]}
+{"asin": "B0786WCD5R", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "dry", ""]}
+{"asin": "B00N2PFJJW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["dry"]}
 {"asin": "B017MO3AW6", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": []}
-{"asin": "B01GKC5XVM", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["", ""]}
-{"asin": "B01LIGWQP6", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", ""]}
-{"asin": "B07FW3C896", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": [""]}
-{"asin": "B07Q3L2L43", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
-{"asin": "B0868T9Z38", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": [""]}
-{"asin": "B081NHDTH5", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": []}
-{"asin": "B00A1GGI90", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["normal", "fine"], "pred_result": ["", ""]}
-{"asin": "B06XMXVRW9", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "fine"], "pred_result": ["", ""]}
-{"asin": "B076631KMN", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["", "", "", ""]}
-{"asin": "B07TWSTM9F", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "frizzy", "all", "damaged", "thick", "thin"], "pred_result": ["", "", "", "", "", ""]}
-{"asin": "B07R18MPLG", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "kinky", "fine", "curly"], "pred_result": ["", ""]}
-{"asin": "B0039T6OZO", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": [""]}
-{"asin": "B07YRQ64WR", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["curly"], "pred_result": [""]}
-{"asin": "B00PBC64I4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "coarse", "damaged", "curly"], "pred_result": ["", "", ""]}
-{"asin": "B07Y6Z2VQ4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": [""]}
-{"asin": "B075ZZ2D9X", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["thin"], "pred_result": ["", ""]}
+{"asin": "B01GKC5XVM", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["", "dry"]}
+{"asin": "B01LIGWQP6", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["damaged"]}
+{"asin": "B07FW3C896", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["dry", ""]}
+{"asin": "B07Q3L2L43", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": []}
+{"asin": "B0868T9Z38", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["damaged"]}
+{"asin": "B081NHDTH5", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
+{"asin": "B00A1GGI90", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["normal", "fine"], "pred_result": ["normal", ""]}
+{"asin": "B06XMXVRW9", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "fine"], "pred_result": ["dry", ""]}
+{"asin": "B076631KMN", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["", "", ""]}
+{"asin": "B07TWSTM9F", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated", "dry", "frizzy", "all", "damaged", "thick", "thin"], "pred_result": ["", "", "", "", "", "dry", "dry"]}
+{"asin": "B07R18MPLG", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "kinky", "fine", "curly"], "pred_result": ["dry", "", ""]}
+{"asin": "B0039T6OZO", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": ["color treated"]}
+{"asin": "B07YRQ64WR", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["curly"], "pred_result": ["curly"]}
+{"asin": "B00PBC64I4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "coarse", "damaged", "curly"], "pred_result": ["dry", "", "dry"]}
+{"asin": "B07Y6Z2VQ4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["all hair types"]}
+{"asin": "B075ZZ2D9X", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["thin"], "pred_result": ["thin"]}
 {"asin": "B07WG6G1R1", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["curly"], "pred_result": ["", ""]}
-{"asin": "B07687X5SV", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": [""]}
-{"asin": "B00P47X9H0", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "", "", ""]}
+{"asin": "B07687X5SV", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": ["chemically treated", "color treated"]}
+{"asin": "B00P47X9H0", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", "dry", "dry"]}
 {"asin": "B07DM9NPNC", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "thin", "fine", "long", "short", "straight", "curly", "damaged", "wavy"], "pred_result": []}
-{"asin": "B00NFUDWBQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": [""]}
-{"asin": "B07BY8Q8YH", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": [""]}
-{"asin": "B0066N95II", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B07H1ZGTY2", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B010D06NWK", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": ["", ""]}
-{"asin": "B08CXG92VL", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dull", "all", "damaged", "fragile"], "pred_result": [""]}
-{"asin": "B00XJS3AE8", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": [""]}
-{"asin": "B074KF6LZR", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": ["", ""]}
-{"asin": "B000ALDJMU", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged", "dull"], "pred_result": ["", ""]}
-{"asin": "B00AE95W3W", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["", ""]}
-{"asin": "B01M0X6PDL", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy"], "pred_result": ["", "", "", "", "", "", ""]}
-{"asin": "B085DC6TDP", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": []}
-{"asin": "B07BH5Y9RL", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B07NXT8ZQP", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all", "chemically treated"], "pred_result": [""]}
+{"asin": "B00NFUDWBQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["damaged"]}
+{"asin": "B07BY8Q8YH", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["all hair types"]}
+{"asin": "B0066N95II", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
+{"asin": "B07H1ZGTY2", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
+{"asin": "B010D06NWK", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["color treated"], "pred_result": ["", "color treated", ""]}
+{"asin": "B08CXG92VL", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dull", "all", "damaged", "fragile"], "pred_result": ["dry"]}
+{"asin": "B00XJS3AE8", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["all hair types"]}
+{"asin": "B074KF6LZR", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
+{"asin": "B000ALDJMU", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged", "dull"], "pred_result": [""]}
+{"asin": "B00AE95W3W", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": ["dry", "all hair types"]}
+{"asin": "B01M0X6PDL", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "frizzy"], "pred_result": ["", "frizzy", "", "dry", "dry", "", "frizzy"]}
+{"asin": "B085DC6TDP", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
+{"asin": "B07BH5Y9RL", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": []}
+{"asin": "B07NXT8ZQP", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all", "chemically treated"], "pred_result": ["chemically treated"]}
 {"asin": "B07TYRW9J8", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": []}
 {"asin": "B085TNBFTL", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": [""]}
-{"asin": "B0143L7R20", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["", ""]}
-{"asin": "B07CV3P64T", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["", ""]}
-{"asin": "B000GCT20Q", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "", "", "", "", ""]}
-{"asin": "B01AUJ1N1A", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["", ""]}
+{"asin": "B0143L7R20", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["dry", ""]}
+{"asin": "B07CV3P64T", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry", "dry"]}
+{"asin": "B000GCT20Q", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["damaged", "", "damaged", "", "", "damaged", "damaged", "damaged", "damaged"]}
+{"asin": "B01AUJ1N1A", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["dry", ""]}
 {"asin": "B082M2D64C", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
 {"asin": "B0867ZK9LP", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
-{"asin": "B071JMGPTH", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "kinky", "curly", "damaged", "wavy"], "pred_result": ["", ""]}
-{"asin": "B00OQJXGB6", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dull"], "pred_result": [""]}
-{"asin": "B07K1M38SY", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": [""]}
+{"asin": "B071JMGPTH", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "kinky", "curly", "damaged", "wavy"], "pred_result": ["", "dry", ""]}
+{"asin": "B00OQJXGB6", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "dull"], "pred_result": ["dry"]}
+{"asin": "B07K1M38SY", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["all"], "pred_result": []}
 {"asin": "B01M0H7HM5", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dull", "all"], "pred_result": [""]}
-{"asin": "B019L8F1NW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": [""]}
+{"asin": "B019L8F1NW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "damaged"]}
 {"asin": "B07YDYN8XX", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
-{"asin": "B000GCW1P4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["", ""]}
-{"asin": "B0193G14QU", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "", "", ""]}
-{"asin": "B07ZTVLT9C", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["oily", "dry", "dandruff", "normal", "damaged"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
-{"asin": "B07GM1HS6Y", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "", ""]}
-{"asin": "B000G66ZBQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B07SKZYRRF", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": [""]}
+{"asin": "B000GCW1P4", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry"], "pred_result": ["dry", "dry"]}
+{"asin": "B0193G14QU", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "", "", "damaged"]}
+{"asin": "B07ZTVLT9C", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["oily", "dry", "dandruff", "normal", "damaged"], "pred_result": ["", "", "", "", "oily", "", ""]}
+{"asin": "B07GM1HS6Y", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["damaged"], "pred_result": ["", "damaged", "", ""]}
+{"asin": "B000G66ZBQ", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
+{"asin": "B07SKZYRRF", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
 {"asin": "B07X1MWZFF", "attribute": "HairType", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
-{"asin": "B000VWMS66", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["normal"], "pred_result": ["", "", ""]}
-{"asin": "B07M9BPPKW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["fine"], "pred_result": [""]}
-{"asin": "B07NRWP23H", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["thin", "thick"], "pred_result": [""]}
+{"asin": "B000VWMS66", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["normal"], "pred_result": ["", "normal", ""]}
+{"asin": "B07M9BPPKW", "attribute": "HairType", "product_type": "conditioner", "gt_result": ["fine"], "pred_result": ["fine"]}
+{"asin": "B07NRWP23H", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["thin", "thick"], "pred_result": []}
 {"asin": "B081DSLFR9", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["long", "short", "straight", "all", "wavy", "thin"], "pred_result": [""]}
 {"asin": "B08DG2BV92", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["thin", "thick"], "pred_result": []}
 {"asin": "B08GFMVZWT", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["normal", "thick", "thin"], "pred_result": []}
 {"asin": "B00HDOYRPK", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["frizzy", "fine", "long", "straight", "curly", "all", "thick"], "pred_result": [""]}
-{"asin": "B08B7TX2W7", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["all"], "pred_result": ["", ""]}
+{"asin": "B08B7TX2W7", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["all"], "pred_result": ["wavy", ""]}
 {"asin": "B08JKKJDZ9", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["long", "all", "medium", "thick"], "pred_result": []}
 {"asin": "B07GFLC7QQ", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["medium", "all", "fine"], "pred_result": [""]}
 {"asin": "B07Q2Q7S4B", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["long", "thick", "fine"], "pred_result": []}
@@ -161,12 +161,12 @@
 {"asin": "B088X32RVH", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["thick"], "pred_result": []}
 {"asin": "B07KDBGV4V", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["thick"], "pred_result": ["", ""]}
 {"asin": "B07FC9924Y", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["long", "short", "straight", "curly", "all", "medium"], "pred_result": ["", ""]}
-{"asin": "B07JMRPLDJ", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["thin", "thick"], "pred_result": ["", "", ""]}
-{"asin": "B07F7D8KTT", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["all"], "pred_result": ["all ages", "", "", ""]}
+{"asin": "B07JMRPLDJ", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["thin", "thick"], "pred_result": []}
+{"asin": "B07F7D8KTT", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["all"], "pred_result": ["", "all", "all"]}
 {"asin": "B07D4215Y5", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["fine", "straight", "curly", "coarse", "all", "thick", "thin"], "pred_result": ["", ""]}
 {"asin": "B08HV68NSQ", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["long", "straight", "curly", "normal", "all", "thick", "thin"], "pred_result": []}
 {"asin": "B08JCDQ5FC", "attribute": "HairType", "product_type": "hair_clip", "gt_result": ["fine", "straight", "curly", "thick", "thin"], "pred_result": [""]}
-{"asin": "B0001FQUX0", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B0001FQUX0", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": [], "pred_result": [""]}
 {"asin": "B003JN50Q4", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["fragile", "short"], "pred_result": ["", "", "", ""]}
 {"asin": "B08282XZY6", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": [], "pred_result": [""]}
 {"asin": "B00L9I1AOM", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["straight", "curly", "coarse", "all"], "pred_result": [""]}
@@ -175,70 +175,70 @@
 {"asin": "B003BMM336", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["dry", "curly", "coarse", "all"], "pred_result": ["", "", "", "", "", "", ""]}
 {"asin": "B0723D17F5", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["long", "short"], "pred_result": ["", "", "", ""]}
 {"asin": "B07H9BQ51N", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["fine"], "pred_result": [""]}
-{"asin": "B07Y4SQ91C", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all", "fine"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07Y4SQ91C", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all", "fine"], "pred_result": ["", "", "", "", "all", ""]}
 {"asin": "B00GO7BDHW", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all"], "pred_result": ["", "", "", ""]}
-{"asin": "B07CML63MQ", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["dry", "kinky", "curly"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B07PNX2CN1", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all"], "pred_result": ["", "", "", "", "", "", ""]}
-{"asin": "B000CPZ18Y", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all"], "pred_result": ["", "", "", ""]}
+{"asin": "B07CML63MQ", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["dry", "kinky", "curly"], "pred_result": ["curly", "curly", "curly", "dry", "dry"]}
+{"asin": "B07PNX2CN1", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B000CPZ18Y", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all"], "pred_result": ["", "", "all", ""]}
 {"asin": "B081MTNRXK", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["coarse"], "pred_result": [""]}
-{"asin": "B07BC84QSY", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": [], "pred_result": ["", "", ""]}
+{"asin": "B07BC84QSY", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": [], "pred_result": ["", ""]}
 {"asin": "B00TACEVR2", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all", "wavy", "curly"], "pred_result": [""]}
 {"asin": "B00W3RP2LA", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["frizzy"], "pred_result": []}
 {"asin": "B07P8WQJVF", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all"], "pred_result": []}
-{"asin": "B01BIYGXMK", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all", "fine"], "pred_result": ["", ""]}
+{"asin": "B01BIYGXMK", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all", "fine"], "pred_result": ["all", ""]}
 {"asin": "B072JKRMXP", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["dry", "coarse"], "pred_result": [""]}
-{"asin": "B07ND6SHJD", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all"], "pred_result": ["", "", "", ""]}
-{"asin": "B07CC41JNJ", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["thin", "straight", "curly", "thick"], "pred_result": [""]}
-{"asin": "B00MFUYC02", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "", ""]}
-{"asin": "B00JJY001C", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "", "", ""]}
-{"asin": "B00OFNKKHG", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "", ""]}
+{"asin": "B07ND6SHJD", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["all"], "pred_result": ["", "", "all", ""]}
+{"asin": "B07CC41JNJ", "attribute": "HairType", "product_type": "hair_styling_agent", "gt_result": ["thin", "straight", "curly", "thick"], "pred_result": ["", ""]}
+{"asin": "B00MFUYC02", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "all"]}
+{"asin": "B00JJY001C", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "all", "", ""]}
+{"asin": "B00OFNKKHG", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "all"]}
 {"asin": "B0864469VV", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thin", "thick"], "pred_result": []}
-{"asin": "B00OG8QD94", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "", ""]}
+{"asin": "B00OG8QD94", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "", "all"]}
 {"asin": "B07XLJXB1M", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thick"], "pred_result": ["", ""]}
 {"asin": "B08FTFWDNG", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["long", "short"], "pred_result": [""]}
-{"asin": "B0836ZYCZ6", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["curly", "thick"], "pred_result": [""]}
-{"asin": "B08K2V3TFS", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thin", "thick"], "pred_result": [""]}
+{"asin": "B0836ZYCZ6", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["curly", "thick"], "pred_result": ["curly"]}
+{"asin": "B08K2V3TFS", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thin", "thick"], "pred_result": []}
 {"asin": "B0784B64CK", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["long"], "pred_result": [""]}
-{"asin": "B088GYV4CP", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "", ""]}
-{"asin": "B07YBX2JS6", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thick", "thin", "curly", "fine"], "pred_result": [""]}
-{"asin": "B088GGFSSD", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "", ""]}
+{"asin": "B088GYV4CP", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": [""]}
+{"asin": "B07YBX2JS6", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thick", "thin", "curly", "fine"], "pred_result": ["curly"]}
+{"asin": "B088GGFSSD", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": [""]}
 {"asin": "B0798RWHC9", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thin", "all", "thick"], "pred_result": [""]}
-{"asin": "B00DRZTCGS", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B07F5YVKTK", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thick", "all", "fine"], "pred_result": ["", "", "", ""]}
-{"asin": "B08GP4Y67W", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["straight", "curly", "all", "thick", "thin"], "pred_result": ["", ""]}
-{"asin": "B06XSMCXZC", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["curly", "thick"], "pred_result": ["", ""]}
+{"asin": "B00DRZTCGS", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["all", "all", "all"]}
+{"asin": "B07F5YVKTK", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thick", "all", "fine"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B08GP4Y67W", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["straight", "curly", "all", "thick", "thin"], "pred_result": ["all", "all"]}
+{"asin": "B06XSMCXZC", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["curly", "thick"], "pred_result": ["curly", "curly"]}
 {"asin": "B07VP3T586", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["long", "curly", "thick"], "pred_result": []}
-{"asin": "B01LWLW8QF", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", "", ""]}
-{"asin": "B075QZQXQS", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["long", "short"], "pred_result": ["", "", ""]}
-{"asin": "B07XRFV8NP", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["curly"], "pred_result": [""]}
+{"asin": "B01LWLW8QF", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["all"], "pred_result": ["", ""]}
+{"asin": "B075QZQXQS", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["long", "short"], "pred_result": ["", ""]}
+{"asin": "B07XRFV8NP", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["curly"], "pred_result": ["curly"]}
 {"asin": "B07MSL76XK", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["thick"], "pred_result": ["", ""]}
 {"asin": "B08D8Q23XT", "attribute": "HairType", "product_type": "hair_tie", "gt_result": ["long", "short", "curly", "thick", "thin"], "pred_result": [""]}
-{"asin": "B07N45GM63", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry", "damaged"], "pred_result": [""]}
-{"asin": "B0007X749U", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry"], "pred_result": ["", "", ""]}
-{"asin": "B01LZ2F5LL", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["fine"], "pred_result": ["", "", "", ""]}
+{"asin": "B07N45GM63", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry", "damaged"], "pred_result": ["dry"]}
+{"asin": "B0007X749U", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry"], "pred_result": ["dry", "dry", ""]}
+{"asin": "B01LZ2F5LL", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["fine"], "pred_result": ["fine", "", "", "fine"]}
 {"asin": "B00S1S2SNK", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["all"], "pred_result": []}
-{"asin": "B001I80NO6", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["chemically treated", "coarse", "medium", "normal", "thin"], "pred_result": ["", ""]}
-{"asin": "B07525QJC8", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["damaged"], "pred_result": ["", "", ""]}
-{"asin": "B00JGQ2S0E", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["all"], "pred_result": ["", "", ""]}
+{"asin": "B001I80NO6", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["chemically treated", "coarse", "medium", "normal", "thin"], "pred_result": ["thin", "chemically treated", "chemically treated"]}
+{"asin": "B07525QJC8", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["damaged"], "pred_result": ["damaged", "damaged", "damaged"]}
+{"asin": "B00JGQ2S0E", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["all"], "pred_result": ["all", "", "", ""]}
 {"asin": "B001W2K51O", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dull", "curly", "all"], "pred_result": ["", "", ""]}
-{"asin": "B00G14QJA4", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry", "frizzy", "curly", "normal", "damaged", "thick"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00G14QJA4", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry", "frizzy", "curly", "normal", "damaged", "thick"], "pred_result": ["", "", "", ""]}
 {"asin": "B07NJPMVGK", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dandruff"], "pred_result": ["", ""]}
-{"asin": "B00F3IGSLE", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dandruff"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
-{"asin": "B07P2255F4", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry", "chemically treated", "fine", "normal", "all"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B000UPA8F2", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry"], "pred_result": [""]}
-{"asin": "B084VCTLFM", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dandruff", "chemically treated", "all"], "pred_result": [""]}
-{"asin": "B01MU9VI4Q", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry", "frizzy"], "pred_result": ["", ""]}
-{"asin": "B00TBJSJV8", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["fine"], "pred_result": ["", ""]}
-{"asin": "B000UP6RDY", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["normal"], "pred_result": ["", "", ""]}
+{"asin": "B00F3IGSLE", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dandruff"], "pred_result": ["", "", "", "", "", "", "dry", "", ""]}
+{"asin": "B07P2255F4", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry", "chemically treated", "fine", "normal", "all"], "pred_result": ["chemically treated", "", "dry", "", ""]}
+{"asin": "B000UPA8F2", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry"], "pred_result": ["dry"]}
+{"asin": "B084VCTLFM", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dandruff", "chemically treated", "all"], "pred_result": ["all"]}
+{"asin": "B01MU9VI4Q", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry", "frizzy"], "pred_result": ["dry"]}
+{"asin": "B00TBJSJV8", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["fine"], "pred_result": ["fine", "fine"]}
+{"asin": "B000UP6RDY", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["normal"], "pred_result": ["", "normal", ""]}
 {"asin": "B01J719S4G", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["fine", "wavy"], "pred_result": [""]}
-{"asin": "B004LT8IEG", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry"], "pred_result": [""]}
+{"asin": "B004LT8IEG", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry"], "pred_result": ["dry"]}
 {"asin": "B08DK66LJ1", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dandruff"], "pred_result": ["", "", ""]}
-{"asin": "B07YM6KG8P", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["curly"], "pred_result": ["", ""]}
-{"asin": "B013X3IAU2", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["thin", "straight", "curly", "all", "damaged"], "pred_result": [""]}
+{"asin": "B07YM6KG8P", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["curly"], "pred_result": ["curly"]}
+{"asin": "B013X3IAU2", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["thin", "straight", "curly", "all", "damaged"], "pred_result": ["", ""]}
 {"asin": "B06W2M7PXV", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["curly"], "pred_result": [""]}
-{"asin": "B082QZ6HWG", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dandruff"], "pred_result": ["", ""]}
+{"asin": "B082QZ6HWG", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dandruff"], "pred_result": ["", "", ""]}
 {"asin": "B00JGQ5SLK", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dandruff"], "pred_result": ["", ""]}
-{"asin": "B07GJS7ZLC", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["all", "dandruff"], "pred_result": ["", "", "", ""]}
+{"asin": "B07GJS7ZLC", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["all", "dandruff"], "pred_result": ["", "", ""]}
 {"asin": "B07QD2QGQN", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["color treated", "damaged"], "pred_result": ["", ""]}
 {"asin": "B01M5KZQF6", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["dry", "coarse", "frizzy", "thick"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B00U1JHWR4", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["frizzy", "curly"], "pred_result": ["", ""]}
+{"asin": "B00U1JHWR4", "attribute": "HairType", "product_type": "shampoo", "gt_result": ["frizzy", "curly"], "pred_result": ["", "frizzy"]}

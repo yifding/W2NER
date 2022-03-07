@@ -11,13 +11,12 @@ export LD_LIBRARY_PATH=/nfs/yding4/conda_envs/W2NER/lib:$LD_LIBRARY_PATH
 
 CODE_DIR=/nfs/yding4/AVE_project/W2NER
 
-CONFIG=/nfs/yding4/AVE_project/W2NER/RUN_FILES/train_33att/33att_config.json
+CONFIG=/nfs/yding4/AVE_project/W2NER/RUN_FILES/train_33att/33att.config
 
-PRETRAINED_CHECKPOINT=/nfs/yding4/AVE_project/W2NER/RUN_FILES/train_33att/epoch-9.pt
+PRETRAINED_CHECKPOINT=/nfs/yding4/AVE_project/W2NER/RUN_FILES/train_33att/epoch-8.pt
 OUTPUT_DIR=/nfs/yding4/AVE_project/W2NER/RUN_FILES/train_33att/raw_prediction
 TEST_DIR=/nfs/yding4/AVE_project/W2NER/RUN_FILES/prepare_data/test
 ATT_LIST="['ActiveIngredients','AgeRangeDescription','BatteryCellComposition','Brand','CaffeineContent','CapacityUnit','CoffeeRoastType','Color','DietType','DosageForm','EnergyUnit','FinishType','Flavor','FormulationType','HairType','Ingredients','ItemForm','ItemShape','LiquidContentsDescription','Material','MaterialFeature','MaterialTypeFree','PackageSizeName','Pattern','PatternType','ProductBenefit','Scent','SkinTone','SkinType','SpecialIngredients','TargetGender','TeaVariety','Variety']"
-#ATT_LIST="['ActiveIngredients','AgeRangeDescription','BatteryCellComposition','Brand','CaffeineContent','CapacityUnit','CoffeeRoastType','Color','DietType','DosageForm','EnergyUnit','FinishType','Flavor','FormulationType','HairType','Ingredients','ItemForm','ItemShape','LiquidContentsDescription','Material','MaterialFeature','MaterialTypeFree','PackageSizeName','Pattern','PatternType','ProductBenefit','Scent']"
 TEST_ATT_LIST="['ActiveIngredients','AgeRangeDescription','Color','FinishType','Flavor','HairType','ItemForm','Material','ProductBenefit','Scent','SkinTone','SkinType','SpecialIngredients','TargetGender','Variety']"
 
 cd ${CODE_DIR}

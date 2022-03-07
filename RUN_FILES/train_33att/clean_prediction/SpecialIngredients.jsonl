@@ -1,17 +1,17 @@
-{"asin": "B0009STDJW", "attribute": "SpecialIngredients", "product_type": "astringent_substance", "gt_result": ["vitamin e"], "pred_result": ["", ""]}
+{"asin": "B0009STDJW", "attribute": "SpecialIngredients", "product_type": "astringent_substance", "gt_result": ["vitamin e"], "pred_result": [""]}
 {"asin": "B004QNLRUE", "attribute": "SpecialIngredients", "product_type": "body_lubricant", "gt_result": ["vitamin e"], "pred_result": [""]}
 {"asin": "B01BERIBYO", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": []}
-{"asin": "B083VT39CJ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": []}
+{"asin": "B083VT39CJ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
 {"asin": "B001GRVDJI", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["olive oil"], "pred_result": []}
-{"asin": "B00X0XI4FM", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["avocado", "coconut oil", "almond", "shea butter"], "pred_result": ["", "", "", ""]}
+{"asin": "B00X0XI4FM", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["avocado", "coconut oil", "almond", "shea butter"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B0074BZRGU", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter", "sweet almond", "coconut", "honey"], "pred_result": []}
-{"asin": "B014RHM6RG", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil", "shea butter", "keratin"], "pred_result": [""]}
-{"asin": "B0185LCRRO", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["biotin"], "pred_result": ["", ""]}
+{"asin": "B014RHM6RG", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil", "shea butter", "keratin"], "pred_result": ["", ""]}
+{"asin": "B0185LCRRO", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["biotin"], "pred_result": ["biotin", "biotin"]}
 {"asin": "B07GRDBPXX", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["black seed"], "pred_result": [""]}
 {"asin": "B019U3DAT0", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["biotin"], "pred_result": [""]}
-{"asin": "B07CRZXRZW", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["parsley", "buriti nut oil", "brazil nut oil"], "pred_result": ["", "", ""]}
+{"asin": "B07CRZXRZW", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["parsley", "buriti nut oil", "brazil nut oil"], "pred_result": [""]}
 {"asin": "B07MHJN69Q", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["lemon sage", "tea tree oil", "honey"], "pred_result": [""]}
-{"asin": "B017JISHEG", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe vera", "keratin"], "pred_result": ["", "", ""]}
+{"asin": "B017JISHEG", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe vera", "keratin"], "pred_result": ["", ""]}
 {"asin": "B078WS13SM", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["baobab oil"], "pred_result": ["", ""]}
 {"asin": "B07HN7VHBW", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea"], "pred_result": ["", ""]}
 {"asin": "B00LSAY5K2", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe vera"], "pred_result": ["", "", ""]}
@@ -19,17 +19,17 @@
 {"asin": "B07R5KTYCD", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan", "coconut"], "pred_result": [""]}
 {"asin": "B01LFQYRJW", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter"], "pred_result": [""]}
 {"asin": "B004OMGNYM", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["tea tree"], "pred_result": [""]}
-{"asin": "B07464FRHY", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["vitamin e", "rosemary extract"], "pred_result": [""]}
+{"asin": "B07464FRHY", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["vitamin e", "rosemary extract"], "pred_result": []}
 {"asin": "B085XHP981", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["cherry blossom"], "pred_result": [""]}
 {"asin": "B0711KW58Y", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["essential oils", "botanicals"], "pred_result": [""]}
-{"asin": "B01N0OQ6LH", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["jojoba", "vitamin b"], "pred_result": ["", "", "", ""]}
-{"asin": "B07VR2DXHM", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["avocado", "olive oil"], "pred_result": [""]}
+{"asin": "B01N0OQ6LH", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["jojoba", "vitamin b"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07VR2DXHM", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["avocado", "olive oil"], "pred_result": []}
 {"asin": "B0047QRO48", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe vera", "olive oil"], "pred_result": [""]}
-{"asin": "B007RTR8UM", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe vera"], "pred_result": []}
-{"asin": "B086JCY5G5", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["red clover extract"], "pred_result": [""]}
+{"asin": "B007RTR8UM", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe vera"], "pred_result": [""]}
+{"asin": "B086JCY5G5", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["red clover extract"], "pred_result": ["", ""]}
 {"asin": "B0759R9646", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["amino acid", "keratin"], "pred_result": []}
 {"asin": "B075LW6N6L", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["almond oil", "jojoba", "argan"], "pred_result": [""]}
-{"asin": "B081JJDWDG", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
+{"asin": "B081JJDWDG", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": ["", ""]}
 {"asin": "B07YYFXT5K", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["apricot", "macadamia oil"], "pred_result": ["", "", ""]}
 {"asin": "B085QL8PDZ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
 {"asin": "B07KFNQ33H", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["borage seed oil", "silk", "keratin"], "pred_result": [""]}
@@ -37,27 +37,27 @@
 {"asin": "B078PT9BQV", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut milk"], "pred_result": [""]}
 {"asin": "B01LZY1593", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", ""]}
 {"asin": "B07J4MR35Y", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["charcoal"], "pred_result": ["", "", "", ""]}
-{"asin": "B01N2AZ63M", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter"], "pred_result": ["", ""]}
+{"asin": "B01N2AZ63M", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter"], "pred_result": ["", "", "", ""]}
 {"asin": "B01KFWKQHO", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter", "argan oil", "aloe vera", "keratin"], "pred_result": [""]}
 {"asin": "B07MK96DSN", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["clay"], "pred_result": ["", ""]}
 {"asin": "B082P748ZN", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["green tea"], "pred_result": ["", ""]}
 {"asin": "B0797HXXQ6", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["vitamin e", "argan oil", "aloe"], "pred_result": ["", ""]}
 {"asin": "B019U4WDDI", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["biotin"], "pred_result": [""]}
-{"asin": "B07BYB3673", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["green tea", "vitamin c"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B07BYB3673", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["green tea", "vitamin c"], "pred_result": ["", "", "", "", "", "", ""]}
 {"asin": "B07FPXBJCJ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["peppermint"], "pred_result": [""]}
 {"asin": "B01BE5HRUK", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["hemp"], "pred_result": ["", ""]}
 {"asin": "B07B4DD6HL", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil", "jojoba oil", "rosemary oil"], "pred_result": [""]}
 {"asin": "B01F7J6KNO", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe vera", "pomegranate", "vitamin e", "argan oil"], "pred_result": ["", "", ""]}
-{"asin": "B07WZHQLNT", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
+{"asin": "B07WZHQLNT", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": ["", ""]}
 {"asin": "B00L6FNPVE", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["acai"], "pred_result": [""]}
-{"asin": "B078PKCWMF", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil"], "pred_result": [""]}
+{"asin": "B078PKCWMF", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil"], "pred_result": ["", ""]}
 {"asin": "B07MDLF25X", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": [""]}
-{"asin": "B07QXDHJF1", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter"], "pred_result": [""]}
-{"asin": "B00U7NFS9S", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["nettle", "matcha green tea"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B07K3XCQFX", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["sweet almond oil", "vitamin e oil", "argan oil", "jojoba oil"], "pred_result": ["", ""]}
+{"asin": "B07QXDHJF1", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter"], "pred_result": ["", "", ""]}
+{"asin": "B00U7NFS9S", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["nettle", "matcha green tea"], "pred_result": ["", "", ""]}
+{"asin": "B07K3XCQFX", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["sweet almond oil", "vitamin e oil", "argan oil", "jojoba oil"], "pred_result": [""]}
 {"asin": "B01N1IF4F3", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["acai berry"], "pred_result": [""]}
-{"asin": "B074PCLGTH", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["quinoa", "calendula", "chamomile", "coconut oil", "aloe", "jojoba"], "pred_result": []}
-{"asin": "B083SLQGBJ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": ["", ""]}
+{"asin": "B074PCLGTH", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["quinoa", "calendula", "chamomile", "coconut oil", "aloe", "jojoba"], "pred_result": [""]}
+{"asin": "B083SLQGBJ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": [""]}
 {"asin": "B074C4ZHGP", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["collagen", "ginseng", "shea butter"], "pred_result": []}
 {"asin": "B07657J9WN", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["keratin"], "pred_result": [""]}
 {"asin": "B07KRDB4DZ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["charcoal"], "pred_result": ["", ""]}
@@ -65,8 +65,8 @@
 {"asin": "B086JC7STN", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["castor oil"], "pred_result": [""]}
 {"asin": "B086JD6T2Z", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": [""]}
 {"asin": "B07X1YS4XT", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
-{"asin": "B010CS9SBQ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["avocado oil"], "pred_result": ["", ""]}
-{"asin": "B00J8OZV6C", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["rosemary"], "pred_result": [""]}
+{"asin": "B010CS9SBQ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["avocado oil"], "pred_result": [""]}
+{"asin": "B00J8OZV6C", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["rosemary"], "pred_result": ["rosemary"]}
 {"asin": "B07489JK4F", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["vitamin e", "argan oil", "jojoba oil"], "pred_result": ["", "", ""]}
 {"asin": "B083W7PNV4", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
 {"asin": "B084G717SN", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["jojoba"], "pred_result": ["", "", "", "", ""]}
@@ -74,13 +74,13 @@
 {"asin": "B0867YNP17", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["olive oil"], "pred_result": ["", ""]}
 {"asin": "B083CMLQ53", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil"], "pred_result": [""]}
 {"asin": "B07Q59NXWN", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["mango butter", "panthenol", "agave"], "pred_result": []}
-{"asin": "B01E6CI9I2", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe", "tea tree", "biotin"], "pred_result": ["", ""]}
+{"asin": "B01E6CI9I2", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe", "tea tree", "biotin"], "pred_result": [""]}
 {"asin": "B01N7UFWJ7", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": [""]}
 {"asin": "B0849SP159", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
 {"asin": "B07HYQJ16G", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil", "biotin", "shea butter"], "pred_result": [""]}
 {"asin": "B00OY5VJY8", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["champagne", "pearls", "cashmere"], "pred_result": [""]}
 {"asin": "B009OXIUME", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["vitamin b", "argan oil", "shea butter", "keratin"], "pred_result": [""]}
-{"asin": "B01IADZ2ME", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": ["", "", ""]}
+{"asin": "B01IADZ2ME", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": ["", ""]}
 {"asin": "B086XFMDKR", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["collagen"], "pred_result": [""]}
 {"asin": "B07NMRWMLP", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["charcoal"], "pred_result": [""]}
 {"asin": "B082YPPHH2", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
@@ -89,11 +89,11 @@
 {"asin": "B07BQCWPW1", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["patchouli oil", "pomegranate"], "pred_result": ["", "", "", "", "", "", ""]}
 {"asin": "B07PQ5CLNM", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": []}
 {"asin": "B0767QBFK5", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter", "coconut"], "pred_result": [""]}
-{"asin": "B07XD615H3", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil", "awapuhi", "aloe vera"], "pred_result": ["", "", ""]}
-{"asin": "B005SPETH2", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["keratin"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07XD615H3", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil", "awapuhi", "aloe vera"], "pred_result": ["", ""]}
+{"asin": "B005SPETH2", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["keratin"], "pred_result": ["", "keratin", "keratin", "keratin", "keratin", "", ""]}
 {"asin": "B01IAEV2P4", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter", "olive oil"], "pred_result": [""]}
-{"asin": "B07M923F6F", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil"], "pred_result": ["", ""]}
-{"asin": "B0711V1B2L", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe vera"], "pred_result": ["", ""]}
+{"asin": "B07M923F6F", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil"], "pred_result": [""]}
+{"asin": "B0711V1B2L", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["aloe vera"], "pred_result": [""]}
 {"asin": "B009VH3GJU", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["keratin"], "pred_result": [""]}
 {"asin": "B00GLOC2V4", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["keratin"], "pred_result": ["", ""]}
 {"asin": "B01N7DLPUQ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut"], "pred_result": ["", ""]}
@@ -107,15 +107,15 @@
 {"asin": "B082P6ZY22", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": ["", ""]}
 {"asin": "B07TBMWQW2", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
 {"asin": "B082ZQ95YS", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil", "argan oil"], "pred_result": ["", ""]}
-{"asin": "B07WVHMZ2R", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
-{"asin": "B009OL9OVC", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": [""]}
+{"asin": "B07WVHMZ2R", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": []}
+{"asin": "B009OL9OVC", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": ["", ""]}
 {"asin": "B079F1V6D1", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["almond oil"], "pred_result": ["", ""]}
 {"asin": "B07MJLYTBD", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["apple cider vinegar"], "pred_result": [""]}
-{"asin": "B07H4ZH9VL", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07H4ZH9VL", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["shea butter"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B0741FV4PZ", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["vitamin e", "shea butter"], "pred_result": [""]}
-{"asin": "B086MJT12N", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
+{"asin": "B086MJT12N", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": ["", ""]}
 {"asin": "B007SAVKT0", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["coconut oil", "shea butter"], "pred_result": ["", ""]}
-{"asin": "B00FRDPMQC", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["olive oil"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00FRDPMQC", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["olive oil"], "pred_result": ["", "", "", ""]}
 {"asin": "B07R752T74", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["wheat protein", "macadamia oil"], "pred_result": []}
 {"asin": "B004FSYRM0", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["tea tree"], "pred_result": ["", ""]}
 {"asin": "B07X1MVGS7", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": [], "pred_result": [""]}
@@ -124,203 +124,203 @@
 {"asin": "B0067QXFCG", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil", "aloe vera"], "pred_result": []}
 {"asin": "B00SNKT13Q", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["rosemary", "coconut oil", "biotin", "honey"], "pred_result": ["", "", "", ""]}
 {"asin": "B01E8PRJ1U", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["collagen", "keratin"], "pred_result": [""]}
-{"asin": "B00DP7622A", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
+{"asin": "B00DP7622A", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", "", "", ""]}
 {"asin": "B07TLQD4MP", "attribute": "SpecialIngredients", "product_type": "conditioner", "gt_result": ["jojoba", "olive oil"], "pred_result": []}
 {"asin": "B00O98UWN4", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": ["collagen", "keratin"], "pred_result": ["", "", ""]}
 {"asin": "B002D8IH9S", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": [], "pred_result": [""]}
 {"asin": "B000K5E88U", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": ["avocado"], "pred_result": [""]}
-{"asin": "B07FSPYPFL", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": [], "pred_result": []}
-{"asin": "B00OP23EBQ", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": ["coconut oil", "keratin"], "pred_result": ["", ""]}
+{"asin": "B07FSPYPFL", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": [], "pred_result": [""]}
+{"asin": "B00OP23EBQ", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": ["coconut oil", "keratin"], "pred_result": ["keratin", ""]}
 {"asin": "B0001XLSR0", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": [], "pred_result": ["", "", ""]}
 {"asin": "B00U81WBCQ", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": [], "pred_result": ["", ""]}
 {"asin": "B003JM6PLY", "attribute": "SpecialIngredients", "product_type": "hair_coloring_agent", "gt_result": [], "pred_result": [""]}
 {"asin": "B00J5RQ968", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["honey", "shea butter"], "pred_result": ["", "", "", ""]}
-{"asin": "B01E6CI9KU", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["rosemary", "biotin", "honey"], "pred_result": ["", ""]}
+{"asin": "B01E6CI9KU", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["rosemary", "biotin", "honey"], "pred_result": [""]}
 {"asin": "B01B9MIA7M", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["argan oil"], "pred_result": [""]}
 {"asin": "B00FPO16S6", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["soy protein"], "pred_result": []}
 {"asin": "B072B5PP2Q", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["vitamin e", "jojoba oil", "sandalwood"], "pred_result": ["", "", ""]}
 {"asin": "B07WHTH2L7", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["vitamin e", "rosemary"], "pred_result": ["", "", "", ""]}
-{"asin": "B07BVVPNY1", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B07BVVPNY1", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", "", "", "", ""]}
 {"asin": "B00YW6OLYE", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["argan oil", "jojoba oil"], "pred_result": ["", "", "", "", "", ""]}
 {"asin": "B07QV9YV19", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["tea tree oil", "honey"], "pred_result": [""]}
-{"asin": "B07WJ6TZVX", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["grape seed extract", "vitamin e", "argan oil", "jojoba oil"], "pred_result": ["", ""]}
+{"asin": "B07WJ6TZVX", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["grape seed extract", "vitamin e", "argan oil", "jojoba oil"], "pred_result": ["", "", ""]}
 {"asin": "B00B1KCTMA", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["amla"], "pred_result": [""]}
-{"asin": "B01M3VXN39", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["keratin"], "pred_result": ["", "", "", ""]}
+{"asin": "B01M3VXN39", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["keratin"], "pred_result": ["", "", "", "keratin"]}
 {"asin": "B07FFKW7SN", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["grape seed", "jojoba", "hemp seed"], "pred_result": ["", ""]}
 {"asin": "B07C6ZQC4Z", "attribute": "SpecialIngredients", "product_type": "hair_styling_agent", "gt_result": ["sea buckthorn", "rosehip", "argan", "jojoba"], "pred_result": [""]}
-{"asin": "B07CWBJK2C", "attribute": "SpecialIngredients", "product_type": "insect_repellent", "gt_result": ["rosemary"], "pred_result": [""]}
-{"asin": "B07QMNG5RW", "attribute": "SpecialIngredients", "product_type": "manual_shaving_razor", "gt_result": ["shea butter", "cocoa butter"], "pred_result": []}
-{"asin": "B002C0SLTI", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["camellia oil"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07CWBJK2C", "attribute": "SpecialIngredients", "product_type": "insect_repellent", "gt_result": ["rosemary"], "pred_result": []}
+{"asin": "B07QMNG5RW", "attribute": "SpecialIngredients", "product_type": "manual_shaving_razor", "gt_result": ["shea butter", "cocoa butter"], "pred_result": [""]}
+{"asin": "B002C0SLTI", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["camellia oil"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B00J8EV8WS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "argan oil"], "pred_result": [""]}
 {"asin": "B07D5WN57Z", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut"], "pred_result": ["", ""]}
 {"asin": "B0014CVO6W", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["almond oil"], "pred_result": ["", "", "", "", "", "", "", ""]}
-{"asin": "B00I52WFUS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", ""]}
-{"asin": "B07CQXBRGG", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["green tea", "honey", "aloe vera"], "pred_result": ["", ""]}
-{"asin": "B00AXLPG50", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["shea butter", "rosemary"], "pred_result": ["", ""]}
-{"asin": "B076GJCJYL", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary", "keratin", "argan oil", "tea tree oil", "jojoba oil"], "pred_result": [""]}
+{"asin": "B00I52WFUS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "keratin", ""]}
+{"asin": "B07CQXBRGG", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["green tea", "honey", "aloe vera"], "pred_result": ["", "honey", ""]}
+{"asin": "B00AXLPG50", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["shea butter", "rosemary"], "pred_result": ["", "rosemary", "", ""]}
+{"asin": "B076GJCJYL", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary", "keratin", "argan oil", "tea tree oil", "jojoba oil"], "pred_result": ["keratin"]}
 {"asin": "B004X8K1UO", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", ""]}
 {"asin": "B00USBLLHW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", ""]}
-{"asin": "B00CF2JIVS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["sunflower seed", "shea butter"], "pred_result": ["", "", "", "", "", "", ""]}
-{"asin": "B00NRKGL9O", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["jojoba oil", "keratin"], "pred_result": ["", ""]}
-{"asin": "B00G0C6W4U", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "argan oil"], "pred_result": ["", "", ""]}
-{"asin": "B009K6YCXQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "hibiscus"], "pred_result": ["", "", "", "", "", "", ""]}
-{"asin": "B00LSV7ZQ2", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", "", "", ""]}
+{"asin": "B00CF2JIVS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["sunflower seed", "shea butter"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B00NRKGL9O", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["jojoba oil", "keratin"], "pred_result": ["", "keratin"]}
+{"asin": "B00G0C6W4U", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "argan oil"], "pred_result": ["", "", "", ""]}
+{"asin": "B009K6YCXQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "hibiscus"], "pred_result": ["", "", "", ""]}
+{"asin": "B00LSV7ZQ2", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B01GES2Y5K", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin c", "aloe vera"], "pred_result": [""]}
 {"asin": "B01LX38729", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["calendula"], "pred_result": ["", ""]}
-{"asin": "B006CQYZ2K", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": [""]}
-{"asin": "B07GPGT267", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", "", ""]}
+{"asin": "B006CQYZ2K", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["rosemary"]}
+{"asin": "B07GPGT267", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", ""]}
 {"asin": "B07FDCH3PG", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil"], "pred_result": [""]}
 {"asin": "B00IAAD36U", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["almond oil"], "pred_result": ["", "", ""]}
 {"asin": "B00HA9CPY8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": [], "pred_result": ["", ""]}
-{"asin": "B01I5MJK9G", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B01I5MJK9G", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate"], "pred_result": ["", "", "", "pomegranate", "", "", "", "", ""]}
 {"asin": "B00QDQ6Z40", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", "", ""]}
-{"asin": "B000A408T4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate", "keratin"], "pred_result": ["", "", ""]}
-{"asin": "B00Q8NSWSU", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate"], "pred_result": ["", "", "", ""]}
+{"asin": "B000A408T4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate", "keratin"], "pred_result": ["keratin", "pomegranate"]}
+{"asin": "B00Q8NSWSU", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B07S7VCFRX", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": [""]}
-{"asin": "B00SQQ2T18", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": [""]}
-{"asin": "B019WYTRN0", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil", "clary sage", "rosemary"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B00SQQ2T18", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", ""]}
+{"asin": "B019WYTRN0", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil", "clary sage", "rosemary"], "pred_result": ["", "", "", "", "rosemary", "", ""]}
 {"asin": "B01DOK3XGU", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e"], "pred_result": ["", "", ""]}
-{"asin": "B06XPQBFX8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin b", "nettle", "rosemary"], "pred_result": ["", ""]}
-{"asin": "B00HHKZL4Q", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate", "argan oil", "keratin"], "pred_result": [""]}
+{"asin": "B06XPQBFX8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin b", "nettle", "rosemary"], "pred_result": [""]}
+{"asin": "B00HHKZL4Q", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate", "argan oil", "keratin"], "pred_result": []}
 {"asin": "B07GBQ45F6", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e"], "pred_result": ["", "", "", ""]}
-{"asin": "B07ND8DCP9", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["green tea"], "pred_result": [""]}
+{"asin": "B07ND8DCP9", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["green tea"], "pred_result": []}
 {"asin": "B00HL8EQSQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut"], "pred_result": ["", ""]}
-{"asin": "B00016XA9Q", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["jojoba", "keratin"], "pred_result": ["", "", ""]}
-{"asin": "B074D8FWYW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", "", "", "", "", "", "", "", "", ""]}
+{"asin": "B00016XA9Q", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["jojoba", "keratin"], "pred_result": ["", "keratin"]}
+{"asin": "B074D8FWYW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
 {"asin": "B01KYRJLEY", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["", ""]}
-{"asin": "B07T5SS1W6", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": [], "pred_result": ["", ""]}
-{"asin": "B007OWP8TK", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey", "keratin"], "pred_result": ["", "", "", ""]}
+{"asin": "B07T5SS1W6", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": [], "pred_result": [""]}
+{"asin": "B007OWP8TK", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey", "keratin"], "pred_result": ["keratin", "keratin", "keratin", ""]}
 {"asin": "B00J3ZGWUK", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["olive oil"], "pred_result": [""]}
 {"asin": "B009DOWGHE", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": [""]}
-{"asin": "B00FKUGQZS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["caffeine"], "pred_result": [""]}
-{"asin": "B07K97PL7H", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B00FKUGQZS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["caffeine"], "pred_result": ["caffeine"]}
+{"asin": "B07K97PL7H", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", "", ""]}
 {"asin": "B00VH3NJCK", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["chamomile"], "pred_result": ["", ""]}
-{"asin": "B00UW2PM2M", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "argan oil", "shea butter"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B06XDTGMRR", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00UW2PM2M", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "argan oil", "shea butter"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B06XDTGMRR", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", "", "", ""]}
 {"asin": "B017KQXNLO", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey"], "pred_result": [""]}
 {"asin": "B00DGGZUM8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["tea tree oil"], "pred_result": [""]}
 {"asin": "B07GSZWVGT", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["shea butter"], "pred_result": ["", ""]}
 {"asin": "B01DQ8GQR8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["sunflower oil", "vitamin b", "jojoba oil"], "pred_result": [""]}
 {"asin": "B00B1KVU34", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["amla"], "pred_result": []}
 {"asin": "B013TQT976", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut"], "pred_result": [""]}
-{"asin": "B00A77I05I", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", ""]}
-{"asin": "B00QBWXJ72", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["nettle"], "pred_result": ["", "", "", ""]}
-{"asin": "B00BJ7KNM8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", ""]}
-{"asin": "B06XKLBH62", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["castor oil"], "pred_result": [""]}
-{"asin": "B009NQRWEY", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey"], "pred_result": ["", "", ""]}
-{"asin": "B07H5P13JJ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera", "honey"], "pred_result": ["", "", "", ""]}
+{"asin": "B00A77I05I", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": [""]}
+{"asin": "B00QBWXJ72", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["nettle"], "pred_result": ["", ""]}
+{"asin": "B00BJ7KNM8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["keratin", ""]}
+{"asin": "B06XKLBH62", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["castor oil"], "pred_result": []}
+{"asin": "B009NQRWEY", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey"], "pred_result": ["honey", ""]}
+{"asin": "B07H5P13JJ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera", "honey"], "pred_result": ["honey", "honey", "", ""]}
 {"asin": "B00EP0IWSI", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", "", ""]}
-{"asin": "B00FZQ1XBE", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", "", ""]}
-{"asin": "B00DGW714W", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["macadamia oil", "aloe vera", "keratin", "coconut oil", "argan oil"], "pred_result": ["", "", "", ""]}
+{"asin": "B00FZQ1XBE", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", "keratin", "", ""]}
+{"asin": "B00DGW714W", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["macadamia oil", "aloe vera", "keratin", "coconut oil", "argan oil"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B01015YRFC", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["shea butter"], "pred_result": ["", ""]}
 {"asin": "B0085YXG36", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "argan oil", "aloe vera", "biotin"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B00EKTJEYA", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "sunflower oil", "jojoba oil"], "pred_result": ["", ""]}
+{"asin": "B00EKTJEYA", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "sunflower oil", "jojoba oil"], "pred_result": [""]}
 {"asin": "B00KOJ9KD0", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "vitamin e"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B0842WMBGT", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["tea tree oil"], "pred_result": []}
 {"asin": "B073C8WBTT", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "nettle", "rosehip", "castor oil"], "pred_result": ["", "", "", ""]}
-{"asin": "B07L7PVB3R", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", ""]}
+{"asin": "B07L7PVB3R", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", "keratin"]}
 {"asin": "B002SRUSTG", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": [""]}
-{"asin": "B01M4LXUC4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil", "keratin"], "pred_result": ["", ""]}
+{"asin": "B01M4LXUC4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil", "keratin"], "pred_result": ["", "keratin"]}
 {"asin": "B0000Y3CRY", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["ketoconazole"], "pred_result": ["", "", ""]}
-{"asin": "B000BGL584", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "rosemary"], "pred_result": ["", ""]}
+{"asin": "B000BGL584", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "rosemary"], "pred_result": ["rosemary"]}
 {"asin": "B00QDQ5ZIC", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", ""]}
 {"asin": "B010160RZK", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["shea butter"], "pred_result": ["", ""]}
-{"asin": "B00EZRR4SU", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "keratin"], "pred_result": [""]}
-{"asin": "B00028ORM2", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["jojoba oil"], "pred_result": ["", "", ""]}
+{"asin": "B00EZRR4SU", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "keratin"], "pred_result": []}
+{"asin": "B00028ORM2", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["jojoba oil"], "pred_result": ["", ""]}
 {"asin": "B00K6PGBHU", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["amla"], "pred_result": [""]}
 {"asin": "B00L9XOEYK", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", "", ""]}
-{"asin": "B00743VAOG", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["zinc"], "pred_result": ["", "", "", ""]}
-{"asin": "B00MR204DW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "zinc"], "pred_result": [""]}
-{"asin": "B078GMZ96P", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00743VAOG", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["zinc"], "pred_result": ["zinc", "", "", ""]}
+{"asin": "B00MR204DW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "zinc"], "pred_result": ["zinc"]}
+{"asin": "B078GMZ96P", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["keratin", "", "keratin", "keratin", "keratin"]}
 {"asin": "B002VA4FX0", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["shea butter"], "pred_result": ["", "", "", "", "", "", "", "", "", "", ""]}
-{"asin": "B00A1OPVO0", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera", "coconut"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B002ZERYA8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", ""]}
-{"asin": "B07PRX7NMS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B00584UZQW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", "", ""]}
+{"asin": "B00A1OPVO0", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera", "coconut"], "pred_result": ["", "", ""]}
+{"asin": "B002ZERYA8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["keratin", "keratin"]}
+{"asin": "B07PRX7NMS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e"], "pred_result": ["", "", ""]}
+{"asin": "B00584UZQW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["keratin", "", "keratin", "", ""]}
 {"asin": "B017AGMC3O", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "argan oil"], "pred_result": ["", ""]}
-{"asin": "B071JSSBCS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["", "", "", "", "", "", "", ""]}
-{"asin": "B00EEE5W4W", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey"], "pred_result": ["", ""]}
-{"asin": "B00YPP8ZOO", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "honey", "aloe vera"], "pred_result": ["", ""]}
-{"asin": "B00KWTDV1Y", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "keratin"], "pred_result": ["", ""]}
+{"asin": "B071JSSBCS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["", "rosemary", "", "", "", "", "", "", "", "rosemary", "", ""]}
+{"asin": "B00EEE5W4W", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey"], "pred_result": ["", "", ""]}
+{"asin": "B00YPP8ZOO", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "honey", "aloe vera"], "pred_result": ["", "honey"]}
+{"asin": "B00KWTDV1Y", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "keratin"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B002QBJQXI", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["nettle", "vitamin e"], "pred_result": [""]}
-{"asin": "B07H9B2RVW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["caffeine", "zinc"], "pred_result": ["", "", ""]}
+{"asin": "B07H9B2RVW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["caffeine", "zinc"], "pred_result": ["zinc", "zinc", "caffeine", ""]}
 {"asin": "B01015YOBO", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["shea butter"], "pred_result": ["", ""]}
-{"asin": "B00RNGPHN4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", "", ""]}
+{"asin": "B00RNGPHN4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": [""]}
 {"asin": "B00MOJY0KQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "biotin", "lemongrass"], "pred_result": ["", ""]}
 {"asin": "B015RII87Q", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut water"], "pred_result": ["", "", ""]}
-{"asin": "B019ZZ265C", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["charcoal"], "pred_result": ["", ""]}
-{"asin": "B00R0UJVR6", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B019ZZ265C", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["charcoal"], "pred_result": ["", "", ""]}
+{"asin": "B00R0UJVR6", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["keratin", "keratin", "", "", "keratin"]}
 {"asin": "B009DG9O0O", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", ""]}
 {"asin": "B00PF29Y5K", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", ""]}
 {"asin": "B079KNF3KB", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate", "aloe vera"], "pred_result": ["", "", ""]}
 {"asin": "B00B1DSFIO", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["jojoba oil"], "pred_result": ["", ""]}
-{"asin": "B01C320408", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin", "argan oil", "tea tree oil", "biotin"], "pred_result": ["", "", "", ""]}
-{"asin": "B00CHU05UQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", ""]}
+{"asin": "B01C320408", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin", "argan oil", "tea tree oil", "biotin"], "pred_result": ["", "", ""]}
+{"asin": "B00CHU05UQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": [""]}
 {"asin": "B082YWSMD1", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": [], "pred_result": [""]}
-{"asin": "B005JEFZBQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["", "", "", ""]}
-{"asin": "B07HLCR2D4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["lemongrass"], "pred_result": [""]}
+{"asin": "B005JEFZBQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["", "rosemary", "", ""]}
+{"asin": "B07HLCR2D4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["lemongrass"], "pred_result": ["", ""]}
 {"asin": "B00V1YC4IA", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": [""]}
-{"asin": "B0052DVIQK", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", ""]}
+{"asin": "B0052DVIQK", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": [""]}
 {"asin": "B071GKQQB5", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["almond oil"], "pred_result": ["", "", "", ""]}
 {"asin": "B00KOC96G8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e"], "pred_result": ["", ""]}
-{"asin": "B00GMP46EI", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["zinc"], "pred_result": ["", "", "", ""]}
-{"asin": "B07HMVMTN5", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["apple cider vinegar"], "pred_result": []}
+{"asin": "B00GMP46EI", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["zinc"], "pred_result": ["", "", "zinc"]}
+{"asin": "B07HMVMTN5", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["apple cider vinegar"], "pred_result": [""]}
 {"asin": "B0711KDFSY", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", ""]}
 {"asin": "B01INE0VUS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["caffeine", "zinc"], "pred_result": [""]}
-{"asin": "B000Q3YJ4E", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["nettle"], "pred_result": [""]}
-{"asin": "B07DFT7Y6C", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B000Q3YJ4E", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["nettle"], "pred_result": ["nettle"]}
+{"asin": "B07DFT7Y6C", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["", "", "", "", "", ""]}
 {"asin": "B00SNKSLKA", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["green tea", "coconut oil"], "pred_result": ["", ""]}
 {"asin": "B004QWACB0", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": [""]}
 {"asin": "B0039NOMXQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["jojoba oil"], "pred_result": ["", "", "", ""]}
 {"asin": "B007W1KMVW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["avocado oil", "pomegranate"], "pred_result": ["", "", ""]}
-{"asin": "B00DPNKFAY", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil"], "pred_result": ["", "", ""]}
+{"asin": "B00DPNKFAY", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil"], "pred_result": ["", ""]}
 {"asin": "B07YXDSSJN", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": [""]}
 {"asin": "B004600K00", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", ""]}
-{"asin": "B001UPMP3E", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", ""]}
-{"asin": "B00BSE0D40", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey"], "pred_result": ["", "", "", ""]}
+{"asin": "B001UPMP3E", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["keratin", ""]}
+{"asin": "B00BSE0D40", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey"], "pred_result": ["", "", "honey", ""]}
 {"asin": "B014NOUCJM", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": ["", "", ""]}
-{"asin": "B00BI5P038", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["", "", ""]}
-{"asin": "B01BGFOAOE", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["green tea"], "pred_result": ["", "", "", ""]}
+{"asin": "B00BI5P038", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["rosemary"], "pred_result": ["rosemary", "", ""]}
+{"asin": "B01BGFOAOE", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["green tea"], "pred_result": ["", "", ""]}
 {"asin": "B006R5GXCG", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "grapefruit seed", "jojoba oil", "vitamin e"], "pred_result": []}
 {"asin": "B07CXW5PCL", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil", "argan oil", "black cumin"], "pred_result": ["", ""]}
 {"asin": "B00VRN83US", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e"], "pred_result": [""]}
 {"asin": "B00414411K", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["saw palmetto"], "pred_result": ["", ""]}
-{"asin": "B00MN4YTFI", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin c"], "pred_result": [""]}
+{"asin": "B00MN4YTFI", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin c"], "pred_result": ["", ""]}
 {"asin": "B07Y8YJMVX", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["coconut oil"], "pred_result": ["", "", ""]}
 {"asin": "B072KQPQW9", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["almond oil", "coconut oil"], "pred_result": ["", "", ""]}
-{"asin": "B009Q4GSP2", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["macadamia oil", "keratin"], "pred_result": ["", ""]}
+{"asin": "B009Q4GSP2", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["macadamia oil", "keratin"], "pred_result": ["", "", "keratin"]}
 {"asin": "B079RDR8ZD", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin", "coconut oil", "argan oil", "jojoba oil", "tea tree oil", "biotin"], "pred_result": [""]}
-{"asin": "B00X0XI46Q", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["almond oil", "coconut oil"], "pred_result": [""]}
-{"asin": "B015OKTVBY", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey", "shea butter"], "pred_result": ["", "", "", ""]}
-{"asin": "B00SQNOQVW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": [""]}
-{"asin": "B00CNLEN8Y", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B00X0XI46Q", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["almond oil", "coconut oil"], "pred_result": ["", ""]}
+{"asin": "B015OKTVBY", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["honey", "shea butter"], "pred_result": ["", "honey", "", "", ""]}
+{"asin": "B00SQNOQVW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", ""]}
+{"asin": "B00CNLEN8Y", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", "", "", ""]}
 {"asin": "B00T25413G", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["avocado oil", "shea butter", "jojoba oil"], "pred_result": ["", "", "", "", "", ""]}
 {"asin": "B00J4QGI02", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil", "keratin"], "pred_result": []}
-{"asin": "B079ZPT5KQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["tea tree oil", "rosemary"], "pred_result": ["", "", ""]}
-{"asin": "B0015GBS7W", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["willow bark", "biotin", "honey"], "pred_result": ["", "", "", ""]}
-{"asin": "B00OZG2TJA", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["", "", ""]}
-{"asin": "B00AZGFHI4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["biotin"], "pred_result": ["", ""]}
+{"asin": "B079ZPT5KQ", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["tea tree oil", "rosemary"], "pred_result": ["rosemary", "rosemary", ""]}
+{"asin": "B0015GBS7W", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["willow bark", "biotin", "honey"], "pred_result": ["", "honey", "", ""]}
+{"asin": "B00OZG2TJA", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["keratin"], "pred_result": ["keratin", "keratin"]}
+{"asin": "B00AZGFHI4", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["biotin"], "pred_result": ["biotin", "biotin"]}
 {"asin": "B005GWUYYO", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["argan oil"], "pred_result": [""]}
-{"asin": "B075Z1HH8W", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "aloe vera", "jojoba oil"], "pred_result": [""]}
+{"asin": "B075Z1HH8W", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["vitamin e", "aloe vera", "jojoba oil"], "pred_result": ["", ""]}
 {"asin": "B07NQBC822", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["peach"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B07RT1CQD8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["zinc", "shea butter"], "pred_result": [""]}
+{"asin": "B07RT1CQD8", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["zinc", "shea butter"], "pred_result": []}
 {"asin": "B007RTR8A2", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["aloe vera"], "pred_result": ["", "", "", ""]}
-{"asin": "B001E11AGW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["green tea", "jojoba oil"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B01DMTXQXS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate"], "pred_result": ["", "", "", ""]}
-{"asin": "B002HGDZK2", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["aloe vera"], "pred_result": ["", "", ""]}
-{"asin": "B07RQ8WQ66", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["argan oil", "shea butter", "tea tree oil", "honey"], "pred_result": ["", "", "", "", "", "", ""]}
-{"asin": "B00KMY3P1K", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["pomegranate"], "pred_result": ["", "", ""]}
-{"asin": "B00C7D2BC8", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["honey"], "pred_result": [""]}
-{"asin": "B00QEVIVZU", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["pomegranate"], "pred_result": ["", ""]}
+{"asin": "B001E11AGW", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["green tea", "jojoba oil"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B01DMTXQXS", "attribute": "SpecialIngredients", "product_type": "shampoo", "gt_result": ["pomegranate"], "pred_result": ["pomegranate", ""]}
+{"asin": "B002HGDZK2", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["aloe vera"], "pred_result": ["", ""]}
+{"asin": "B07RQ8WQ66", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["argan oil", "shea butter", "tea tree oil", "honey"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00KMY3P1K", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["pomegranate"], "pred_result": ["", ""]}
+{"asin": "B00C7D2BC8", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["honey"], "pred_result": []}
+{"asin": "B00QEVIVZU", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["pomegranate"], "pred_result": [""]}
 {"asin": "B07P4PSSS7", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["lemon sage", "tea tree oil", "honey"], "pred_result": ["", "", "", ""]}
 {"asin": "B0758ZCDD7", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["coconut oil"], "pred_result": ["", ""]}
 {"asin": "B000ZFCDFA", "attribute": "SpecialIngredients", "product_type": "skin_cleaning_agent", "gt_result": ["collagen", "vitamin e", "shea butter"], "pred_result": ["", "", "", ""]}
 {"asin": "B003B9DWMA", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["shea butter"], "pred_result": ["", "", "", ""]}
-{"asin": "B000K7MDTO", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["coconut oil", "shea butter", "aloe vera"], "pred_result": ["", "", "", ""]}
+{"asin": "B000K7MDTO", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["coconut oil", "shea butter", "aloe vera"], "pred_result": ["", "", ""]}
 {"asin": "B00LOV06W6", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["shea butter"], "pred_result": ["", "", "", ""]}
 {"asin": "B00INC4INC", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B07J2W1QZ6", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["peach", "vitamin e", "coconut oil", "argan oil", "shea butter", "tea tree oil"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07J2W1QZ6", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["peach", "vitamin e", "coconut oil", "argan oil", "shea butter", "tea tree oil"], "pred_result": ["", "", "", "", "", ""]}
 {"asin": "B01FRGFOHK", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["aloe vera", "vitamin e", "coconut oil", "shea butter", "jojoba oil"], "pred_result": ["", "", "", ""]}
-{"asin": "B07YYG14S1", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", "", "", ""]}
-{"asin": "B00K5GZUKO", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["shea butter"], "pred_result": ["", "", "", ""]}
-{"asin": "B00KAFON6W", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B07YYG14S1", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", "", "", ""]}
+{"asin": "B00K5GZUKO", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["shea butter"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B00KAFON6W", "attribute": "SpecialIngredients", "product_type": "skin_moisturizer", "gt_result": ["argan oil"], "pred_result": ["", "", "", "", ""]}

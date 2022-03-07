@@ -7,21 +7,21 @@
 {"asin": "B075L795SW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["bamboo"], "pred_result": []}
 {"asin": "B07T1N3WNM", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
 {"asin": "B083XMPPR3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["alloy"], "pred_result": [""]}
-{"asin": "B075K72NRW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": [""]}
+{"asin": "B075K72NRW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": []}
 {"asin": "B00U28T3VC", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B07D241T6Y", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
-{"asin": "B0873XBM8B", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum"], "pred_result": [""]}
+{"asin": "B0873XBM8B", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum"], "pred_result": ["", ""]}
 {"asin": "B083GPM5TY", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["goat hair", "nylon"], "pred_result": [""]}
 {"asin": "B0871NX27G", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair"], "pred_result": [""]}
 {"asin": "B08D74MRCH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": ["", "", ""]}
 {"asin": "B01FWDIJHK", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wool", "synthetic fiber"], "pred_result": [""]}
-{"asin": "B07FYB9CWB", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["soft synthetic fiber", "alloy"], "pred_result": [""]}
+{"asin": "B07FYB9CWB", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["soft synthetic fiber", "alloy"], "pred_result": ["", "", ""]}
 {"asin": "B075S42QC3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["sponge"], "pred_result": ["", ""]}
 {"asin": "B07K2L5SN5", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polypropylene", "fiber", "plastic"], "pred_result": [""]}
 {"asin": "B07MQDDNLN", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": []}
-{"asin": "B078GDNM24", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polypropylene"], "pred_result": ["", "", ""]}
-{"asin": "B082PKK8RW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair"], "pred_result": []}
-{"asin": "B083GQ8Y3S", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": [""]}
+{"asin": "B078GDNM24", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polypropylene"], "pred_result": [""]}
+{"asin": "B082PKK8RW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair"], "pred_result": [""]}
+{"asin": "B083GQ8Y3S", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": []}
 {"asin": "B01CY34C5E", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": ["", ""]}
 {"asin": "B07T6SNKRN", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["poly ethylene"], "pred_result": [""]}
 {"asin": "B074SFJSNF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber", "plastic"], "pred_result": [""]}
@@ -32,26 +32,26 @@
 {"asin": "B07F6BQJ76", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "aluminum", "metal alloy"], "pred_result": ["", ""]}
 {"asin": "B01BSBTI1Q", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "cotton", "plastic", "bamboo"], "pred_result": ["", ""]}
 {"asin": "B01FDGO82G", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
-{"asin": "B086T21NTH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["cotton", "plastic", "stainless steel", "wood", "silicone"], "pred_result": []}
+{"asin": "B086T21NTH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["cotton", "plastic", "stainless steel", "wood", "silicone"], "pred_result": [""]}
 {"asin": "B07L2NDRCJ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber"], "pred_result": []}
 {"asin": "B01EWBYUDU", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["premium synthetic fiber"], "pred_result": ["", ""]}
 {"asin": "B07QZB95CH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic"], "pred_result": [""]}
 {"asin": "B0792WNNP4", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
 {"asin": "B07GFGG2P9", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "nylon"], "pred_result": ["", "", ""]}
 {"asin": "B01I1CXXGG", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": ["", ""]}
-{"asin": "B07VRVVRV2", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibers", "aluminum"], "pred_result": []}
+{"asin": "B07VRVVRV2", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibers", "aluminum"], "pred_result": [""]}
 {"asin": "B086BW189T", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "metal"], "pred_result": [""]}
 {"asin": "B07D47RLPM", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "fiber"], "pred_result": []}
-{"asin": "B088R3ZRYH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["abs", "plastic"], "pred_result": ["", "", ""]}
+{"asin": "B088R3ZRYH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["abs", "plastic"], "pred_result": [""]}
 {"asin": "B07VZPK27B", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair", "plastic"], "pred_result": [""]}
 {"asin": "B07NYRXCW7", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood", "nylon"], "pred_result": [""]}
 {"asin": "B075V1WRQ4", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": ["", ""]}
 {"asin": "B0832MJSGW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
-{"asin": "B07R5JGBQT", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
-{"asin": "B07JPK2HG7", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["microfiber", "plastic"], "pred_result": ["", ""]}
+{"asin": "B07R5JGBQT", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": ["", ""]}
+{"asin": "B07JPK2HG7", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["microfiber", "plastic"], "pred_result": ["", "", "", "", "", ""]}
 {"asin": "B08BRNYCCK", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": [""]}
 {"asin": "B07PPH541B", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber", "plastic"], "pred_result": [""]}
-{"asin": "B083GQMJS3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": []}
+{"asin": "B083GQMJS3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": [""]}
 {"asin": "B07XMM8H14", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polyvinyl chloride", "fiber", "wood"], "pred_result": []}
 {"asin": "B07RYSGQ3Y", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": [""]}
 {"asin": "B08D67X7XS", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": ["", "", "", ""]}
@@ -61,56 +61,56 @@
 {"asin": "B08CXGX4D4", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["cotton", "plastic"], "pred_result": [""]}
 {"asin": "B086QRT19W", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["abs", "plastic", "fiber", "wool"], "pred_result": [""]}
 {"asin": "B07RWWHQDT", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["acrylic", "aluminum", "fiber"], "pred_result": []}
-{"asin": "B081CTB9X6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "alloy"], "pred_result": ["", "", ""]}
-{"asin": "B08BYNDLN3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B081CTB9X6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "alloy"], "pred_result": [""]}
+{"asin": "B08BYNDLN3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic"], "pred_result": ["synthetic", "plastic", "", "synthetic"]}
 {"asin": "B07VMDW5VH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood", "nylon", "alloy"], "pred_result": [""]}
 {"asin": "B06VXQ1VKN", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic"], "pred_result": ["", "", "", ""]}
 {"asin": "B08CTZFKJJ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": ["", "", ""]}
 {"asin": "B07BXF59JJ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["hard plastic", "silicone"], "pred_result": [""]}
 {"asin": "B081HX13D6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "nylon"], "pred_result": [""]}
-{"asin": "B07RLWMXGD", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
-{"asin": "B08D6DSX41", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07RLWMXGD", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": []}
+{"asin": "B08D6DSX41", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": []}
 {"asin": "B087F4TKSS", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["crystal"], "pred_result": ["", ""]}
 {"asin": "B082VRYJB2", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": []}
 {"asin": "B01EO2KLDU", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": [""]}
 {"asin": "B0723HQF2F", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon", "metal"], "pred_result": [""]}
-{"asin": "B087JG2RN1", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B083BCNN6N", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "wood"], "pred_result": []}
+{"asin": "B087JG2RN1", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": []}
+{"asin": "B083BCNN6N", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "wood"], "pred_result": [""]}
 {"asin": "B0897H2XJ1", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "alloy"], "pred_result": [""]}
 {"asin": "B07R41KLL3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": [""]}
 {"asin": "B0832H5HC8", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
 {"asin": "B0773B1S4X", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "nylon"], "pred_result": ["", ""]}
 {"asin": "B082F3P5DT", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "plastic"], "pred_result": [""]}
-{"asin": "B089RZ6H76", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": ["", ""]}
+{"asin": "B089RZ6H76", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": [""]}
 {"asin": "B07Z1WK6ZZ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["latex"], "pred_result": [""]}
 {"asin": "B089VX2QMJ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["cotton", "plastic"], "pred_result": [""]}
 {"asin": "B07VWTMWZG", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "aluminum"], "pred_result": [""]}
-{"asin": "B077FPPV59", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["ps", "aluminum"], "pred_result": []}
-{"asin": "B01IHCQ7U4", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminium"], "pred_result": [""]}
-{"asin": "B07Y32FV85", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone", "plastic"], "pred_result": [""]}
+{"asin": "B077FPPV59", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["ps", "aluminum"], "pred_result": [""]}
+{"asin": "B01IHCQ7U4", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminium"], "pred_result": []}
+{"asin": "B07Y32FV85", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone", "plastic"], "pred_result": ["silicone", ""]}
 {"asin": "B08D73ZKZ1", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": ["", "", "", ""]}
 {"asin": "B07CQP9MN7", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": []}
 {"asin": "B088K82TY8", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibers"], "pred_result": []}
 {"asin": "B07VYWZMRL", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood"], "pred_result": ["", ""]}
 {"asin": "B083M3ZS4C", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "animal hair"], "pred_result": [""]}
 {"asin": "B081J16N8R", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": [""]}
-{"asin": "B01N9JKHPD", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibre"], "pred_result": ["", "", ""]}
+{"asin": "B01N9JKHPD", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibre"], "pred_result": []}
 {"asin": "B075L5NPWS", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["cotton"], "pred_result": []}
 {"asin": "B01N0JMK1I", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": []}
 {"asin": "B079DR2PYS", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", "", ""]}
 {"asin": "B07Y9XS5L6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "metal"], "pred_result": []}
-{"asin": "B083FGH51Z", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber", "plastic"], "pred_result": ["", ""]}
-{"asin": "B08DFKDK1V", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["", "", "", "", "", "", "", ""]}
+{"asin": "B083FGH51Z", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber", "plastic"], "pred_result": ["plastic", "", ""]}
+{"asin": "B08DFKDK1V", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["silicone", "silicone", "silicone", "silicone", "silicone", "silicone", "silicone", ""]}
 {"asin": "B07P8LVHSF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
 {"asin": "B01NAB231Q", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "sponge"], "pred_result": [""]}
 {"asin": "B07Q6RMHX7", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": [""]}
 {"asin": "B07FKRC99Z", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", "", ""]}
 {"asin": "B075S4GPHH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "plastic", "bamboo"], "pred_result": ["", "", ""]}
-{"asin": "B07KB1HV7S", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polypropylene"], "pred_result": []}
+{"asin": "B07KB1HV7S", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polypropylene"], "pred_result": ["", ""]}
 {"asin": "B08B8VTD78", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood"], "pred_result": [""]}
 {"asin": "B07GF1JJSH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum"], "pred_result": [""]}
-{"asin": "B07JZ4WG4W", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", ""]}
-{"asin": "B06Y2R63D6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair", "silicone", "bamboo"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07JZ4WG4W", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": []}
+{"asin": "B06Y2R63D6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair", "silicone", "bamboo"], "pred_result": ["", ""]}
 {"asin": "B00CE617VO", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
 {"asin": "B085NG5X4K", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["microfiber"], "pred_result": ["", ""]}
 {"asin": "B07PG1CTSK", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "fiber"], "pred_result": []}
@@ -118,34 +118,34 @@
 {"asin": "B075S543DR", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "cotton", "plastic", "bamboo"], "pred_result": ["", ""]}
 {"asin": "B07QM5DM46", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "synthetic fiber", "birch", "animal hair", "wood"], "pred_result": ["", ""]}
 {"asin": "B088CWK9RP", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["birch", "corn silk fiber"], "pred_result": [""]}
-{"asin": "B07MH1KHJ2", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": ["", "", ""]}
+{"asin": "B07MH1KHJ2", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": [""]}
 {"asin": "B076DXT3C2", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood", "alloy"], "pred_result": [""]}
 {"asin": "B07SZQ53NX", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "elastic", "polypropylene", "fiber hair"], "pred_result": [""]}
 {"asin": "B07HMTDQF9", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": []}
-{"asin": "B08FGYNNKX", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": ["", ""]}
+{"asin": "B08FGYNNKX", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": [""]}
 {"asin": "B0774181RQ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hairs"], "pred_result": ["", "", ""]}
 {"asin": "B07P5Z3FPB", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic"], "pred_result": [""]}
-{"asin": "B07CKSLFB5", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair", "nylon"], "pred_result": [""]}
+{"asin": "B07CKSLFB5", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair", "nylon"], "pred_result": []}
 {"asin": "B07SN2ZS6J", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood"], "pred_result": ["", "", ""]}
 {"asin": "B082VRHTX6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": [""]}
 {"asin": "B07J2CKPFT", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "alloy"], "pred_result": [""]}
 {"asin": "B00HWR1PQC", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "nylon", "bamboo"], "pred_result": ["", ""]}
-{"asin": "B0836JPBRX", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "wood"], "pred_result": [""]}
-{"asin": "B07WMT58JN", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic"], "pred_result": ["", ""]}
+{"asin": "B0836JPBRX", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "wood"], "pred_result": ["", ""]}
+{"asin": "B07WMT58JN", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic"], "pred_result": ["plastic", ""]}
 {"asin": "B07X2WNB7R", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair", "synthetic fiber"], "pred_result": ["", ""]}
 {"asin": "B07NJ4M2LN", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["acrylic", "aluminum"], "pred_result": [""]}
 {"asin": "B072BGX6JD", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": [""]}
-{"asin": "B072KRHRN6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood"], "pred_result": ["", ""]}
+{"asin": "B072KRHRN6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood"], "pred_result": ["", "", ""]}
 {"asin": "B08CZKD1RB", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic"], "pred_result": ["", "", "", ""]}
 {"asin": "B075D51NNG", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber hair", "plastic"], "pred_result": [""]}
 {"asin": "B01MA39MKG", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibers", "goat hairs"], "pred_result": []}
-{"asin": "B085GJKCSX", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["", ""]}
+{"asin": "B085GJKCSX", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": []}
 {"asin": "B0792WRV8L", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
 {"asin": "B08D778S9K", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": ["", "", "", ""]}
-{"asin": "B08B4P97R2", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["stainless steel", "silicone"], "pred_result": ["", ""]}
+{"asin": "B08B4P97R2", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["stainless steel", "silicone"], "pred_result": ["silicone", "silicone"]}
 {"asin": "B07NS8B99L", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "silicone"], "pred_result": [""]}
 {"asin": "B00K2RFAX8", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic"], "pred_result": [""]}
-{"asin": "B085BY5437", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber"], "pred_result": ["", "", "", ""]}
+{"asin": "B085BY5437", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B08CSMKFVJ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["", ""]}
 {"asin": "B07TYDG8FW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["steel", "metal"], "pred_result": [""]}
 {"asin": "B073P2YQ8Z", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": []}
@@ -156,76 +156,76 @@
 {"asin": "B083JVCJTS", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": []}
 {"asin": "B07JGNYZC5", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibers", "wood"], "pred_result": [""]}
 {"asin": "B083M51HB3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic plastic"], "pred_result": [""]}
-{"asin": "B074VYMGLF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["goat hair"], "pred_result": [""]}
+{"asin": "B074VYMGLF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["goat hair"], "pred_result": []}
 {"asin": "B089D2YTJV", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["microfiber", "wood"], "pred_result": [""]}
-{"asin": "B01FJUW9CC", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["", "", ""]}
+{"asin": "B01FJUW9CC", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["silicone", ""]}
 {"asin": "B071XVHL7B", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic", "nylon"], "pred_result": [""]}
 {"asin": "B08C9GL8Z6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
-{"asin": "B084RFZCKW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": [""]}
-{"asin": "B071NVN8NF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["", "", "", ""]}
+{"asin": "B084RFZCKW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": []}
+{"asin": "B071NVN8NF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["", "silicone", "", "silicone"]}
 {"asin": "B07H8THMBN", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": ["", ""]}
 {"asin": "B075L9HJDD", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["cotton"], "pred_result": []}
-{"asin": "B0821HY85Y", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair"], "pred_result": []}
+{"asin": "B0821HY85Y", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair"], "pred_result": [""]}
 {"asin": "B089RY1KDW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": [""]}
 {"asin": "B087F7ZSKN", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
-{"asin": "B07T9N2BM3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic"], "pred_result": ["", ""]}
-{"asin": "B08FCDN2LY", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic"], "pred_result": ["", ""]}
-{"asin": "B07K2N14SH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polypropylene", "fiber", "plastic"], "pred_result": [""]}
+{"asin": "B07T9N2BM3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic"], "pred_result": [""]}
+{"asin": "B08FCDN2LY", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B07K2N14SH", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polypropylene", "fiber", "plastic"], "pred_result": ["", ""]}
 {"asin": "B087D2J9BN", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
-{"asin": "B07BT7RGPK", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["microfiber", "plastic"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07BT7RGPK", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["microfiber", "plastic"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B07YBTB3R9", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", "", ""]}
-{"asin": "B07N39J7LP", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
+{"asin": "B07N39J7LP", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", ""]}
 {"asin": "B075KYKLXR", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair", "wood", "nylon"], "pred_result": ["", ""]}
 {"asin": "B01N59LJOP", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "plastic", "bamboo"], "pred_result": ["", "", ""]}
 {"asin": "B001KYVOJQ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "cotton", "plastic", "bamboo"], "pred_result": ["", ""]}
 {"asin": "B074MQSW5S", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polypropylene", "fiber", "plastic"], "pred_result": [""]}
 {"asin": "B07S91D6J5", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hairs"], "pred_result": [""]}
-{"asin": "B083YXFGBC", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", ""]}
-{"asin": "B07L1WVN2K", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", ""]}
+{"asin": "B083YXFGBC", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
+{"asin": "B07L1WVN2K", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
 {"asin": "B07SGX74J6", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["metallic alloy", "metal"], "pred_result": []}
-{"asin": "B087F5S96X", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber"], "pred_result": ["", ""]}
+{"asin": "B087F5S96X", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber"], "pred_result": ["", "", ""]}
 {"asin": "B00BBKYIAG", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum", "bamboo"], "pred_result": [""]}
 {"asin": "B07WDHNLRC", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "fiber"], "pred_result": ["", ""]}
 {"asin": "B01KMM7PA8", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": [], "pred_result": ["", "", ""]}
 {"asin": "B076C6V8Q4", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", ""]}
 {"asin": "B076DZFY82", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair"], "pred_result": ["", ""]}
-{"asin": "B072LD256N", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "ps", "synthetic hair"], "pred_result": ["", "", ""]}
+{"asin": "B072LD256N", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "ps", "synthetic hair"], "pred_result": ["", ""]}
 {"asin": "B086BW6SZ9", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber hair", "delicate metal"], "pred_result": ["", ""]}
 {"asin": "B07CVKZHLG", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": ["", ""]}
-{"asin": "B07GVDYCGD", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["acrylic", "silicone"], "pred_result": ["", "", ""]}
+{"asin": "B07GVDYCGD", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["acrylic", "silicone"], "pred_result": ["silicone", "", "silicone"]}
 {"asin": "B08BLBMRQT", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber hair"], "pred_result": [""]}
 {"asin": "B085HS66MF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibers"], "pred_result": ["", ""]}
-{"asin": "B07KYJBLZF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wool"], "pred_result": ["", "", "", ""]}
+{"asin": "B07KYJBLZF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wool"], "pred_result": [""]}
 {"asin": "B088R7R448", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "nylon"], "pred_result": []}
-{"asin": "B08C343KCC", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["", "", "", ""]}
-{"asin": "B06XNRB4QW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber hair"], "pred_result": []}
+{"asin": "B08C343KCC", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": ["silicone", "", "silicone"]}
+{"asin": "B06XNRB4QW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber hair"], "pred_result": [""]}
 {"asin": "B07W6VN321", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": [""]}
 {"asin": "B083BGSJQF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["hardwood"], "pred_result": []}
-{"asin": "B07R4PVW28", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair", "wood", "alloy"], "pred_result": [""]}
+{"asin": "B07R4PVW28", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair", "wood", "alloy"], "pred_result": []}
 {"asin": "B089VTTVNB", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["cotton", "plastic"], "pred_result": [""]}
 {"asin": "B016TYF5U0", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["copper", "wood"], "pred_result": ["", ""]}
 {"asin": "B07RH7HPMB", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["metallic alloy"], "pred_result": [""]}
 {"asin": "B07DVXQKPV", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
-{"asin": "B081HXTGRQ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": ["", ""]}
+{"asin": "B081HXTGRQ", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon"], "pred_result": []}
 {"asin": "B07XPCJCYW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["metal"], "pred_result": ["", ""]}
 {"asin": "B07W41895X", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
 {"asin": "B01EO2KLE4", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": [""]}
 {"asin": "B07VWRXQF9", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "metal", "fiber", "aluminum"], "pred_result": [""]}
-{"asin": "B08C5M26DL", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair"], "pred_result": ["", ""]}
+{"asin": "B08C5M26DL", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair"], "pred_result": []}
 {"asin": "B07TSC4JXY", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum"], "pred_result": [""]}
 {"asin": "B083BVSD1K", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone", "aluminum", "wood"], "pred_result": [""]}
 {"asin": "B089NJ8D63", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibers", "copper", "plastic"], "pred_result": [""]}
 {"asin": "B0821KSB2Y", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic hair"], "pred_result": []}
 {"asin": "B01C6VCWOM", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": [""]}
 {"asin": "B08D6QBTBX", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood", "nylon"], "pred_result": ["", "", "", ""]}
-{"asin": "B086MGDRH4", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood"], "pred_result": [""]}
+{"asin": "B086MGDRH4", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "wood"], "pred_result": []}
 {"asin": "B004TSFBJO", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum"], "pred_result": ["", "", ""]}
-{"asin": "B082XCP5K3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "metal", "synthetic fiber", "wood"], "pred_result": []}
+{"asin": "B082XCP5K3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic", "metal", "synthetic fiber", "wood"], "pred_result": [""]}
 {"asin": "B08CXMXKNW", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["silicone"], "pred_result": []}
 {"asin": "B07T34PRMD", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["flock", "plastic", "nylon"], "pred_result": [""]}
-{"asin": "B01GKU9AO0", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["goat hair"], "pred_result": ["", "", ""]}
+{"asin": "B01GKU9AO0", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["goat hair"], "pred_result": ["", ""]}
 {"asin": "B0773PWTY3", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wood"], "pred_result": [""]}
-{"asin": "B01IB8W1AE", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic brush hair", "wood"], "pred_result": ["", ""]}
+{"asin": "B01IB8W1AE", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic brush hair", "wood"], "pred_result": [""]}
 {"asin": "B07SSB73DF", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B07WCFQK92", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["nylon", "metal", "synthetic hair"], "pred_result": [""]}
 {"asin": "B07RFHBHVP", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fibers"], "pred_result": [""]}
@@ -238,7 +238,7 @@
 {"asin": "B07M7ZTS9Q", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber", "plastic"], "pred_result": []}
 {"asin": "B01FR2CQJ8", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["aluminum"], "pred_result": []}
 {"asin": "B07T2H2RMG", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fiber"], "pred_result": [""]}
-{"asin": "B0783H17DG", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", ""]}
+{"asin": "B0783H17DG", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["synthetic fiber"], "pred_result": ["", "", ""]}
 {"asin": "B07XG1RHGB", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["wool", "wood"], "pred_result": []}
 {"asin": "B07K2N95SB", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["polypropylene", "fiber", "plastic"], "pred_result": [""]}
 {"asin": "B004TSFBNK", "attribute": "Material", "product_type": "cosmetic_brush", "gt_result": ["fibers"], "pred_result": [""]}
@@ -246,19 +246,19 @@
 {"asin": "B083JNM9TX", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["charcoal", "xylitol"], "pred_result": []}
 {"asin": "B07DYTRG8T", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["stainless steel"], "pred_result": [""]}
 {"asin": "B07CGN1YC1", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["cotton"], "pred_result": []}
-{"asin": "B089B526ZL", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["stainless steel"], "pred_result": [""]}
+{"asin": "B089B526ZL", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["stainless steel"], "pred_result": []}
 {"asin": "B07WXKWDK8", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["glass", "silk"], "pred_result": [""]}
 {"asin": "B087PWXQ79", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["nylon"], "pred_result": []}
 {"asin": "B00T3NMNZK", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["plastic"], "pred_result": ["", ""]}
 {"asin": "B08CBYYYVN", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["paper", "wheat", "corn"], "pred_result": ["", ""]}
-{"asin": "B087F4HNP3", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["nylon"], "pred_result": ["", ""]}
-{"asin": "B08JQ8D77K", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["plastic"], "pred_result": [""]}
-{"asin": "B08JG5WYC9", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B087F4HNP3", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["nylon"], "pred_result": [""]}
+{"asin": "B08JQ8D77K", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["plastic"], "pred_result": []}
+{"asin": "B08JG5WYC9", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B07TFJH43X", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["silk"], "pred_result": ["", ""]}
 {"asin": "B08CMZD85G", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["polyester", "polyethylene"], "pred_result": []}
 {"asin": "B08B8PR2D7", "attribute": "Material", "product_type": "dental_floss", "gt_result": ["steel", "plastic", "nylon"], "pred_result": [""]}
-{"asin": "B08DHDBTXK", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cotton", "linen"], "pred_result": []}
-{"asin": "B07SMBY3MS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate", "plastic", "wood"], "pred_result": ["", ""]}
+{"asin": "B08DHDBTXK", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cotton", "linen"], "pred_result": [""]}
+{"asin": "B07SMBY3MS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate", "plastic", "wood"], "pred_result": ["", "", ""]}
 {"asin": "B06XXVYZH3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B089SD1RKR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon", "metal"], "pred_result": [""]}
 {"asin": "B087QFJNNX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
@@ -267,15 +267,15 @@
 {"asin": "B0824VLPND", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["chiffon", "silk"], "pred_result": []}
 {"asin": "B07PHWCMD1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel", "cotton"], "pred_result": [""]}
 {"asin": "B01MZ3SXWG", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy"], "pred_result": ["", "", ""]}
-{"asin": "B07TMQJSMN", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B07TMQJSMN", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B07P45N34H", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": []}
-{"asin": "B08CVSFMQ1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": [""]}
-{"asin": "B07SBY7R66", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", ""]}
+{"asin": "B08CVSFMQ1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": []}
+{"asin": "B07SBY7R66", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B00XBEYNMI", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": [""]}
 {"asin": "B07NTZ3TJM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": []}
-{"asin": "B07TMND87N", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07TMND87N", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B00USDPV1C", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", ""]}
-{"asin": "B06ZZG459P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": ["", "", ""]}
+{"asin": "B06ZZG459P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": ["", ""]}
 {"asin": "B07NQBBV41", "attribute": "Material", "product_type": "hair_clip", "gt_result": [], "pred_result": []}
 {"asin": "B07VBF7TYG", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["brass", "pearl"], "pred_result": [""]}
 {"asin": "B07QR1WC2F", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
@@ -283,15 +283,15 @@
 {"asin": "B083K1Y114", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel", "plastic"], "pred_result": ["", ""]}
 {"asin": "B085RR9B46", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystals", "pearls"], "pred_result": [""]}
 {"asin": "B07WJJY2V5", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": [""]}
-{"asin": "B07V5DLJD3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal", "pearl"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B07V5DLJD3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal", "pearl"], "pred_result": ["", "", ""]}
 {"asin": "B07KJGTP1J", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B07NXSXK9P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel", "plastic"], "pred_result": [""]}
-{"asin": "B07CMW1R6J", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", ""]}
-{"asin": "B07L78TFJB", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "alloy"], "pred_result": ["", "", ""]}
+{"asin": "B07CMW1R6J", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B07L78TFJB", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "alloy"], "pred_result": [""]}
 {"asin": "B071DQVGY2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["wire", "cloth", "synthetic wig", "pearl"], "pred_result": [""]}
 {"asin": "B07XJNCWQS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B0727PS2PY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "ribbon", "rhinestones", "glitter"], "pred_result": []}
-{"asin": "B07Y34YM59", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["aluminum", "metal"], "pred_result": ["", ""]}
+{"asin": "B07Y34YM59", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["aluminum", "metal"], "pred_result": [""]}
 {"asin": "B01M08J8O7", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal"], "pred_result": [""]}
 {"asin": "B07Y9WN2NQ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel", "metal"], "pred_result": []}
 {"asin": "B07KQ4G57D", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "pearl"], "pred_result": [""]}
@@ -303,7 +303,7 @@
 {"asin": "B07VC9F8DL", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B07G7XTRMR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": [""]}
 {"asin": "B00U9RQEFO", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
-{"asin": "B089GT76S5", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon", "chiffon", "metal"], "pred_result": ["", "", "", ""]}
+{"asin": "B089GT76S5", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon", "chiffon", "metal"], "pred_result": ["chiffon", "chiffon", ""]}
 {"asin": "B0822G7Y32", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": []}
 {"asin": "B07MV4HT5K", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["iron", "plastic"], "pred_result": [""]}
 {"asin": "B088ZKXWC4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": [""]}
@@ -316,25 +316,25 @@
 {"asin": "B00SJXX3OA", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": ["", ""]}
 {"asin": "B085764WPK", "attribute": "Material", "product_type": "hair_clip", "gt_result": [], "pred_result": ["", ""]}
 {"asin": "B08925ZDK2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["aluminum", "shiny", "metal"], "pred_result": ["", ""]}
-{"asin": "B07QD3JJ5C", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", ""]}
+{"asin": "B07QD3JJ5C", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B088BRQM81", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["stainless steel", "plastic"], "pred_result": [""]}
 {"asin": "B0735JJ75N", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestones", "metal"], "pred_result": [""]}
 {"asin": "B06XNSL5MF", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
-{"asin": "B07SMXP5LM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", ""]}
-{"asin": "B08DNBKGW9", "attribute": "Material", "product_type": "hair_clip", "gt_result": [], "pred_result": ["", "", "", ""]}
+{"asin": "B07SMXP5LM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B08DNBKGW9", "attribute": "Material", "product_type": "hair_clip", "gt_result": [], "pred_result": [""]}
 {"asin": "B07HFHYN77", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy"], "pred_result": [""]}
 {"asin": "B0721BDGJQ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["eva"], "pred_result": [""]}
 {"asin": "B087GDZSG3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B081XLMRDP", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone", "metal"], "pred_result": []}
 {"asin": "B08F23ZCLS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": []}
 {"asin": "B08881CTB9", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["faux leather"], "pred_result": [""]}
-{"asin": "B01H50VVNW", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "alloy"], "pred_result": ["", ""]}
+{"asin": "B01H50VVNW", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "alloy"], "pred_result": ["metal alloy", ""]}
 {"asin": "B0827M91Q5", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": []}
 {"asin": "B08FMS9LMX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B084WQNC53", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "alloy", "pearl"], "pred_result": ["", ""]}
 {"asin": "B0823VMDTP", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "steel"], "pred_result": [""]}
 {"asin": "B0752Y9ZHK", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
-{"asin": "B07HMLD7BH", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", ""]}
+{"asin": "B07HMLD7BH", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B010G73BCU", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B08627JDWX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "pearl"], "pred_result": []}
 {"asin": "B07CPTQF5C", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
@@ -344,19 +344,19 @@
 {"asin": "B085CBQH4G", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["horn"], "pred_result": []}
 {"asin": "B0818TH68Y", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel", "plastic"], "pred_result": ["", "", ""]}
 {"asin": "B089GHJ222", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal"], "pred_result": []}
-{"asin": "B07R14ZTH1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", "", ""]}
+{"asin": "B07R14ZTH1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", ""]}
 {"asin": "B08CC2T2SR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", ""]}
 {"asin": "B08D9B2Q6T", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestones"], "pred_result": [""]}
 {"asin": "B0143IXON4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystals"], "pred_result": [""]}
-{"asin": "B07SYNH2D7", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B07SYNH2D7", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B081VD6KWH", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["polyester"], "pred_result": [""]}
 {"asin": "B07RS2BYQK", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": [""]}
 {"asin": "B08G162DBM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B085LBFK1P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal"], "pred_result": ["", "", ""]}
 {"asin": "B08C4V6T2D", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
-{"asin": "B081ZT8S6D", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": ["", ""]}
+{"asin": "B081ZT8S6D", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": [""]}
 {"asin": "B01KJVR6PG", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": [""]}
-{"asin": "B07R9YFWXY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": ["", ""]}
+{"asin": "B07R9YFWXY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": [""]}
 {"asin": "B00VONQQF0", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": [""]}
 {"asin": "B07ZNQ5C4X", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone"], "pred_result": [""]}
 {"asin": "B07W843VGZ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
@@ -368,28 +368,28 @@
 {"asin": "B06XRHGG3W", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "sequins"], "pred_result": [""]}
 {"asin": "B07RTBG9SY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "pearl"], "pred_result": []}
 {"asin": "B07FJ6659J", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metallic", "plastic"], "pred_result": []}
-{"asin": "B08D8Y9L5J", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal"], "pred_result": [""]}
+{"asin": "B08D8Y9L5J", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal"], "pred_result": []}
 {"asin": "B00L0EOGIW", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "alloy"], "pred_result": ["", ""]}
 {"asin": "B00TFVSO94", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", ""]}
 {"asin": "B07D28YH5V", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["aluminum", "metal"], "pred_result": [""]}
 {"asin": "B06XFWSXM3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": []}
-{"asin": "B07Q71BK35", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
+{"asin": "B07Q71BK35", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B07T6GBGLV", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy", "pearl"], "pred_result": [""]}
-{"asin": "B074P8V4ZV", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestones", "metal"], "pred_result": [""]}
+{"asin": "B074P8V4ZV", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestones", "metal"], "pred_result": ["", "", ""]}
 {"asin": "B086QHXFL3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B07F58VZX4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["lace", "net"], "pred_result": [""]}
-{"asin": "B081YHKTD9", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal", "pearl"], "pred_result": [""]}
+{"asin": "B081YHKTD9", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal", "pearl"], "pred_result": []}
 {"asin": "B07WRTNHRS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal", "pearl"], "pred_result": []}
 {"asin": "B07NL6K2HK", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B07H9C4MNY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["diamond"], "pred_result": [""]}
 {"asin": "B00LP2NV26", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "pearl"], "pred_result": [""]}
 {"asin": "B0764HRJ1D", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B0894DMHDF", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": []}
-{"asin": "B085DCK1RY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone", "pearl"], "pred_result": ["", ""]}
+{"asin": "B085DCK1RY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone", "pearl"], "pred_result": [""]}
 {"asin": "B07RGBMFPJ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "metal"], "pred_result": []}
 {"asin": "B07HXHJWZ3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["glass", "satin"], "pred_result": [""]}
-{"asin": "B07KCPM66L", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": ["", "", ""]}
-{"asin": "B07Q1NLFQ6", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B07KCPM66L", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": ["", ""]}
+{"asin": "B07Q1NLFQ6", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B0757QYSK4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel"], "pred_result": [""]}
 {"asin": "B07YZTK64Q", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B07VGZS77L", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": [""]}
@@ -398,23 +398,23 @@
 {"asin": "B08BJYWBKZ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["abs", "plastic", "metal"], "pred_result": []}
 {"asin": "B08C6XWLDK", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal"], "pred_result": []}
 {"asin": "B07QTZS6RQ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["silicone"], "pred_result": []}
-{"asin": "B0838Y3T8P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["flexible"], "pred_result": []}
+{"asin": "B0838Y3T8P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["flexible"], "pred_result": [""]}
 {"asin": "B07FFS6KVV", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
-{"asin": "B07RDHTDRM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
-{"asin": "B07LCH1QTB", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["aluminum", "metal", "alloy"], "pred_result": ["", ""]}
+{"asin": "B07RDHTDRM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
+{"asin": "B07LCH1QTB", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["aluminum", "metal", "alloy"], "pred_result": [""]}
 {"asin": "B07QKXZBC3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal"], "pred_result": []}
 {"asin": "B07Y9L68R9", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": []}
 {"asin": "B07TQ6BPJR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "pearl"], "pred_result": [""]}
 {"asin": "B0713QMPLM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": [""]}
 {"asin": "B07TRCCT1J", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "metal"], "pred_result": ["", ""]}
 {"asin": "B01EMYNCB8", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
-{"asin": "B07P32WJJV", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "pearl"], "pred_result": [""]}
+{"asin": "B07P32WJJV", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "pearl"], "pred_result": []}
 {"asin": "B07S35127R", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["elastic"], "pred_result": [""]}
-{"asin": "B07PPKZB94", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", "", ""]}
+{"asin": "B07PPKZB94", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["metal", "metal", ""]}
 {"asin": "B012HHBTJO", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["satin"], "pred_result": [""]}
 {"asin": "B00JQQV4AE", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": [""]}
 {"asin": "B07RVB6WV7", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal"], "pred_result": []}
-{"asin": "B07L9LVHFB", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "aluminum"], "pred_result": ["", "", "", ""]}
+{"asin": "B07L9LVHFB", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "aluminum"], "pred_result": ["rhinestone", "rhinestone", "", "rhinestone"]}
 {"asin": "B07CNKY8PV", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "metal", "feather"], "pred_result": [""]}
 {"asin": "B07ZK64XZJ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal", "pearl"], "pred_result": []}
 {"asin": "B07YKG8PLS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
@@ -423,14 +423,14 @@
 {"asin": "B08DM8N43S", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": [""]}
 {"asin": "B01M8MKNEI", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B010G7CCNE", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
-{"asin": "B08G4SCW3Z", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", ""]}
-{"asin": "B06XZ3Q7Y1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy", "pearl"], "pred_result": ["", ""]}
+{"asin": "B08G4SCW3Z", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B06XZ3Q7Y1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy", "pearl"], "pred_result": ["alloy", ""]}
 {"asin": "B078TZ8TYJ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": []}
-{"asin": "B0817QLT89", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": []}
+{"asin": "B0817QLT89", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": [""]}
 {"asin": "B083TN1TM1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["flexible"], "pred_result": ["", ""]}
-{"asin": "B07B88G6H2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": [""]}
+{"asin": "B07B88G6H2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": ["", "cellulose acetate"]}
 {"asin": "B07GC52ZKF", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": [""]}
-{"asin": "B08CKJ4ZRY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone", "pearl"], "pred_result": ["", ""]}
+{"asin": "B08CKJ4ZRY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone", "pearl"], "pred_result": []}
 {"asin": "B088D23S5P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "leather", "metal"], "pred_result": [""]}
 {"asin": "B07XVNJFNF", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel"], "pred_result": []}
 {"asin": "B089N88V5L", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
@@ -439,27 +439,27 @@
 {"asin": "B07Q4SFL2G", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal"], "pred_result": []}
 {"asin": "B07K217H7V", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy", "pearl"], "pred_result": [""]}
 {"asin": "B07RQT9SV4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["satin", "net", "alloy"], "pred_result": [""]}
-{"asin": "B07Q2HWBJX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": ["", ""]}
+{"asin": "B07Q2HWBJX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": [""]}
 {"asin": "B07SGJV39D", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "pearl"], "pred_result": []}
-{"asin": "B085T5526P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "metal"], "pred_result": [""]}
-{"asin": "B00NASWJ9O", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["horn"], "pred_result": []}
+{"asin": "B085T5526P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "metal"], "pred_result": []}
+{"asin": "B00NASWJ9O", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["horn"], "pred_result": ["", "", ""]}
 {"asin": "B07YWM1PCY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "glitter"], "pred_result": [""]}
-{"asin": "B07BB2LN6G", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B07BB2LN6G", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B08BFSYTHL", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": [""]}
 {"asin": "B07S9KSMJH", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl", "rhinestones", "glitter"], "pred_result": ["", ""]}
 {"asin": "B08G4SVFPQ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": [""]}
-{"asin": "B07FQFMTZN", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", "", ""]}
+{"asin": "B07FQFMTZN", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["metal", "", "metal"]}
 {"asin": "B07G71SQ4C", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["organza"], "pred_result": [""]}
 {"asin": "B08DCQ6K1X", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic"], "pred_result": []}
 {"asin": "B07RMWH9HY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "metal"], "pred_result": []}
-{"asin": "B0833WT1GR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "alloy"], "pred_result": ["", "", "", ""]}
+{"asin": "B0833WT1GR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "alloy"], "pred_result": ["", ""]}
 {"asin": "B07D4215Y5", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", ""]}
 {"asin": "B07VYW4T4V", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["copper"], "pred_result": ["", "", ""]}
 {"asin": "B07H5DHS3N", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B07V82GFG4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rubber", "steel", "plastic"], "pred_result": ["", "", ""]}
 {"asin": "B088Q5TDJ7", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "metal"], "pred_result": []}
-{"asin": "B07RPV2B7V", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", "", ""]}
-{"asin": "B082R17MJX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": [""]}
+{"asin": "B07RPV2B7V", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
+{"asin": "B082R17MJX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": []}
 {"asin": "B08DLT5GDG", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["fabric", "polyester"], "pred_result": []}
 {"asin": "B07C2PW7CM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", ""]}
 {"asin": "B07NY4BY8W", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", "", "", ""]}
@@ -472,16 +472,16 @@
 {"asin": "B074V4HR76", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": [""]}
 {"asin": "B085CCB6KF", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["horn"], "pred_result": []}
 {"asin": "B07R8XM927", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone", "alloy"], "pred_result": [""]}
-{"asin": "B081ZQTHCD", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", "", ""]}
+{"asin": "B081ZQTHCD", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["metal", "metal", "metal"]}
 {"asin": "B07Q9LJX58", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B08DBVJR4Z", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["faux leather"], "pred_result": [""]}
 {"asin": "B07SPZMWR8", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": []}
 {"asin": "B07H9J9T3C", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B082T3KBZD", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "pearl"], "pred_result": []}
-{"asin": "B07FQKLFWY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
-{"asin": "B086QH82SY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestones", "feather"], "pred_result": ["", ""]}
+{"asin": "B07FQKLFWY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
+{"asin": "B086QH82SY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestones", "feather"], "pred_result": [""]}
 {"asin": "B07KFKDR2T", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pewter"], "pred_result": []}
-{"asin": "B07XJWYWJ8", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", "", ""]}
+{"asin": "B07XJWYWJ8", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", ""]}
 {"asin": "B07K5BG86Q", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel", "chiffon", "silk"], "pred_result": [""]}
 {"asin": "B08279HC6K", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": []}
 {"asin": "B07WPSXY22", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
@@ -491,81 +491,81 @@
 {"asin": "B08DFLX81T", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rubber", "steel"], "pred_result": [""]}
 {"asin": "B07KFR74QG", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["abs plastic"], "pred_result": [""]}
 {"asin": "B07RK4Z2H2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", "", "", ""]}
-{"asin": "B0771JG5C8", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", "", ""]}
+{"asin": "B0771JG5C8", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B07FTC7ZX7", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel"], "pred_result": [""]}
-{"asin": "B087BQT8X9", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone"], "pred_result": [""]}
+{"asin": "B087BQT8X9", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone"], "pred_result": []}
 {"asin": "B07J5642Z1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B07L3R4LZC", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
-{"asin": "B07KSY1N33", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy"], "pred_result": ["", ""]}
+{"asin": "B07KSY1N33", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy"], "pred_result": ["alloy", ""]}
 {"asin": "B07SL34T1P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "alloy"], "pred_result": [""]}
-{"asin": "B089K3WZYZ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", ""]}
+{"asin": "B089K3WZYZ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B07HMJD65J", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B0827MM444", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": []}
 {"asin": "B07BNJ3PTQ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": ["", ""]}
-{"asin": "B06XWTKRJX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["glass", "metal", "alloy"], "pred_result": ["", "", ""]}
-{"asin": "B082SFX7F5", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
+{"asin": "B06XWTKRJX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["glass", "metal", "alloy"], "pred_result": ["", "metal alloy", ""]}
+{"asin": "B082SFX7F5", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B07LF8VPLX", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["glitter", "sequins"], "pred_result": [""]}
 {"asin": "B07ZVHY6D1", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["silver", "pearl"], "pred_result": [""]}
 {"asin": "B074YZ53FR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy"], "pred_result": []}
-{"asin": "B078RTZ4L4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
-{"asin": "B07TZVXTR2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": ["", ""]}
+{"asin": "B078RTZ4L4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
+{"asin": "B07TZVXTR2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": ["", "plastic"]}
 {"asin": "B0827L28C8", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["wood", "plastic", "metal"], "pred_result": []}
 {"asin": "B07H664BJR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "plastic", "metal"], "pred_result": [""]}
-{"asin": "B08937842N", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", ""]}
+{"asin": "B08937842N", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B07VBDRNSY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": [""]}
 {"asin": "B07QQBC468", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["resin", "alloy"], "pred_result": [""]}
 {"asin": "B0811XSHXQ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["wood"], "pred_result": []}
-{"asin": "B001A34JBM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rubber"], "pred_result": ["", "", ""]}
+{"asin": "B001A34JBM", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rubber"], "pred_result": ["", ""]}
 {"asin": "B07Q798Z1K", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B07Y862KVC", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["sequin", "glitter"], "pred_result": []}
 {"asin": "B07T2YYD8W", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal"], "pred_result": [""]}
 {"asin": "B07CYP5RZK", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cloth", "metal"], "pred_result": []}
 {"asin": "B07Y9JLC9C", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B0875H5GGS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "plastic"], "pred_result": [""]}
-{"asin": "B07P8VRNPD", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": ["", ""]}
+{"asin": "B07P8VRNPD", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": []}
 {"asin": "B087836BWK", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "plastic"], "pred_result": [""]}
 {"asin": "B07TCTQ6VL", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal"], "pred_result": [""]}
-{"asin": "B082YBTGHL", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pewter", "metal"], "pred_result": []}
+{"asin": "B082YBTGHL", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pewter", "metal"], "pred_result": [""]}
 {"asin": "B07MNKP77H", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "rhinestone", "steel", "alloy"], "pred_result": []}
 {"asin": "B00SP77GBQ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B08BJ5B3CC", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "alloy"], "pred_result": []}
-{"asin": "B07BJ4DT8G", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
+{"asin": "B07BJ4DT8G", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B07Y1R9WD9", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": ["", ""]}
 {"asin": "B088PMP4MR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B07P6JT36M", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
-{"asin": "B078N32QTR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": ["", ""]}
-{"asin": "B08D6DG4S2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "alloy", "pearl"], "pred_result": [""]}
-{"asin": "B084SPQ7F2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["beads", "ceramic"], "pred_result": ["", ""]}
+{"asin": "B078N32QTR", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": [""]}
+{"asin": "B08D6DG4S2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "alloy", "pearl"], "pred_result": ["crystal", "", "crystal"]}
+{"asin": "B084SPQ7F2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["beads", "ceramic"], "pred_result": [""]}
 {"asin": "B00OU9KWZU", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B0725YDHKP", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy"], "pred_result": [""]}
 {"asin": "B01FW00VF6", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["net"], "pred_result": [""]}
 {"asin": "B076ZMF8Y3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", ""]}
 {"asin": "B00QJBIN9Y", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone"], "pred_result": ["", "", ""]}
-{"asin": "B07NL6WB1T", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
+{"asin": "B07NL6WB1T", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B089R3D2YT", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic"], "pred_result": []}
 {"asin": "B07HYSNTFG", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B07DHMGX42", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
 {"asin": "B08GCHCPY3", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": ["", "", ""]}
 {"asin": "B071JX7FY4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": []}
 {"asin": "B00U9RQFI0", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
-{"asin": "B0839262ZN", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["elastic", "organza"], "pred_result": [""]}
+{"asin": "B0839262ZN", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["elastic", "organza"], "pred_result": []}
 {"asin": "B07CVTGS5H", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal"], "pred_result": ["", ""]}
 {"asin": "B077SQDPFG", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["aluminum", "metal"], "pred_result": []}
 {"asin": "B07VFTJHV7", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": [""]}
 {"asin": "B086MZJPN6", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["ribbon"], "pred_result": []}
-{"asin": "B08BWQ9BMP", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": [""]}
+{"asin": "B08BWQ9BMP", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": ["cellulose acetate"]}
 {"asin": "B08CH1FP8B", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "metal", "pearl"], "pred_result": []}
-{"asin": "B085394F4P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["abs plastic"], "pred_result": [""]}
-{"asin": "B018QOZVQ4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["resin", "plastic", "metal"], "pred_result": ["", ""]}
-{"asin": "B07H2XLVTS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy"], "pred_result": ["", ""]}
-{"asin": "B01AHIYH12", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "alloy", "pearl"], "pred_result": [""]}
+{"asin": "B085394F4P", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["abs plastic"], "pred_result": []}
+{"asin": "B018QOZVQ4", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["resin", "plastic", "metal"], "pred_result": [""]}
+{"asin": "B07H2XLVTS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy"], "pred_result": [""]}
+{"asin": "B01AHIYH12", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "alloy", "pearl"], "pred_result": []}
 {"asin": "B01MDLK9HO", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "alloy", "pearl"], "pred_result": ["", "", ""]}
-{"asin": "B005CSYTSY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": ["", ""]}
+{"asin": "B005CSYTSY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic", "metal"], "pred_result": [""]}
 {"asin": "B07P4D1QHB", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestones", "pearl"], "pred_result": []}
 {"asin": "B07FKVCDG2", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["satin"], "pred_result": [""]}
 {"asin": "B0878QXW2Q", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
-{"asin": "B089GSSN65", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": ["", ""]}
-{"asin": "B00937C8DS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": ["", ""]}
+{"asin": "B089GSSN65", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": [""]}
+{"asin": "B00937C8DS", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["cellulose acetate"], "pred_result": ["", "cellulose acetate"]}
 {"asin": "B07C91GWSN", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "swarovski"], "pred_result": [""]}
 {"asin": "B07WLMCDPQ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestones"], "pred_result": [""]}
 {"asin": "B00HDOYZ8O", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["flexible"], "pred_result": ["", ""]}
@@ -574,7 +574,7 @@
 {"asin": "B084VH7M49", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal", "pearl"], "pred_result": []}
 {"asin": "B08514V131", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["alloy"], "pred_result": []}
 {"asin": "B08BZLKQFB", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["crystal", "metal", "pearl"], "pred_result": [""]}
-{"asin": "B07DHDXFBZ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "metal"], "pred_result": ["", ""]}
+{"asin": "B07DHDXFBZ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["rhinestone", "metal"], "pred_result": [""]}
 {"asin": "B07RWCBHVQ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic"], "pred_result": []}
 {"asin": "B07X93TV72", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["steel", "metal"], "pred_result": [""]}
 {"asin": "B07WQZS6WP", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["pearl"], "pred_result": ["", "", "", ""]}
@@ -582,58 +582,58 @@
 {"asin": "B076SFK8X7", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["polyester", "lychee", "cloth"], "pred_result": []}
 {"asin": "B089P1WLGC", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B07V9LY44Z", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic", "pearl"], "pred_result": [""]}
-{"asin": "B07R1WTKPY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["brass", "alloy"], "pred_result": ["", "", ""]}
-{"asin": "B08CH9BMGJ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic"], "pred_result": [""]}
+{"asin": "B07R1WTKPY", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["brass", "alloy"], "pred_result": ["alloy", ""]}
+{"asin": "B08CH9BMGJ", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["acrylic"], "pred_result": []}
 {"asin": "B07Z8CZ957", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["flexible"], "pred_result": ["", ""]}
 {"asin": "B07Q2Q7S4B", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B075HYKM4S", "attribute": "Material", "product_type": "hair_clip", "gt_result": ["metallic", "plastic"], "pred_result": [""]}
 {"asin": "B083FK7H3W", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["velvet"], "pred_result": ["", ""]}
-{"asin": "B089S37NQ7", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "abs", "nylon"], "pred_result": ["", ""]}
+{"asin": "B089S37NQ7", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "abs", "nylon"], "pred_result": [""]}
 {"asin": "B004X80AQO", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["velcro cloth"], "pred_result": [""]}
-{"asin": "B07Z7SZGWP", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["grosgrain ribbon"], "pred_result": ["", ""]}
-{"asin": "B078WQBZRZ", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "satin"], "pred_result": ["", "", "", ""]}
+{"asin": "B07Z7SZGWP", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["grosgrain ribbon"], "pred_result": [""]}
+{"asin": "B078WQBZRZ", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "satin"], "pred_result": ["satin", "", "satin", "satin"]}
 {"asin": "B07W5XBG2X", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["nylon"], "pred_result": []}
 {"asin": "B079C2NJ3R", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "cotton blend"], "pred_result": []}
-{"asin": "B08F4WQPSY", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["grosgrain ribbon"], "pred_result": [""]}
-{"asin": "B082G4JS1K", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["tpu", "plastic"], "pred_result": ["", ""]}
+{"asin": "B08F4WQPSY", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["grosgrain ribbon"], "pred_result": []}
+{"asin": "B082G4JS1K", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["tpu", "plastic"], "pred_result": [""]}
 {"asin": "B089MBGCZ5", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber"], "pred_result": []}
-{"asin": "B085B2V7N6", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "plastic"], "pred_result": [""]}
+{"asin": "B085B2V7N6", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "plastic"], "pred_result": ["", ""]}
 {"asin": "B07TZPT6Q1", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["polyester yarn"], "pred_result": ["", ""]}
-{"asin": "B07SY85K4H", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber"], "pred_result": []}
+{"asin": "B07SY85K4H", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber"], "pred_result": [""]}
 {"asin": "B08B8HNR82", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["polyester", "chiffon", "satin"], "pred_result": [""]}
 {"asin": "B088BKMCXK", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "satin", "silk"], "pred_result": []}
 {"asin": "B07WCR7XLB", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["cotton"], "pred_result": [""]}
-{"asin": "B07RN1T9XS", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["velcro"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B01LX9CJ5W", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["silicone"], "pred_result": ["", "", "", ""]}
+{"asin": "B07RN1T9XS", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["velcro"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B01LX9CJ5W", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["silicone"], "pred_result": ["", "", "silicone"]}
 {"asin": "B082TVH7CH", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["tpu", "plastic"], "pred_result": ["", ""]}
-{"asin": "B082BKV85Q", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["velvet"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B082BKV85Q", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["velvet"], "pred_result": ["", "", "", ""]}
 {"asin": "B08GZW73CX", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["cotton"], "pred_result": [""]}
-{"asin": "B07WN2GQJH", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "cotton blend"], "pred_result": [""]}
+{"asin": "B07WN2GQJH", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "cotton blend"], "pred_result": ["cotton"]}
 {"asin": "B07JHWRFCB", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["synthetic hair"], "pred_result": ["", ""]}
 {"asin": "B07S7PMLJT", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "chiffon"], "pred_result": []}
 {"asin": "B08DYCYKJB", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "cotton"], "pred_result": [""]}
 {"asin": "B07TYMZQJ5", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["metallic silk"], "pred_result": ["", "", ""]}
-{"asin": "B08F71RX8V", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["silicone"], "pred_result": ["", "", ""]}
-{"asin": "B08BFRJ6VR", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["grosgrain ribbon"], "pred_result": ["", "", ""]}
+{"asin": "B08F71RX8V", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["silicone"], "pred_result": [""]}
+{"asin": "B08BFRJ6VR", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["grosgrain ribbon"], "pred_result": ["", ""]}
 {"asin": "B0849KRTNZ", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["plastic"], "pred_result": ["", "", ""]}
 {"asin": "B08BZM28R4", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["acrylic"], "pred_result": [""]}
 {"asin": "B07Z3C1597", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "pu leather"], "pred_result": []}
 {"asin": "B083DW2YZX", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "silk"], "pred_result": []}
 {"asin": "B08691S9K6", "attribute": "Material", "product_type": "hair_tie", "gt_result": ["rubber", "artificial flower", "pearl"], "pred_result": []}
 {"asin": "B00CC6XRXM", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
-{"asin": "B077YN3W8K", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", ""]}
+{"asin": "B077YN3W8K", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
 {"asin": "B01IBEQH76", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["microfiber"], "pred_result": []}
 {"asin": "B07856YZ5W", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", ""]}
 {"asin": "B004N3C2YM", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rayon", "cloth"], "pred_result": ["", ""]}
 {"asin": "B07BBQPLSP", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", ""]}
 {"asin": "B082QBFMT9", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", "", "", "", ""]}
 {"asin": "B07MT4HFFW", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "bamboo"], "pred_result": []}
-{"asin": "B01IQ94NL8", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": []}
+{"asin": "B01IQ94NL8", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
 {"asin": "B082LWFP34", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": [""]}
 {"asin": "B082DPDPBJ", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B07JQM8BR1", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["wood pulp", "cotton"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B0839BBB9P", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
-{"asin": "B082QB5PJZ", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B082QB5PJZ", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B000NNB35A", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton", "synthetic"], "pred_result": [""]}
 {"asin": "B07SB2WDHJ", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric", "cotton"], "pred_result": ["", ""]}
 {"asin": "B088PD3MNX", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", ""]}
@@ -644,10 +644,10 @@
 {"asin": "B06XXSKJTP", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": [""]}
 {"asin": "B07MYW25CJ", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B07MCMLDCL", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth"], "pred_result": []}
-{"asin": "B001AQIDE8", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth"], "pred_result": ["", ""]}
+{"asin": "B001AQIDE8", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth"], "pred_result": []}
 {"asin": "B00HJKP4QY", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": []}
 {"asin": "B07G4V2J1P", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": [""]}
-{"asin": "B07GS3Q39Q", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", "", "", ""]}
+{"asin": "B07GS3Q39Q", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", "", ""]}
 {"asin": "B07FMFNVTM", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton", "bamboo"], "pred_result": [""]}
 {"asin": "B07KGZJDVS", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
 {"asin": "B08399ZJ9B", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
@@ -655,15 +655,15 @@
 {"asin": "B0876WWR5C", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": []}
 {"asin": "B07QFQZH5H", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", ""]}
 {"asin": "B07J9Z291F", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", ""]}
-{"asin": "B071KZWX5V", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": [""]}
-{"asin": "B07G4R64K6", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", ""]}
+{"asin": "B071KZWX5V", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": []}
+{"asin": "B07G4R64K6", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", "", ""]}
 {"asin": "B01B4PI59C", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
 {"asin": "B07Y5J1F65", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth"], "pred_result": ["", ""]}
 {"asin": "B07RSWHWL3", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["gauze", "muslin", "cotton"], "pred_result": []}
 {"asin": "B082VPZRFP", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "cotton"], "pred_result": []}
 {"asin": "B0792HGQLX", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": ["", ""]}
 {"asin": "B073ZNR6FR", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth", "gel"], "pred_result": ["", "", "", "", "", "", "", ""]}
-{"asin": "B07T3ZGSN4", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": [""]}
+{"asin": "B07T3ZGSN4", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["", ""]}
 {"asin": "B07GW678X5", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": [""]}
 {"asin": "B008RJV0LO", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": [""]}
 {"asin": "B000NUSYGO", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
@@ -678,18 +678,18 @@
 {"asin": "B016A0DOT2", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["microfiber"], "pred_result": [""]}
 {"asin": "B07SC6NL67", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric", "cotton"], "pred_result": ["", ""]}
 {"asin": "B00U16LTMQ", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric", "cotton"], "pred_result": ["", ""]}
-{"asin": "B072LTDJ6J", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": []}
+{"asin": "B072LTDJ6J", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
 {"asin": "B010TRCR8G", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["suede", "polyester"], "pred_result": []}
-{"asin": "B07M6FL57T", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07M6FL57T", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B072QFKF36", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B085GH1NCM", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth"], "pred_result": [""]}
 {"asin": "B0839BLNFV", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B07MYHDLLT", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B082Q9YPV2", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", "", "", "", ""]}
-{"asin": "B07GSH4JL6", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": [""]}
-{"asin": "B074ST94WX", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["gel"], "pred_result": [""]}
+{"asin": "B07GSH4JL6", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", ""]}
+{"asin": "B074ST94WX", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["gel"], "pred_result": ["", ""]}
 {"asin": "B083M2G3GZ", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": [""]}
-{"asin": "B01M982K5N", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["bamboo"], "pred_result": [""]}
+{"asin": "B01M982K5N", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["bamboo"], "pred_result": ["", ""]}
 {"asin": "B071DVR1Z5", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth", "gel"], "pred_result": ["", "", "", "", "", "", "", ""]}
 {"asin": "B088LKXYTC", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": []}
 {"asin": "B000NNCQ38", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
@@ -698,32 +698,32 @@
 {"asin": "B015RYI9Z6", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth"], "pred_result": ["", "", ""]}
 {"asin": "B08BBJJ3BX", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", ""]}
 {"asin": "B07HJGJJXD", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber", "vinyl", "plastic"], "pred_result": [""]}
-{"asin": "B082DMN8M5", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B082DMN8M5", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B0746FWZCP", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", ""]}
-{"asin": "B088PDZH6S", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
+{"asin": "B088PDZH6S", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", ""]}
 {"asin": "B07MYVXJDD", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
-{"asin": "B082JFQ6WB", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B082JFQ6WB", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": ["", "", "", "", "", ""]}
 {"asin": "B07QK3SC1X", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B01N21ADIG", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["", ""]}
-{"asin": "B084FMPHLK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": [], "pred_result": ["", ""]}
-{"asin": "B07PPGBC7T", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "lycra"], "pred_result": ["", "", "", ""]}
+{"asin": "B084FMPHLK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": [], "pred_result": [""]}
+{"asin": "B07PPGBC7T", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "lycra"], "pred_result": ["", "", "polyester"]}
 {"asin": "B00WM9GYG6", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "rubber", "plastic"], "pred_result": [""]}
 {"asin": "B07QB6N54C", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "nylon"], "pred_result": []}
 {"asin": "B07FTJ326X", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": ["", ""]}
-{"asin": "B00JVBP8BK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["microfiber", "cloth"], "pred_result": [""]}
+{"asin": "B00JVBP8BK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["microfiber", "cloth"], "pred_result": []}
 {"asin": "B00CC6XRYG", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
-{"asin": "B08565S5NV", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": ["", "", "", ""]}
-{"asin": "B07GSFHF4T", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", "", "", ""]}
+{"asin": "B08565S5NV", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": ["", "", ""]}
+{"asin": "B07GSFHF4T", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", "", ""]}
 {"asin": "B0762NH576", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": ["", ""]}
 {"asin": "B07QDP9RW1", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B07STDRPMM", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
-{"asin": "B078SXLCY3", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
-{"asin": "B07Q3V91FB", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["", "", "", ""]}
+{"asin": "B078SXLCY3", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", ""]}
+{"asin": "B07Q3V91FB", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["", ""]}
 {"asin": "B082L59Z7R", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B07GS7RD35", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": [""]}
+{"asin": "B07GS7RD35", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", ""]}
 {"asin": "B0745QYWPK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": [""]}
 {"asin": "B01N6J36E6", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
-{"asin": "B01LVVDVR5", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["microfiber"], "pred_result": [""]}
+{"asin": "B01LVVDVR5", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["microfiber"], "pred_result": []}
 {"asin": "B00T6BK5JU", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "rayon", "cotton"], "pred_result": []}
 {"asin": "B07SSSL5NK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["", ""]}
 {"asin": "B08DJWKRDP", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": [""]}
@@ -731,128 +731,128 @@
 {"asin": "B01IULBOSC", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["wood pulp", "cotton"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B07CQVTZ3N", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["microfiber", "cotton", "bamboo"], "pred_result": []}
 {"asin": "B07QK31YMY", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
-{"asin": "B07MDRNK7X", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07MDRNK7X", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B07QGVVWDX", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", ""]}
 {"asin": "B082QB2ZFL", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", "", "", "", ""]}
-{"asin": "B07MFKQS3Q", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "lycra"], "pred_result": ["", "", "", ""]}
+{"asin": "B07MFKQS3Q", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "lycra"], "pred_result": ["", "", "polyester"]}
 {"asin": "B07Z8P9W62", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["waterproof lining"], "pred_result": [""]}
 {"asin": "B08BBQRBP3", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", ""]}
 {"asin": "B0746G1ZDW", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": [""]}
 {"asin": "B084H4J4PM", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": [""]}
-{"asin": "B07QXXY61H", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "vinyl", "cotton"], "pred_result": []}
-{"asin": "B07GSB74QN", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", "", ""]}
+{"asin": "B07QXXY61H", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester", "vinyl", "cotton"], "pred_result": [""]}
+{"asin": "B07GSB74QN", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", ""]}
 {"asin": "B073ZMMJ8P", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["gel"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B01DY8MLSI", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
-{"asin": "B07GS7Q6KC", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["elastic"], "pred_result": [""]}
-{"asin": "B01N6IRNDK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["bamboo"], "pred_result": ["", ""]}
+{"asin": "B07GS7Q6KC", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["elastic"], "pred_result": ["", ""]}
+{"asin": "B01N6IRNDK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["bamboo"], "pred_result": []}
 {"asin": "B08BBM4HJF", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", ""]}
 {"asin": "B015G3R9RW", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["elastic"], "pred_result": [""]}
-{"asin": "B000NNEPIM", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
+{"asin": "B000NNEPIM", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": []}
 {"asin": "B083M19PLL", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": [""]}
-{"asin": "B084TLG5LJ", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": [""]}
+{"asin": "B084TLG5LJ", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": ["", ""]}
 {"asin": "B07P88TPKM", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B07VPMS4TT", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": [""]}
 {"asin": "B07QCPBPK8", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", ""]}
 {"asin": "B082F1V5YN", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
-{"asin": "B07NMMJFKF", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["", "", "", ""]}
+{"asin": "B07NMMJFKF", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["", "polyester", ""]}
 {"asin": "B07TW4ZR4T", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth", "plastic"], "pred_result": ["", ""]}
 {"asin": "B00UV7G7MW", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": [""]}
 {"asin": "B01N5LEMIW", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": [""]}
-{"asin": "B07965KXDK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": []}
+{"asin": "B07965KXDK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", ""]}
 {"asin": "B07P88X49H", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B07HJGQ74W", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber", "vinyl", "plastic", "nylon"], "pred_result": [""]}
 {"asin": "B07FCQXDMC", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth", "gel"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B083M397MB", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": ["", "", ""]}
+{"asin": "B083M397MB", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric"], "pred_result": ["", ""]}
 {"asin": "B07QK31YMV", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B07MKHHVNT", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["bamboo"], "pred_result": ["", "", "", ""]}
 {"asin": "B078W9SH24", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", ""]}
-{"asin": "B07VRLNJ73", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": []}
-{"asin": "B07MYVXSDH", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", "", "", ""]}
+{"asin": "B07VRLNJ73", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": [""]}
+{"asin": "B07MYVXSDH", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B0745QYWPF", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": [""]}
 {"asin": "B07B4SL1P2", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": [""]}
-{"asin": "B07G4S4B1Y", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", ""]}
-{"asin": "B07GSH46Q5", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", "", "", ""]}
+{"asin": "B07G4S4B1Y", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": [""]}
+{"asin": "B07GSH46Q5", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", "", ""]}
 {"asin": "B0777TB8G7", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", "", ""]}
 {"asin": "B07N92R1JD", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
-{"asin": "B07NJ77M9F", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": [""]}
-{"asin": "B07N47TK8D", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["", "", "", ""]}
+{"asin": "B07NJ77M9F", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": []}
+{"asin": "B07N47TK8D", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["polyester", "", ""]}
 {"asin": "B0861P74T4", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["fabric", "cotton"], "pred_result": [""]}
-{"asin": "B07GS7PYRD", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": ["", ""]}
+{"asin": "B07GS7PYRD", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["pulp"], "pred_result": [""]}
 {"asin": "B000NNEPH8", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["silky", "cloth"], "pred_result": [""]}
 {"asin": "B07SX3HLVT", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": ["", ""]}
 {"asin": "B07QCP8R5Q", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", ""]}
 {"asin": "B07P75F8CG", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B00PKPAWPI", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cloth", "gel"], "pred_result": ["", "", "", "", "", "", "", ""]}
-{"asin": "B071L893LG", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": [""]}
-{"asin": "B00B4ZA244", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": [], "pred_result": [""]}
+{"asin": "B071L893LG", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["polyester"], "pred_result": []}
+{"asin": "B00B4ZA244", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": [], "pred_result": []}
 {"asin": "B07FTSXJH9", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B078WB74R9", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", ""]}
 {"asin": "B0839B4TQF", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B07MYWMKNK", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["rubber"], "pred_result": ["", "", "", ""]}
 {"asin": "B07DY9VX17", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["hypoallergenic inner liner", "cotton"], "pred_result": ["", ""]}
 {"asin": "B078SX8N7Y", "attribute": "Material", "product_type": "incontinence_protector", "gt_result": ["cotton"], "pred_result": ["", "", ""]}
-{"asin": "B078WKRQ6F", "attribute": "Material", "product_type": "lip_balm", "gt_result": ["stainless steel"], "pred_result": [""]}
+{"asin": "B078WKRQ6F", "attribute": "Material", "product_type": "lip_balm", "gt_result": ["stainless steel"], "pred_result": []}
 {"asin": "B07YSZ5NZJ", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": ["", ""]}
 {"asin": "B07MW81QSD", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["carbon steel", "wood"], "pred_result": []}
 {"asin": "B01NCO3IZY", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["plastic"], "pred_result": ["", "", "", "", ""]}
 {"asin": "B07YPP4TJD", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["rubber"], "pred_result": ["", ""]}
 {"asin": "B076449F9S", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": [""]}
-{"asin": "B004B8IDFQ", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["rubber"], "pred_result": ["", ""]}
+{"asin": "B004B8IDFQ", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["rubber"], "pred_result": []}
 {"asin": "B004N77JVY", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["aluminium", "chrome"], "pred_result": ["", ""]}
-{"asin": "B0885RVPV5", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": []}
+{"asin": "B0885RVPV5", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": [""]}
 {"asin": "B08K3NVLCH", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel", "plastic"], "pred_result": []}
 {"asin": "B07PW5YLNJ", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["chrome", "wood", "stainless steel", "alloy"], "pred_result": []}
 {"asin": "B08GMBX5LZ", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": []}
-{"asin": "B08BQSJD8D", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": ["", ""]}
+{"asin": "B08BQSJD8D", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": [""]}
 {"asin": "B085ZKVWJ5", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["metal"], "pred_result": []}
 {"asin": "B06WP8DLDJ", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["rosewood"], "pred_result": []}
 {"asin": "B07VRKPW3B", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": []}
-{"asin": "B07BN4VZZW", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": ["", "", ""]}
+{"asin": "B07BN4VZZW", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": ["", ""]}
 {"asin": "B000G0JZYQ", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["chrome"], "pred_result": [""]}
 {"asin": "B079B24F8D", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["cowhide"], "pred_result": [""]}
 {"asin": "B07JNC86SX", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["steel"], "pred_result": []}
 {"asin": "B08BLBKC7X", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": [""]}
 {"asin": "B01AUNKRJA", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["carbon steel", "stainless steel"], "pred_result": []}
 {"asin": "B0874C95PT", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": [""]}
-{"asin": "B07VHGDVSX", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["plastic"], "pred_result": [""]}
+{"asin": "B07VHGDVSX", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["plastic"], "pred_result": []}
 {"asin": "B0746DLLH1", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["steel"], "pred_result": []}
 {"asin": "B00IWOO5YS", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": [""]}
 {"asin": "B07HDLYZFN", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["platinum", "stainless steel", "nylon", "chrome"], "pred_result": [""]}
 {"asin": "B0778QCF78", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": []}
 {"asin": "B087GCJV9L", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["wood", "chrome"], "pred_result": []}
 {"asin": "B06XW94YNT", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": [""]}
-{"asin": "B07QMNG5RW", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": [], "pred_result": []}
+{"asin": "B07QMNG5RW", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": [], "pred_result": [""]}
 {"asin": "B005FVBCI8", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["chromium"], "pred_result": ["", ""]}
 {"asin": "B0777P6D7W", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": []}
-{"asin": "B075XFRNC8", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel", "aluminum"], "pred_result": [""]}
+{"asin": "B075XFRNC8", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel", "aluminum"], "pred_result": ["", ""]}
 {"asin": "B07P6DVN47", "attribute": "Material", "product_type": "manual_shaving_razor", "gt_result": ["stainless steel"], "pred_result": []}
 {"asin": "B07P6N3LH8", "attribute": "Material", "product_type": "skin_treatment_mask", "gt_result": ["silk"], "pred_result": []}
-{"asin": "B07NGYJMDF", "attribute": "Material", "product_type": "tea", "gt_result": ["sandalwood"], "pred_result": ["", "", ""]}
+{"asin": "B07NGYJMDF", "attribute": "Material", "product_type": "tea", "gt_result": ["sandalwood"], "pred_result": [""]}
 {"asin": "B07SQG4JHC", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", ""]}
-{"asin": "B00D3JA5V4", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["recycled paper"], "pred_result": ["", "", "", ""]}
+{"asin": "B00D3JA5V4", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["recycled paper"], "pred_result": ["", "paper", "paper", ""]}
 {"asin": "B01J6L9A6S", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": []}
-{"asin": "B0795XF9HY", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", ""]}
+{"asin": "B0795XF9HY", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", ""]}
 {"asin": "B07MJ9P5ZQ", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["resin", "plastic"], "pred_result": [""]}
-{"asin": "B0828ZKMN1", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper", "pulp", "wood"], "pred_result": ["", "", "", "", ""]}
+{"asin": "B0828ZKMN1", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper", "pulp", "wood"], "pred_result": ["paper"]}
 {"asin": "B0741RD8V5", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", ""]}
 {"asin": "B089M77J43", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
 {"asin": "B07Y1V32XG", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", ""]}
 {"asin": "B0854W1C2G", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", ""]}
-{"asin": "B00T87VN20", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["recycled paper"], "pred_result": ["", ""]}
+{"asin": "B00T87VN20", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["recycled paper"], "pred_result": [""]}
 {"asin": "B008UQVD9S", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", "", ""]}
 {"asin": "B07BX3LXFZ", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
 {"asin": "B089GF8G1D", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["silicone"], "pred_result": [""]}
 {"asin": "B004JUUTXA", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
 {"asin": "B07HLD2LCX", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", ""]}
-{"asin": "B081YPBCZ5", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", "", "", "", "", ""]}
-{"asin": "B089M78M9G", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper", "pvc"], "pred_result": ["", "", ""]}
+{"asin": "B081YPBCZ5", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["paper", "paper", "paper", "paper", ""]}
+{"asin": "B089M78M9G", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper", "pvc"], "pred_result": ["paper", "", "paper"]}
 {"asin": "B087D7FVGM", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", ""]}
 {"asin": "B074CRK54X", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
 {"asin": "B00JDL3QEO", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", ""]}
 {"asin": "B016U45X5Q", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper", "plastic"], "pred_result": [""]}
-{"asin": "B07BQV5RWW", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", "", "", ""]}
-{"asin": "B07XM4HPJ8", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", ""]}
-{"asin": "B07H1NFBMS", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
+{"asin": "B07BQV5RWW", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["paper", "tissue", "tissue", ""]}
+{"asin": "B07XM4HPJ8", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["paper", "paper"]}
+{"asin": "B07H1NFBMS", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": []}
 {"asin": "B07BF7LM9X", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", "", ""]}
 {"asin": "B06Y3JLQTR", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
 {"asin": "B07C9CV95M", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["recycled paper"], "pred_result": [""]}
@@ -860,6 +860,6 @@
 {"asin": "B00CPH3BDE", "attribute": "Material", "product_type": "toilet_paper", "gt_result": [], "pred_result": []}
 {"asin": "B085XBC4W3", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
 {"asin": "B07RZ2TM8K", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
-{"asin": "B0711FK533", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": ["", ""]}
+{"asin": "B0711FK533", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
 {"asin": "B01N4L7EWP", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
 {"asin": "B085TMRWLX", "attribute": "Material", "product_type": "toilet_paper", "gt_result": ["paper"], "pred_result": [""]}
