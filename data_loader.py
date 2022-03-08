@@ -165,11 +165,11 @@ def process_bert(data, tokenizer, vocab):
     return bert_inputs, grid_labels, grid_mask2d, pieces2word, dist_inputs, sent_length, entity_text
 
 
-def fill_vocab(vocab, dataset):
+def fill_vocab(dataset):
     entity_num = 0
     for instance in dataset:
-        for entity in instance["ner"]:
-            vocab.add_label(entity["type"])
+        # for entity in instance["ner"]:
+        #     vocab.add_label(entity["type"])
         entity_num += len(instance["ner"])
     return entity_num
 
@@ -184,10 +184,10 @@ def load_data_bert(dataset_dir, config):
 
     tokenizer = AutoTokenizer.from_pretrained(config.bert_name, cache_dir="./cache/")
 
-    vocab = Vocabulary()
-    train_ent_num = fill_vocab(vocab, train_data)
-    dev_ent_num = fill_vocab(vocab, dev_data)
-    test_ent_num = fill_vocab(vocab, test_data)
+    # vocab = Vocabulary()
+    train_ent_num = fill_vocab(train_data)
+    dev_ent_num = fill_vocab(dev_data)
+    test_ent_num = fill_vocab(test_data)
 
     table = pt.PrettyTable([config.dataset, 'sentences', 'entities'])
     table.add_row(['train', len(train_data), train_ent_num])
@@ -195,11 +195,11 @@ def load_data_bert(dataset_dir, config):
     table.add_row(['test', len(test_data), test_ent_num])
     config.logger.info("\n{}".format(table))
 
-    config.label_num = len(vocab.label2id)
-    config.vocab = vocab
+    # config.label_num = len(vocab.label2id)
+    # config.vocab = vocab
 
-    train_dataset = RelationDataset(*process_bert(train_data, tokenizer, vocab))
-    dev_dataset = RelationDataset(*process_bert(dev_data, tokenizer, vocab))
-    test_dataset = RelationDataset(*process_bert(test_data, tokenizer, vocab))
+    train_dataset = RelationDataset(*process_bert(train_data, tokenizer, config.vocab))
+    dev_dataset = RelationDataset(*process_bert(dev_data, tokenizer, config.vocab))
+    test_dataset = RelationDataset(*process_bert(test_data, tokenizer, config.vocab))
     return train_dataset, dev_dataset, test_dataset
 

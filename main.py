@@ -186,6 +186,7 @@ if __name__ == '__main__':
     # **YD** add model_dir and dataset_dir to store/load model and load dataset
     parser.add_argument('--model_dir', type=str, required=True)
     parser.add_argument('--dataset_dir', type=str, required=True)
+    parser.add_argument('--att_list', type=eval, required=True, help='number of attributes from the model')
 
     args = parser.parse_args()
     os.makedirs(args.model_dir, exist_ok=True)
@@ -206,7 +207,18 @@ if __name__ == '__main__':
     # torch.backends.cudnn.benchmark = False
     # torch.backends.cudnn.deterministic = True
 
+    # **YD** confirm the number of classes/attributes before loading data
+    vocab = data_loader.Vocabulary()
+    for att in args.att_list:
+        vocab.add_label(att)
+    print(len(vocab.label2id))
+    print(vocab.label2id)
+    config.label_num = len(vocab.label2id)
+    config.vocab = vocab
+
     logger.info("Loading Data")
+
+    # **YD** loading data does not create the classes
     datasets = data_loader.load_data_bert(args.dataset_dir, config)
 
     train_loader, dev_loader, test_loader = (
