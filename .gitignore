@@ -3,3 +3,4 @@ cache
 log/*.txt
 *.json
 *.pt
+CRC*
